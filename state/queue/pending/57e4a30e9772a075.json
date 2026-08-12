@@ -1,0 +1,34 @@
+{
+  "fingerprint": "57e4a30e9772a075",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Galatasaray submit Martinelli bid - Thursday's gossip",
+  "full_caption": "Galatasaray submit Martinelli bid - Thursday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #cfc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#cfc",
+    "#nufc"
+  ],
+  "image_path": "out/57e4a30e9772a075_story.png",
+  "video_path": "out/57e4a30e9772a075_story.mp4",
+  "story": {
+    "title": "Galatasaray submit Martinelli bid - Thursday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwy42p7r00zo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-12T22:09:56+00:00",
+    "summary": "Arsenal have received a bid from Galatasaray for Gabriel Martinelli, Spain midfielder Martin Zubimendi could leave the Gunners for Chelsea and Newcastle push for Benfica defender Amar Dedic.",
+    "data": {
+      "headline": "GALATASARAY SUBMIT MARTINELLI BID",
+      "subhead": "Thursday's gossip",
+      "caption": "Galatasaray submit Martinelli bid - Thursday's gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "57e4a30e9772a075"
+  },
+  "queued_at": "2026-08-12T22:43:11.468506+00:00"
+}
