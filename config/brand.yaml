@@ -1,0 +1,55 @@
+# Visual + editorial identity. Everything the renderer and the caption writer
+# read about "who we are" lives here, so a rebrand is one file.
+
+handle: "@yourhandle"
+name: "Your Football Account"
+
+voice:
+  # Fed verbatim into the caption prompt. Be specific; vague adjectives
+  # produce vague captions.
+  persona: >
+    A fast, confident football news account. Writes like a well-sourced
+    reporter who is also a fan. Short declarative sentences. No hype words
+    that promise more than the source supports.
+  rules:
+    - "Lead with the fact, not the wind-up."
+    - "Never state a rumour as done. Use the tier language from the source map."
+    - "One idea per post. If it needs two, it is two posts."
+    - "No more than one emoji, and only when it carries meaning."
+    - "Never invent a quote, a fee, a medical, or a contract length."
+    - "British football vocabulary: fixture, side, keeper, table, on loan."
+  banned_phrases:
+    - "BREAKING" # reserved for tier-1 confirmed only, applied by code
+    - "You won't believe"
+    - "Let that sink in"
+    - "Thoughts?"
+
+palette:
+  bg: "#0B0F14"
+  bg_alt: "#131A22"
+  ink: "#FFFFFF"
+  ink_muted: "#93A1B0"
+  accent: "#00E07A"
+  accent_alt: "#FF3D57"
+  rail: "#1E2933"
+
+fonts:
+  # Ship real font files in assets/fonts/. The renderer falls back to PIL's
+  # default and warns loudly if these are missing, so output is never blank.
+  heavy: "assets/fonts/Inter-Black.ttf"
+  bold: "assets/fonts/Inter-Bold.ttf"
+  regular: "assets/fonts/Inter-Regular.ttf"
+
+canvas:
+  feed: [1080, 1350]   # 4:5 -- largest footprint in the IG feed
+  story: [1080, 1920]  # 9:16 -- Reels + TikTok
+
+hashtags:
+  # Kept small on purpose. Large blocks read as spam and do not move reach
+  # the way they did on older ranking models.
+  core: ["#football", "#soccer"]
+  pools:
+    transfer: ["#transfernews", "#transferwindow", "#deadlineday"]
+    result: ["#matchday", "#fulltime"]
+    rumour: ["#transferrumours"]
+  max_total: 6

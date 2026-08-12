@@ -1,0 +1,10 @@
+.env
+out/
+__pycache__/
+*.pyc
+.pytest_cache/
+assets/fonts/*.ttf
+assets/fonts/*.otf
+
+# state/ is deliberately NOT ignored -- the ledger has to survive between
+# ephemeral CI runs or the same story gets posted twice.

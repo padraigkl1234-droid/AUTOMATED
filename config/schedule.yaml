@@ -1,0 +1,46 @@
+# Four slots a day, chosen around when football audiences are actually awake
+# and when news breaks. Times are UTC; the GitHub Actions cron mirrors them.
+#
+# Each slot declares which content types it prefers. The pipeline picks the
+# highest-scoring available story matching those types, so a slot never
+# publishes an empty or off-format post.
+
+timezone: "UTC"
+
+slots:
+  - id: "morning_roundup"
+    at: "07:00"
+    prefers: ["transfer", "rumour"]
+    template: "transfer_card"
+    note: "Overnight business, caught before the commute."
+
+  - id: "midday_talking_point"
+    at: "12:00"
+    prefers: ["rumour", "feature"]
+    template: "quote_card"
+    note: "Lunch scroll. Opinion-shaped, invites replies."
+
+  - id: "evening_news"
+    at: "17:00"
+    prefers: ["transfer", "result"]
+    template: "transfer_card"
+    note: "Post-work peak, the biggest slot of the day."
+
+  - id: "night_results"
+    at: "22:00"
+    prefers: ["result", "transfer"]
+    template: "score_card"
+    note: "Full-time across Europe."
+
+# Breaking-news runs fire outside the slots when a tier-1 transfer lands.
+# Capped so a busy deadline day cannot flood the account.
+breaking:
+  enabled: true
+  min_score: 85
+  max_per_day: 3
+  cooldown_minutes: 45
+
+limits:
+  # Instagram enforces 100 API publishes / 24h / account. We stay well under.
+  max_posts_per_day: 8
+  min_minutes_between_posts: 45

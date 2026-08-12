@@ -1,0 +1,65 @@
+# Every source carries a reliability tier. The tier decides the language the
+# caption is allowed to use, so a weak source can never be rendered as fact.
+#
+# tier 1  -> confirmed / official. "Signs", "completed", "confirmed".
+# tier 2  -> strong reporting from an established outlet. "Set to", "agreed".
+# tier 3  -> aggregation / speculation. "Linked with", "reported interest".
+#
+# Only add feeds you are permitted to summarise and attribute. We publish
+# original wording and rendered graphics, never the source's copy or images.
+
+feeds:
+  - name: "BBC Sport Football"
+    url: "https://feeds.bbci.co.uk/sport/football/rss.xml"
+    tier: 1
+    attribution: "BBC Sport"
+
+  - name: "Guardian Football"
+    url: "https://www.theguardian.com/football/rss"
+    tier: 1
+    attribution: "The Guardian"
+
+  - name: "Sky Sports Football"
+    url: "https://www.skysports.com/rss/12040"
+    tier: 2
+    attribution: "Sky Sports"
+
+  - name: "ESPN Soccer"
+    url: "https://www.espn.com/espn/rss/soccer/news"
+    tier: 2
+    attribution: "ESPN"
+
+# Competitions pulled from football-data.org for results and fixtures.
+competitions:
+  - code: "PL"
+    name: "Premier League"
+    weight: 1.0
+  - code: "CL"
+    name: "Champions League"
+    weight: 1.0
+  - code: "PD"
+    name: "La Liga"
+    weight: 0.8
+  - code: "SA"
+    name: "Serie A"
+    weight: 0.7
+  - code: "BL1"
+    name: "Bundesliga"
+    weight: 0.7
+  - code: "FL1"
+    name: "Ligue 1"
+    weight: 0.6
+
+# Clubs whose stories get a scoring boost -- audience size is not evenly
+# distributed and the feed should reflect that.
+big_clubs:
+  weight_2_0:
+    ["Real Madrid", "Barcelona", "Manchester United", "Liverpool", "Arsenal"]
+  weight_1_5:
+    ["Manchester City", "Chelsea", "Bayern Munich", "Paris Saint-Germain",
+     "Tottenham", "Juventus", "AC Milan", "Inter"]
+
+# Words that mark a story as transfer business.
+transfer_keywords:
+  ["transfer", "signing", "signs", "medical", "bid", "fee", "agreement",
+   "personal terms", "loan", "release clause", "contract", "deal", "move"]
