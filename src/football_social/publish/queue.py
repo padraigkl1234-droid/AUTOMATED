@@ -23,10 +23,18 @@ log = logging.getLogger(__name__)
 
 
 class Queue:
+    """Review queue rooted at a state directory.
+
+    `root` is the state base, not the queue folder, so a queue and the rate
+    governor it feeds always share one directory. Passing a temp path
+    therefore isolates *all* of a queue's writes -- otherwise marking a post
+    published in a test writes a real entry into the live post history.
+    """
+
     def __init__(self, root: Path | None = None):
-        self.root = root or (state_dir() / "queue")
-        self.pending = self.root / "pending"
-        self.done = self.root / "published"
+        self.root = root or state_dir()
+        self.pending = self.root / "queue" / "pending"
+        self.done = self.root / "queue" / "published"
         for d in (self.pending, self.done):
             d.mkdir(parents=True, exist_ok=True)
 
@@ -66,7 +74,7 @@ class Queue:
 
         (self.done / src.name).write_text(json.dumps(item, indent=2))
         src.unlink()
-        _record_post_time()
+        _record_post_time(self.root)
         log.info("marked %s published: %s", fingerprint, results)
 
     def reject(self, fingerprint: str, reason: str = "") -> None:
@@ -83,10 +91,10 @@ class Queue:
 _HISTORY = "post_history.json"
 
 
-def can_post_now() -> tuple[bool, str]:
+def can_post_now(root: Path | None = None) -> tuple[bool, str]:
     """Check our own limits before spending an API publish."""
     cfg = load("schedule").get("limits", {})
-    history = _history()
+    history = _history(root)
     now = datetime.now(timezone.utc)
 
     day_ago = now - timedelta(hours=24)
@@ -105,8 +113,8 @@ def can_post_now() -> tuple[bool, str]:
     return True, f"ok ({len(today)}/{cap} used in last 24h)"
 
 
-def _history() -> list[datetime]:
-    path = state_dir() / _HISTORY
+def _history(root: Path | None = None) -> list[datetime]:
+    path = (root or state_dir()) / _HISTORY
     if not path.exists():
         return []
     try:
@@ -124,9 +132,11 @@ def _history() -> list[datetime]:
     return out
 
 
-def _record_post_time() -> None:
-    path = state_dir() / _HISTORY
-    history = _history()
+def _record_post_time(root: Path | None = None) -> None:
+    base = root or state_dir()
+    base.mkdir(parents=True, exist_ok=True)
+    path = base / _HISTORY
+    history = _history(base)
     history.append(datetime.now(timezone.utc))
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=3)

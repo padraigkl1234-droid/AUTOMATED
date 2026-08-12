@@ -5,6 +5,7 @@ Run: PYTHONPATH=src python3 -m pytest tests/ -q
 
 from __future__ import annotations
 
+import json
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -213,32 +214,39 @@ def test_every_template_renders(tmp_path, monkeypatch):
 
 # --- rate governor --------------------------------------------------------
 
-def test_daily_cap_blocks(tmp_path, monkeypatch):
-    monkeypatch.setattr(q, "state_dir", lambda: tmp_path)
-
-    now = datetime.now(timezone.utc)
-    (tmp_path / "post_history.json").write_text(
-        __import__("json").dumps(
-            [(now - timedelta(minutes=90 * i)).isoformat() for i in range(9)]
-        )
+def write_history(root: Path, moments: list[datetime]) -> None:
+    root.mkdir(parents=True, exist_ok=True)
+    (root / "post_history.json").write_text(
+        json.dumps([m.isoformat() for m in moments])
     )
-    ok, why = q.can_post_now()
+
+
+def test_daily_cap_blocks(tmp_path):
+    now = datetime.now(timezone.utc)
+    write_history(tmp_path, [now - timedelta(minutes=90 * i) for i in range(9)])
+
+    ok, why = q.can_post_now(tmp_path)
     assert not ok and "daily cap" in why
 
 
-def test_minimum_gap_blocks(tmp_path, monkeypatch):
-    monkeypatch.setattr(q, "state_dir", lambda: tmp_path)
+def test_minimum_gap_blocks(tmp_path):
+    write_history(tmp_path, [datetime.now(timezone.utc)])
 
-    (tmp_path / "post_history.json").write_text(
-        __import__("json").dumps([datetime.now(timezone.utc).isoformat()])
-    )
-    ok, why = q.can_post_now()
+    ok, why = q.can_post_now(tmp_path)
     assert not ok and "since last post" in why
 
 
-def test_governor_allows_when_clear(tmp_path, monkeypatch):
-    monkeypatch.setattr(q, "state_dir", lambda: tmp_path)
-    ok, _ = q.can_post_now()
+def test_governor_allows_when_clear(tmp_path):
+    ok, _ = q.can_post_now(tmp_path)
+    assert ok
+
+
+def test_old_posts_fall_out_of_the_window(tmp_path):
+    """The cap is a rolling 24h window, not a lifetime total."""
+    long_ago = datetime.now(timezone.utc) - timedelta(days=2)
+    write_history(tmp_path, [long_ago - timedelta(hours=i) for i in range(20)])
+
+    ok, _ = q.can_post_now(tmp_path)
     assert ok
 
 
@@ -257,4 +265,23 @@ def test_queue_round_trip(tmp_path):
 
     queue.mark_published(story.fingerprint, {"instagram": "123"})
     assert queue.list_pending() == []
-    assert (tmp_path / "published" / f"{story.fingerprint}.json").exists()
+    assert (tmp_path / "queue" / "published" / f"{story.fingerprint}.json").exists()
+
+
+def test_publishing_writes_history_inside_the_queue_root(tmp_path):
+    """A queue must not record post history outside its own root.
+
+    Regression: mark_published wrote to the global state dir regardless of
+    the queue's root, so tests leaked real entries into the live rate
+    governor -- which would then believe a post had gone out.
+    """
+    queue = q.Queue(tmp_path)
+    story = make_story()
+    queue.add(Post(story=story, template="transfer_card", caption="c",
+                   hashtags=[]))
+    queue.mark_published(story.fingerprint, {"instagram": "123"})
+
+    assert (tmp_path / "post_history.json").exists()
+    # And the governor reading the same root now sees that post.
+    ok, why = q.can_post_now(tmp_path)
+    assert not ok and "since last post" in why
