@@ -14,6 +14,7 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
+from football_social import config  # noqa: E402
 from football_social.generate import captions, hashtags  # noqa: E402
 from football_social.ingest import dedupe, rss, score  # noqa: E402
 from football_social.models import Kind, Post, Story, Tier  # noqa: E402
@@ -248,6 +249,46 @@ def test_old_posts_fall_out_of_the_window(tmp_path):
 
     ok, _ = q.can_post_now(tmp_path)
     assert ok
+
+
+# --- platform selection ----------------------------------------------------
+
+def test_platforms_defaults_to_both(monkeypatch):
+    monkeypatch.delenv("PLATFORMS", raising=False)
+    assert config.platforms() == {"instagram", "tiktok"}
+
+
+def test_platforms_can_be_narrowed(monkeypatch):
+    monkeypatch.setenv("PLATFORMS", "instagram")
+    assert config.platforms() == {"instagram"}
+
+
+def test_platforms_rejects_unknown_value(monkeypatch):
+    monkeypatch.setenv("PLATFORMS", "instagram,myspace")
+    with pytest.raises(config.ConfigError):
+        config.platforms()
+
+
+def test_instagram_only_never_touches_tiktok(monkeypatch):
+    """With PLATFORMS=instagram, a run with no TikTok creds at all must not
+    even attempt TikTok -- if it did, TikTokClient's env(required=True)
+    would raise before we could confirm it was skipped, not attempted.
+    """
+    monkeypatch.setenv("PLATFORMS", "instagram")
+    for key in ("TIKTOK_CLIENT_KEY", "TIKTOK_CLIENT_SECRET",
+                "TIKTOK_REFRESH_TOKEN", "IG_USER_ID", "IG_ACCESS_TOKEN"):
+        monkeypatch.delenv(key, raising=False)
+
+    from football_social import pipeline
+
+    story = make_story()
+    post = Post(story=story, template="transfer_card", caption="c",
+                hashtags=[], video_path="/tmp/fake.mp4")
+
+    results = pipeline.publish(post)
+
+    assert "tiktok" not in results and "tiktok_error" not in results
+    assert "instagram_error" in results  # IG was attempted and failed (no creds)
 
 
 # --- queue round trip -----------------------------------------------------

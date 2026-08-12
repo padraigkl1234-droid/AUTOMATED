@@ -75,6 +75,24 @@ def publish_mode() -> PublishMode:
     return PublishMode(val)
 
 
+def platforms() -> set[str]:
+    """Which platforms a publish run should touch, from PLATFORMS.
+
+    Defaults to both. Set PLATFORMS=instagram to run Instagram-only while
+    TikTok access (audit, tokens) isn't ready yet -- this skips TikTok
+    outright rather than letting it fail on missing credentials, so the
+    queue and logs stay clean.
+    """
+    raw = env("PLATFORMS", "instagram,tiktok")
+    wanted = {p.strip().lower() for p in raw.split(",") if p.strip()}
+    unknown = wanted - {"instagram", "tiktok"}
+    if unknown:
+        raise ConfigError(f"PLATFORMS has unknown value(s): {unknown}")
+    if not wanted:
+        raise ConfigError("PLATFORMS resolved to an empty set")
+    return wanted
+
+
 def out_dir() -> Path:
     d = Path(env("MEDIA_UPLOAD_DIR", "./out"))
     d.mkdir(parents=True, exist_ok=True)

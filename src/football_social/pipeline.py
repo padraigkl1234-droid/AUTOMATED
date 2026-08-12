@@ -133,22 +133,37 @@ def _build_and_handle(
 
 
 def publish(post: Post) -> dict[str, str]:
-    """Push to both platforms. One platform failing must not block the other."""
+    """Push to every platform enabled in PLATFORMS.
+
+    One platform failing must not block the other -- each is wrapped
+    independently. A platform left out of PLATFORMS (e.g. while TikTok is
+    still mid-audit) is skipped outright rather than attempted and logged
+    as a failure.
+    """
+    from .config import platforms as enabled_platforms
+
+    wanted = enabled_platforms()
     results: dict[str, str] = {}
 
-    try:
-        results["instagram"] = InstagramClient().publish(post)
-    except (InstagramError, Exception) as exc:
-        log.error("instagram publish failed: %s", exc)
-        results["instagram_error"] = str(exc)[:200]
-
-    if post.video_path:
+    if "instagram" in wanted:
         try:
-            results["tiktok"] = TikTokClient(mode="inbox").publish(post)
-        except (TikTokError, Exception) as exc:
-            log.error("tiktok publish failed: %s", exc)
-            results["tiktok_error"] = str(exc)[:200]
+            results["instagram"] = InstagramClient().publish(post)
+        except (InstagramError, Exception) as exc:
+            log.error("instagram publish failed: %s", exc)
+            results["instagram_error"] = str(exc)[:200]
     else:
-        results["tiktok_error"] = "no video rendered (ffmpeg unavailable)"
+        log.info("instagram skipped (not in PLATFORMS)")
+
+    if "tiktok" in wanted:
+        if post.video_path:
+            try:
+                results["tiktok"] = TikTokClient(mode="inbox").publish(post)
+            except (TikTokError, Exception) as exc:
+                log.error("tiktok publish failed: %s", exc)
+                results["tiktok_error"] = str(exc)[:200]
+        else:
+            results["tiktok_error"] = "no video rendered (ffmpeg unavailable)"
+    else:
+        log.info("tiktok skipped (not in PLATFORMS)")
 
     return results
