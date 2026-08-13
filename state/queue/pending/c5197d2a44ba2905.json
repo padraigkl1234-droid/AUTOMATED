@@ -1,0 +1,34 @@
+{
+  "fingerprint": "c5197d2a44ba2905",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Man City reject fresh Rodri bid - Friday's gossip",
+  "full_caption": "Man City reject fresh Rodri bid - Friday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #thfc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#thfc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/c5197d2a44ba2905_story.png",
+  "video_path": "out/c5197d2a44ba2905_story.mp4",
+  "story": {
+    "title": "Man City reject fresh Rodri bid - Friday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-13T22:03:35+00:00",
+    "summary": "Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
+    "data": {
+      "headline": "MAN CITY REJECT FRESH RODRI BID",
+      "subhead": "Friday's gossip",
+      "caption": "Man City reject fresh Rodri bid - Friday's gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "c5197d2a44ba2905"
+  },
+  "queued_at": "2026-08-13T22:43:50.499961+00:00"
+}
