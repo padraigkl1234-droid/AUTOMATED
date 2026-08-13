@@ -1,0 +1,33 @@
+{
+  "fingerprint": "41ee274c418b36f0",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Fresh talks over Arsenal move for Aston Villa's Konsa",
+  "full_caption": "Fresh talks over Arsenal move for Aston Villa's Konsa\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/41ee274c418b36f0_story.png",
+  "video_path": "out/41ee274c418b36f0_story.mp4",
+  "story": {
+    "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-13T15:47:45+00:00",
+    "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+    "data": {
+      "headline": "FRESH TALKS OVER ARSENAL MOVE",
+      "subhead": "for Aston Villa's Konsa",
+      "caption": "Fresh talks over Arsenal move for Aston Villa's Konsa"
+    },
+    "score": 113.0,
+    "fingerprint": "41ee274c418b36f0"
+  },
+  "queued_at": "2026-08-13T18:00:05.073896+00:00"
+}
