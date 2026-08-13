@@ -1,0 +1,36 @@
+{
+  "fingerprint": "1bf53b499e85cc42",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Atletico agree \u00a334m deal for Tottenham's Romero",
+  "full_caption": "Atletico agree \u00a334m deal for Tottenham's Romero\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/1bf53b499e85cc42_story.png",
+  "video_path": "out/1bf53b499e85cc42_story.mp4",
+  "story": {
+    "title": "Atletico agree \u00a334m deal for Tottenham's Romero",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-12T21:18:21+00:00",
+    "summary": "Cristian Romero is set to join La Liga side Atletico Madrid as they agree a \u00a334.2m fee with Tottenham for their captain.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "ATLETICO AGREE \u00a334M DEAL",
+      "subhead": "for Tottenham's Romero",
+      "caption": "Atletico agree \u00a334m deal for Tottenham's Romero"
+    },
+    "score": 102.0,
+    "fingerprint": "1bf53b499e85cc42"
+  },
+  "queued_at": "2026-08-13T08:13:09.182004+00:00"
+}
