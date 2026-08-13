@@ -1,0 +1,31 @@
+{
+  "fingerprint": "9be0c459bd011da8",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Rooney to co-host new Man Utd show with Goldbridge",
+  "full_caption": "Rooney to co-host new Man Utd show with Goldbridge\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/9be0c459bd011da8_story.png",
+  "video_path": "out/9be0c459bd011da8_story.mp4",
+  "story": {
+    "title": "Rooney to co-host new Man Utd show with Goldbridge",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8xnwn4zjeno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-13T10:17:26+00:00",
+    "summary": "Wayne Rooney will co-host a new Manchester United-dedicated show alongside influencer Mark Goldbrige this season.",
+    "data": {
+      "headline": "ROONEY TO CO-HOST NEW MAN",
+      "subhead": "Utd show with Goldbridge",
+      "caption": "Rooney to co-host new Man Utd show with Goldbridge"
+    },
+    "score": 70.0,
+    "fingerprint": "9be0c459bd011da8"
+  },
+  "queued_at": "2026-08-13T13:22:07.945740+00:00"
+}
