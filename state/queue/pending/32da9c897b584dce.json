@@ -1,0 +1,32 @@
+{
+  "fingerprint": "32da9c897b584dce",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
+  "full_caption": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/32da9c897b584dce_story.png",
+  "video_path": "out/32da9c897b584dce_story.mp4",
+  "story": {
+    "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
+    "published_at": "2026-08-14T07:57:00+00:00",
+    "summary": "Sky Sports News takes you through a selection of the back page headlines from Friday morning's papers.",
+    "data": {
+      "headline": "THE LATEST ON TRANSFERS, LIVERPOOL",
+      "subhead": "and Thomas Tuchel's England from the back pages",
+      "caption": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages"
+    },
+    "score": 110.0,
+    "fingerprint": "32da9c897b584dce"
+  },
+  "queued_at": "2026-08-14T08:08:35.624555+00:00"
+}
