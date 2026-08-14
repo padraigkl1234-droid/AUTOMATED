@@ -1,0 +1,35 @@
+{
+  "fingerprint": "017fa1bda917ce38",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Arteta not worried about Arsenal contract talks",
+  "full_caption": "Arteta not worried about Arsenal contract talks\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/017fa1bda917ce38_story.png",
+  "video_path": "out/017fa1bda917ce38_story.mp4",
+  "story": {
+    "title": "Arteta not worried about Arsenal contract talks",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-14T21:30:21+00:00",
+    "summary": "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
+    "data": {
+      "corroborations": [
+        "The Guardian"
+      ],
+      "headline": "ARTETA NOT WORRIED ABOUT ARSENAL",
+      "subhead": "contract talks",
+      "caption": "Arteta not worried about Arsenal contract talks"
+    },
+    "score": 126.0,
+    "fingerprint": "017fa1bda917ce38"
+  },
+  "queued_at": "2026-08-14T22:25:22.595991+00:00"
+}
