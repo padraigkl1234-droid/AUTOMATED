@@ -1,0 +1,33 @@
+{
+  "fingerprint": "9aaa1f3ab2dc1911",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Enzo Maresca says Manchester City will not meet Chelsea\u2019s deadline for Fern\u00e1ndez",
+  "full_caption": "Enzo Maresca says Manchester City will not meet Chelsea\u2019s deadline for Fern\u00e1ndez\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/9aaa1f3ab2dc1911_story.png",
+  "video_path": "out/9aaa1f3ab2dc1911_story.mp4",
+  "story": {
+    "title": "Enzo Maresca says Manchester City will not meet Chelsea\u2019s deadline for Fern\u00e1ndez",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchester-city-chelsea-fernandez-rodri-transfer",
+    "published_at": "2026-08-14T11:25:06+00:00",
+    "summary": "Chelsea set 5pm Friday deadline for bids for midfielderMaresca: \u2018I don\u2019t think we\u2019re going to do something today\u2019Enzo Maresca is expecting a busy end to the transfer window but says Manchester City will not meet Chelsea\u2019s 5pm Friday deadline to sign Enzo Fern\u00e1ndez.Maresca takes charge of City for the first time in a major match on Sunday with the Community Shield against Arsenal in Cardiff but is ",
+    "data": {
+      "headline": "ENZO MARESCA SAYS MANCHESTER CITY",
+      "subhead": "will not meet Chelsea\u2019s deadline for Fern\u00e1ndez",
+      "caption": "Enzo Maresca says Manchester City will not meet Chelsea\u2019s deadline for Fern\u00e1ndez"
+    },
+    "score": 78.0,
+    "fingerprint": "9aaa1f3ab2dc1911"
+  },
+  "queued_at": "2026-08-14T13:16:34.439439+00:00"
+}
