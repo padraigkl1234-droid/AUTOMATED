@@ -1,0 +1,32 @@
+{
+  "fingerprint": "1d6bac24f4cc8b13",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
+  "full_caption": "Chelsea say no Fernandez move as deadline passes - but is it really over?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc"
+  ],
+  "image_path": "out/1d6bac24f4cc8b13_story.png",
+  "video_path": "out/1d6bac24f4cc8b13_story.mp4",
+  "story": {
+    "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-14T16:04:54+00:00",
+    "summary": "Chelsea's deadline for clubs to bid \u00a3120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
+    "data": {
+      "headline": "CHELSEA SAY NO FERNANDEZ MOVE",
+      "subhead": "as deadline passes - but is it really over?",
+      "caption": "Chelsea say no Fernandez move as deadline passes - but is it really over?"
+    },
+    "score": 105.0,
+    "fingerprint": "1d6bac24f4cc8b13"
+  },
+  "queued_at": "2026-08-14T17:56:12.105812+00:00"
+}
