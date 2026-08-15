@@ -1,0 +1,33 @@
+{
+  "fingerprint": "6b320f198a13bc94",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona",
+  "full_caption": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #realmadrid #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#realmadrid",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/6b320f198a13bc94_story.png",
+  "video_path": "out/6b320f198a13bc94_story.mp4",
+  "story": {
+    "title": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/15/2026-2027-la-liga-preview-real-madrid-jose-mourinho-barcelona",
+    "published_at": "2026-08-15T07:00:50+00:00",
+    "summary": "Florentino P\u00e9rez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favouritesA lot has changed since Jos\u00e9 Mourinho was last appointed Real Madrid manager, but a lot has also not changed. Before his first game in charge in 2010, Spain had just become world champions, their extra-time winner in the final scored by a Barcelona pla",
+    "data": {
+      "headline": "LA LIGA 2026-27 PREVIEW",
+      "subhead": "Madrid look to Mourinho in bid to dethrone Barcelona",
+      "caption": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona"
+    },
+    "score": 120.0,
+    "fingerprint": "6b320f198a13bc94"
+  },
+  "queued_at": "2026-08-15T07:23:05.985400+00:00"
+}
