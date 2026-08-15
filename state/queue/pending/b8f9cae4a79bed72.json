@@ -1,0 +1,34 @@
+{
+  "fingerprint": "b8f9cae4a79bed72",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Transfer roundup: Paris Saint-Germain sign \u20ac50m Ferran Torres; Djed Spence seals Inter move",
+  "full_caption": "Transfer roundup: Paris Saint-Germain sign \u20ac50m Ferran Torres; Djed Spence seals Inter move\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #thfc #fcbarcelona #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc",
+    "#fcbarcelona",
+    "#psg"
+  ],
+  "image_path": "out/b8f9cae4a79bed72_story.png",
+  "video_path": "out/b8f9cae4a79bed72_story.mp4",
+  "story": {
+    "title": "Transfer roundup: Paris Saint-Germain sign \u20ac50m Ferran Torres; Djed Spence seals Inter move",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
+    "published_at": "2026-08-15T17:01:09+00:00",
+    "summary": "Spain World Cup winner Torres leaves BarcelonaEngland\u2019s Spence completes move from TottenhamParis Saint-Germain have signed Spain\u2019s World Cup-winning \u2060forward Ferran Torres from Barcelona on a contract until 2031. Financial \u200bdetails were not disclosed, but reports said PSG paid \u20ac50m (\u00a342.7m) \u2060for the 26-year-old.\u201cI\u2019m delighted to be beginning a new adventure at such an ambitious \u2060club as Paris Sai",
+    "data": {
+      "headline": "TRANSFER ROUNDUP",
+      "subhead": "Paris Saint-Germain sign \u20ac50m Ferran Torres; Djed Spence seals Inter move",
+      "caption": "Transfer roundup: Paris Saint-Germain sign \u20ac50m Ferran Torres; Djed Spence seals Inter move"
+    },
+    "score": 120.0,
+    "fingerprint": "b8f9cae4a79bed72"
+  },
+  "queued_at": "2026-08-15T17:25:45.571197+00:00"
+}
