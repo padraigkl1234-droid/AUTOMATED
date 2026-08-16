@@ -1,0 +1,33 @@
+{
+  "fingerprint": "f76d84526f655681",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Calafiori\u2019s fast start inspires Arsenal to big Community Shield win over Manchester City",
+  "full_caption": "Calafiori\u2019s fast start inspires Arsenal to big Community Shield win over Manchester City\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/f76d84526f655681_story.png",
+  "video_path": "out/f76d84526f655681_story.mp4",
+  "story": {
+    "title": "Calafiori\u2019s fast start inspires Arsenal to big Community Shield win over Manchester City",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report",
+    "published_at": "2026-08-16T16:06:30+00:00",
+    "summary": "For Enzo Maresca, a miserable first competitive game in charge of Manchester City that began with Arsenal seizing the lead after 24.5 seconds ended with Mikel Arteta\u2019s side lifting the Community Shield. Arsenal eviscerated City, Riccardo Calafiori\u2019s smart opener after Myles Lewis-Skelly\u2019s brilliant pass seemingly leaving their opponents with irrecoverable damage. Kai Havertz doubled Arsenal\u2019s lead",
+    "data": {
+      "headline": "CALAFIORI\u2019S FAST START INSPIRES ARSENAL",
+      "subhead": "to big Community Shield win over Manchester City",
+      "caption": "Calafiori\u2019s fast start inspires Arsenal to big Community Shield win over Manchester City"
+    },
+    "score": 100.0,
+    "fingerprint": "f76d84526f655681"
+  },
+  "queued_at": "2026-08-16T17:23:35.847201+00:00"
+}
