@@ -1,0 +1,33 @@
+{
+  "fingerprint": "c38172fb39f69d10",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "\u2018Not going to be an issue\u2019: Mikel Arteta relaxed about Arsenal contract situation",
+  "full_caption": "\u2018Not going to be an issue\u2019: Mikel Arteta relaxed about Arsenal contract situation\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/c38172fb39f69d10_story.png",
+  "video_path": "out/c38172fb39f69d10_story.mp4",
+  "story": {
+    "title": "\u2018Not going to be an issue\u2019: Mikel Arteta relaxed about Arsenal contract situation",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
+    "published_at": "2026-08-14T21:30:38+00:00",
+    "summary": "Manager\u2019s deal expires at end of the new season\u2018They don\u2019t have to worry \u2026 I want to be here\u2019Mikel Arteta has said he is relaxed about his Arsenal contract expiring at the end of the new season and believes his side will need to be better than last year to defend their title successfully.The Premier League champions will face Enzo Maresca\u2019s Manchester City in the Community Shield in Cardiff on Sun",
+    "data": {
+      "headline": "\u2018NOT GOING TO BE AN ISSUE\u2019",
+      "subhead": "Mikel Arteta relaxed about Arsenal contract situation",
+      "caption": "\u2018Not going to be an issue\u2019: Mikel Arteta relaxed about Arsenal contract situation"
+    },
+    "score": 85.0,
+    "fingerprint": "c38172fb39f69d10"
+  },
+  "queued_at": "2026-08-16T07:24:41.455175+00:00"
+}
