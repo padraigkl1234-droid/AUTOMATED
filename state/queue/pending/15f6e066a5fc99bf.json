@@ -1,0 +1,34 @@
+{
+  "fingerprint": "15f6e066a5fc99bf",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Martinez Juventus move now off - Monday's gossip",
+  "full_caption": "Martinez Juventus move now off - Monday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #realmadrid #juventus",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#realmadrid",
+    "#juventus"
+  ],
+  "image_path": "out/15f6e066a5fc99bf_story.png",
+  "video_path": "out/15f6e066a5fc99bf_story.mp4",
+  "story": {
+    "title": "Martinez Juventus move now off - Monday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-16T21:24:43+00:00",
+    "summary": "Juventus pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zubimendi, plus more.",
+    "data": {
+      "headline": "MARTINEZ JUVENTUS MOVE NOW OFF",
+      "subhead": "Monday's gossip",
+      "caption": "Martinez Juventus move now off - Monday's gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "15f6e066a5fc99bf"
+  },
+  "queued_at": "2026-08-16T22:22:36.474791+00:00"
+}
