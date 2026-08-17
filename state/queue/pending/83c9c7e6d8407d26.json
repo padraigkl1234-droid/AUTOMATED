@@ -1,0 +1,36 @@
+{
+  "fingerprint": "83c9c7e6d8407d26",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical",
+  "full_caption": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/83c9c7e6d8407d26_story.png",
+  "video_path": "out/83c9c7e6d8407d26_story.mp4",
+  "story": {
+    "title": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
+    "published_at": "2026-08-17T19:39:23+00:00",
+    "summary": "Spain midfielder in \u00a365.4m move from Manchester City\u2018I\u2019m happy that everything has been resolved\u2019Rodri has said it is \u201ca dream\u201d to play for Barcelona after landing in Catalonia on Monday to complete his move from Manchester City. Spain\u2019s World Cup-winning captain will have a medical on Tuesday after City accepted Barcelona\u2019s third bid of \u00a365.4m.\u201cVery happy to arrive,\u201d Rodri said at Barcelona\u2019s El ",
+    "data": {
+      "corroborations": [
+        "BBC Sport"
+      ],
+      "headline": "RODRI CALLS IT \u2018A DREAM",
+      "subhead": "to play for Barcelona\u2019 as he flies in for medical",
+      "caption": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical"
+    },
+    "score": 119.0,
+    "fingerprint": "83c9c7e6d8407d26"
+  },
+  "queued_at": "2026-08-17T22:35:44.648307+00:00"
+}
