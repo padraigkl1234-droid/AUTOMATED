@@ -1,0 +1,32 @@
+{
+  "fingerprint": "5ed554850ecd2d42",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Martin \u00d8degaard happy with Arsenal\u2019s new duo and says team hungry for title defence",
+  "full_caption": "Martin \u00d8degaard happy with Arsenal\u2019s new duo and says team hungry for title defence\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/5ed554850ecd2d42_story.png",
+  "video_path": "out/5ed554850ecd2d42_story.mp4",
+  "story": {
+    "title": "Martin \u00d8degaard happy with Arsenal\u2019s new duo and says team hungry for title defence",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/martin-odegaard-arsenal-new-signings-premier-league-title-defence",
+    "published_at": "2026-08-17T11:00:52+00:00",
+    "summary": "Captain\u2019s praise for new signings Guimar\u00e3es and TzolisArsenal kick off new season against Coventry on Friday Martin \u00d8degaard has praised the instant impact made by new signings Bruno Guimar\u00e3es and Christos Tzolis in Arsenal\u2019s Community Shield victory over Manchester City on Sunday and believes the Premier League champions can compete for multiple trophies this season.Arsenal were hugely impressive",
+    "data": {
+      "headline": "MARTIN \u00d8DEGAARD HAPPY WITH ARSENAL\u2019S",
+      "subhead": "new duo and says team hungry for title defence",
+      "caption": "Martin \u00d8degaard happy with Arsenal\u2019s new duo and says team hungry for title defence"
+    },
+    "score": 78.0,
+    "fingerprint": "5ed554850ecd2d42"
+  },
+  "queued_at": "2026-08-17T12:52:30.627934+00:00"
+}
