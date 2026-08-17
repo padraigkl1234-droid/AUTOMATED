@@ -1,0 +1,34 @@
+{
+  "fingerprint": "c640159d2dbe4437",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
+  "full_caption": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #thfc #juventus #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc",
+    "#juventus",
+    "#avfc"
+  ],
+  "image_path": "out/c640159d2dbe4437_story.png",
+  "video_path": "out/c640159d2dbe4437_story.mp4",
+  "story": {
+    "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window",
+    "published_at": "2026-08-17T17:09:17+00:00",
+    "summary": "Vicario has lost No 1 slot at Spurs to Antonin KinskyCoventry and Ipswich also busy in the marketJuventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa\u2019s Emiliano Mart\u00ednez.Vicario is set to leave Spurs having lost his place as Roberto De Zerbi\u2019s No 1 to Antonin Kinsky, with the agreement with Juventu",
+    "data": {
+      "headline": "TOTTENHAM GOALKEEPER GUGLIELMO VICARIO",
+      "subhead": "to leave for Juventus in loan deal",
+      "caption": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal"
+    },
+    "score": 112.0,
+    "fingerprint": "c640159d2dbe4437"
+  },
+  "queued_at": "2026-08-17T17:32:07.023975+00:00"
+}
