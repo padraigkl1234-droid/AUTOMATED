@@ -1,0 +1,32 @@
+{
+  "fingerprint": "9615e61231d195d5",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Brighton\u2019s Emilie Joramo: \u2018I feel like I\u2019m now in the place I want to be\u2019",
+  "full_caption": "Brighton\u2019s Emilie Joramo: \u2018I feel like I\u2019m now in the place I want to be\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/9615e61231d195d5_story.png",
+  "video_path": "out/9615e61231d195d5_story.mp4",
+  "story": {
+    "title": "Brighton\u2019s Emilie Joramo: \u2018I feel like I\u2019m now in the place I want to be\u2019",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/brightons-emilie-joramo-i-feel-like-im-now-in-the-place-i-want-to-be",
+    "published_at": "2026-08-17T07:00:48+00:00",
+    "summary": "She\u2019s always been keen on the WSL, and the club have long had their eye on her \u2013 now the Norwegian midfielder feels ready to make an impactEmilie Joramo has long had her sights set on the Women\u2019s Super League, but she held herself back from pushing for a move over from Scandinavia \u2013 until now.\u201cI\u2019d been interested in the league for a long time now and it was a goal for me to get here one day,\u201d says",
+    "data": {
+      "headline": "BRIGHTON\u2019S EMILIE JORAMO",
+      "subhead": "\u2018I feel like I\u2019m now in the place I want to be\u2019",
+      "caption": "Brighton\u2019s Emilie Joramo: \u2018I feel like I\u2019m now in the place I want to be\u2019"
+    },
+    "score": 112.0,
+    "fingerprint": "9615e61231d195d5"
+  },
+  "queued_at": "2026-08-17T07:45:29.024556+00:00"
+}
