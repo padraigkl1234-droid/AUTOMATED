@@ -1,0 +1,32 @@
+{
+  "fingerprint": "8c22b84ff2cce38c",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Could refreshed Odegaard be like a new signing?",
+  "full_caption": "Could refreshed Odegaard be like a new signing?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transferrumours #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours",
+    "#afc"
+  ],
+  "image_path": "out/8c22b84ff2cce38c_story.png",
+  "video_path": "out/8c22b84ff2cce38c_story.mp4",
+  "story": {
+    "title": "Could refreshed Odegaard be like a new signing?",
+    "kind": "rumour",
+    "tier": 2,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-18T07:14:06+00:00",
+    "summary": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
+    "data": {
+      "headline": "COULD REFRESHED ODEGAARD BE LIKE",
+      "subhead": "a new signing?",
+      "caption": "Could refreshed Odegaard be like a new signing?"
+    },
+    "score": 75.0,
+    "fingerprint": "8c22b84ff2cce38c"
+  },
+  "queued_at": "2026-08-18T12:54:51.317324+00:00"
+}
