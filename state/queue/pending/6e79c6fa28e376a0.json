@@ -1,0 +1,33 @@
+{
+  "fingerprint": "6e79c6fa28e376a0",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal",
+  "full_caption": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/6e79c6fa28e376a0_story.png",
+  "video_path": "out/6e79c6fa28e376a0_story.mp4",
+  "story": {
+    "title": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-18T18:14:01+00:00",
+    "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
+    "data": {
+      "headline": "RODRI READY FOR 'EXCITEMENT AGAIN'",
+      "subhead": "after Barca complete \u00a365m deal",
+      "caption": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal"
+    },
+    "score": 105.0,
+    "fingerprint": "6e79c6fa28e376a0"
+  },
+  "queued_at": "2026-08-18T23:32:11.644050+00:00"
+}
