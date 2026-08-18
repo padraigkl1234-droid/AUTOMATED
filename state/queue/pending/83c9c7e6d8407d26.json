@@ -1,7 +1,7 @@
 {
   "fingerprint": "83c9c7e6d8407d26",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
   "caption": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical",
   "full_caption": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #fcbarcelona",
   "hashtags": [
@@ -29,8 +29,8 @@
       "subhead": "to play for Barcelona\u2019 as he flies in for medical",
       "caption": "Rodri calls it \u2018a dream to play for Barcelona\u2019 as he flies in for medical"
     },
-    "score": 119.0,
+    "score": 104.0,
     "fingerprint": "83c9c7e6d8407d26"
   },
-  "queued_at": "2026-08-17T22:35:44.648307+00:00"
+  "queued_at": "2026-08-18T07:30:58.529823+00:00"
 }
