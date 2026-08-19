@@ -1,7 +1,7 @@
 {
   "fingerprint": "6e79c6fa28e376a0",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
   "caption": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal",
   "full_caption": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #fcbarcelona",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "after Barca complete \u00a365m deal",
       "caption": "Rodri ready for 'excitement again' after Barca complete \u00a365m deal"
     },
-    "score": 105.0,
+    "score": 85.0,
     "fingerprint": "6e79c6fa28e376a0"
   },
-  "queued_at": "2026-08-18T23:32:11.644050+00:00"
+  "queued_at": "2026-08-19T07:35:26.478153+00:00"
 }
