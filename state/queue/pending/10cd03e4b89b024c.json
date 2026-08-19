@@ -1,0 +1,37 @@
+{
+  "fingerprint": "10cd03e4b89b024c",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal agree \u00a350m-plus deal to sign Villa's Konsa",
+  "full_caption": "Arsenal agree \u00a350m-plus deal to sign Villa's Konsa\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/10cd03e4b89b024c_story.png",
+  "video_path": "out/10cd03e4b89b024c_story.mp4",
+  "story": {
+    "title": "Arsenal agree \u00a350m-plus deal to sign Villa's Konsa",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-19T13:55:18+00:00",
+    "summary": "Arsenal agree a deal worth more than \u00a350m to sign Aston Villa and England defender Ezri Konsa.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "ARSENAL AGREE \u00a350M-PLUS DEAL",
+      "subhead": "to sign Villa's Konsa",
+      "caption": "Arsenal agree \u00a350m-plus deal to sign Villa's Konsa"
+    },
+    "score": 117.0,
+    "fingerprint": "10cd03e4b89b024c"
+  },
+  "queued_at": "2026-08-19T17:30:36.005058+00:00"
+}
