@@ -1,0 +1,35 @@
+{
+  "fingerprint": "edf111387fab9b79",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Manchester United make \u00a365m offer for Brighton\u2019s Carlos Baleba",
+  "full_caption": "Manchester United make \u00a365m offer for Brighton\u2019s Carlos Baleba\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#inter"
+  ],
+  "image_path": "out/edf111387fab9b79_story.png",
+  "video_path": "out/edf111387fab9b79_story.mp4",
+  "story": {
+    "title": "Manchester United make \u00a365m offer for Brighton\u2019s Carlos Baleba",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
+    "published_at": "2026-08-19T12:01:14+00:00",
+    "summary": "Bid short of Brighton\u2019s valuation for midfielderCameroon international was a United target last summerManchester United are confident of signing Brighton\u2019s Carlos Baleba for less than \u00a375m, with the 22-year-old midfielder having agreed personal terms. United have made an initial offer of \u00a360m plus \u00a35m add-ons for Baleba, which is below Brighton\u2019s valuation.Baleba has been a target for United since",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "MANCHESTER UNITED MAKE \u00a365M OFFER",
+      "subhead": "for Brighton\u2019s Carlos Baleba",
+      "caption": "Manchester United make \u00a365m offer for Brighton\u2019s Carlos Baleba"
+    },
+    "score": 91.0,
+    "fingerprint": "edf111387fab9b79"
+  },
+  "queued_at": "2026-08-19T12:55:46.737662+00:00"
+}
