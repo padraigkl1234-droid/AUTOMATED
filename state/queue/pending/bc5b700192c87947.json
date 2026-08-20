@@ -1,0 +1,36 @@
+{
+  "fingerprint": "bc5b700192c87947",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Liverpool see \u00a350m bid for Yankuba Minteh rejected by Brighton",
+  "full_caption": "Liverpool see \u00a350m bid for Yankuba Minteh rejected by Brighton\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #lfc #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#psg"
+  ],
+  "image_path": "out/bc5b700192c87947_story.png",
+  "video_path": "out/bc5b700192c87947_story.mp4",
+  "story": {
+    "title": "Liverpool see \u00a350m bid for Yankuba Minteh rejected by Brighton",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
+    "published_at": "2026-08-20T16:59:12+00:00",
+    "summary": "Minteh targeted as replacement for Mohamed SalahWinger sidelined after recovering from leg surgeryLiverpool have had a \u00a350m bid for Yankuba Minteh rejected by Brighton. The club are looking to add two wide forwards to Andoni Iraola\u2019s squad before the transfer deadline, with their pursuit of Paris Saint-Germain\u2019s Bradley Barcola continuing.Liverpool\u2019s shortlist of targets also includes Minteh but B",
+    "data": {
+      "corroborations": [
+        "BBC Sport"
+      ],
+      "headline": "LIVERPOOL SEE \u00a350M BID",
+      "subhead": "for Yankuba Minteh rejected by Brighton",
+      "caption": "Liverpool see \u00a350m bid for Yankuba Minteh rejected by Brighton"
+    },
+    "score": 126.0,
+    "fingerprint": "bc5b700192c87947"
+  },
+  "queued_at": "2026-08-20T17:34:53.852374+00:00"
+}
