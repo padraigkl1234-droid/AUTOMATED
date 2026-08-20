@@ -1,0 +1,33 @@
+{
+  "fingerprint": "a6f1750e676a99a0",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Arsenal exploring Yildiz move - Friday's gossip",
+  "full_caption": "Arsenal exploring Yildiz move - Friday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/a6f1750e676a99a0_story.png",
+  "video_path": "out/a6f1750e676a99a0_story.mp4",
+  "story": {
+    "title": "Arsenal exploring Yildiz move - Friday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-20T20:47:42+00:00",
+    "summary": "Arsenal explore move for Kenan Yildiz, Atletico Madrid trying to finalise Nicolas Jackson signing and Manchester City in talks over Allan Elias, plus more.",
+    "data": {
+      "headline": "ARSENAL EXPLORING YILDIZ MOVE",
+      "subhead": "Friday's gossip",
+      "caption": "Arsenal exploring Yildiz move - Friday's gossip"
+    },
+    "score": 113.0,
+    "fingerprint": "a6f1750e676a99a0"
+  },
+  "queued_at": "2026-08-20T22:29:44.734990+00:00"
+}
