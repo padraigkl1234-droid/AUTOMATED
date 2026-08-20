@@ -1,0 +1,31 @@
+{
+  "fingerprint": "d92b8a97f983f498",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Frank Lampard wants Coventry to play without fear in Premier League",
+  "full_caption": "Frank Lampard wants Coventry to play without fear in Premier League\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/d92b8a97f983f498_story.png",
+  "video_path": "out/d92b8a97f983f498_story.mp4",
+  "story": {
+    "title": "Frank Lampard wants Coventry to play without fear in Premier League",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+    "published_at": "2026-08-20T10:44:59+00:00",
+    "summary": "Promoted club have targeted players 6ft and above\u2018Physicality is a big part of what you need to compete\u2019Frank Lampard has urged his Coventry players to impose themselves on the Premier League, calling on his side to ensure they have no regrets after Friday\u2019s curtain-raiser against Arsenal.Coventry play their first top-flight game in 25 years at the home of the champions, four months after celebrat",
+    "data": {
+      "headline": "FRANK LAMPARD WANTS COVENTRY",
+      "subhead": "to play without fear in Premier League",
+      "caption": "Frank Lampard wants Coventry to play without fear in Premier League"
+    },
+    "score": 78.0,
+    "fingerprint": "d92b8a97f983f498"
+  },
+  "queued_at": "2026-08-20T12:57:26.231877+00:00"
+}
