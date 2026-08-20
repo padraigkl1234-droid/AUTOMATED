@@ -1,0 +1,32 @@
+{
+  "fingerprint": "b62754fccbbae9fd",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
+  "full_caption": "Minority investment or takeover - what does Bezos' Liverpool deal mean?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/b62754fccbbae9fd_story.png",
+  "video_path": "out/b62754fccbbae9fd_story.mp4",
+  "story": {
+    "title": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4g31egre74o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-20T07:03:28+00:00",
+    "summary": "What does Liverpool\u2019s future hold following the sale of stakes to 1892 Holdings, and how involved will Amazon founder Jeff Bezos be?",
+    "data": {
+      "headline": "MINORITY INVESTMENT OR TAKEOVER",
+      "subhead": "what does Bezos' Liverpool deal mean?",
+      "caption": "Minority investment or takeover - what does Bezos' Liverpool deal mean?"
+    },
+    "score": 120.0,
+    "fingerprint": "b62754fccbbae9fd"
+  },
+  "queued_at": "2026-08-20T07:34:15.984056+00:00"
+}
