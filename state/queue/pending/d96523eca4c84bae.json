@@ -1,0 +1,36 @@
+{
+  "fingerprint": "d96523eca4c84bae",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Man Utd agree \u00a370m fee for Brighton's Baleba",
+  "full_caption": "Man Utd agree \u00a370m fee for Brighton's Baleba\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/d96523eca4c84bae_story.png",
+  "video_path": "out/d96523eca4c84bae_story.mp4",
+  "story": {
+    "title": "Man Utd agree \u00a370m fee for Brighton's Baleba",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-21T19:58:11+00:00",
+    "summary": "Manchester United agree a fee of up to \u00a370m for Brighton midfielder Carlos Baleba.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "MAN UTD AGREE \u00a370M FEE",
+      "subhead": "for Brighton's Baleba",
+      "caption": "Man Utd agree \u00a370m fee for Brighton's Baleba"
+    },
+    "score": 125.0,
+    "fingerprint": "d96523eca4c84bae"
+  },
+  "queued_at": "2026-08-21T22:27:23.225345+00:00"
+}
