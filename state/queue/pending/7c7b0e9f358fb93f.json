@@ -1,0 +1,35 @@
+{
+  "fingerprint": "7c7b0e9f358fb93f",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Brighton reject Liverpool's new \u00a360m Minteh bid",
+  "full_caption": "Brighton reject Liverpool's new \u00a360m Minteh bid\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/7c7b0e9f358fb93f_story.png",
+  "video_path": "out/7c7b0e9f358fb93f_story.mp4",
+  "story": {
+    "title": "Brighton reject Liverpool's new \u00a360m Minteh bid",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-21T17:26:49+00:00",
+    "summary": "Liverpool have an improved bid of \u00a360m for winger Yankuba Minteh rejected by Brighton but talks between the clubs continue.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "BRIGHTON REJECT LIVERPOOL'S NEW \u00a360M",
+      "subhead": "Minteh bid",
+      "caption": "Brighton reject Liverpool's new \u00a360m Minteh bid"
+    },
+    "score": 126.0,
+    "fingerprint": "7c7b0e9f358fb93f"
+  },
+  "queued_at": "2026-08-21T17:33:59.869167+00:00"
+}
