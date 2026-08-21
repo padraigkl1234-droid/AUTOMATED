@@ -1,0 +1,31 @@
+{
+  "fingerprint": "43c02817ee0c70b9",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Gyokeres proud of impact at Arsenal last season",
+  "full_caption": "Gyokeres proud of impact at Arsenal last season\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/43c02817ee0c70b9_story.png",
+  "video_path": "out/43c02817ee0c70b9_story.mp4",
+  "story": {
+    "title": "Gyokeres proud of impact at Arsenal last season",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cy5dxg3kv6eo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-21T12:46:52+00:00",
+    "summary": "Striker Viktor Gyokeres says he is proud of his contribution to Arsenal last season as they begin the defence of their Premier League title at home to his former side Coventry City on Friday.",
+    "data": {
+      "headline": "GYOKERES PROUD OF IMPACT",
+      "subhead": "at Arsenal last season",
+      "caption": "Gyokeres proud of impact at Arsenal last season"
+    },
+    "score": 85.0,
+    "fingerprint": "43c02817ee0c70b9"
+  },
+  "queued_at": "2026-08-21T12:56:42.583577+00:00"
+}
