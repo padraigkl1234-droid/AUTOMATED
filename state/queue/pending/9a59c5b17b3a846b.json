@@ -1,0 +1,36 @@
+{
+  "fingerprint": "9a59c5b17b3a846b",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Spurs agree \u00a375m deal to sign Man City's Savinho",
+  "full_caption": "Spurs agree \u00a375m deal to sign Man City's Savinho\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#thfc"
+  ],
+  "image_path": "out/9a59c5b17b3a846b_story.png",
+  "video_path": "out/9a59c5b17b3a846b_story.mp4",
+  "story": {
+    "title": "Spurs agree \u00a375m deal to sign Man City's Savinho",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-21T06:30:48+00:00",
+    "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for \u00a375m, with a further \u00a310m in potential add-ons.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "SPURS AGREE \u00a375M DEAL",
+      "subhead": "to sign Man City's Savinho",
+      "caption": "Spurs agree \u00a375m deal to sign Man City's Savinho"
+    },
+    "score": 111.0,
+    "fingerprint": "9a59c5b17b3a846b"
+  },
+  "queued_at": "2026-08-21T07:36:27.440296+00:00"
+}
