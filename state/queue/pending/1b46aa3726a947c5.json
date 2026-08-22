@@ -1,0 +1,34 @@
+{
+  "fingerprint": "1b46aa3726a947c5",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Premier League buildup, transfers and Hull v Manchester United early news \u2013 matchday live",
+  "full_caption": "Premier League buildup, transfers and Hull v Manchester United early news \u2013 matchday live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc #afc #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#afc",
+    "#thfc"
+  ],
+  "image_path": "out/1b46aa3726a947c5_story.png",
+  "video_path": "out/1b46aa3726a947c5_story.mp4",
+  "story": {
+    "title": "Premier League buildup, transfers and Hull v Manchester United early news \u2013 matchday live",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/aug/22/premier-league-buildup-transfers-and-hull-v-manchester-united-early-news-matchday-live",
+    "published_at": "2026-08-22T07:10:40+00:00",
+    "summary": "\u26bd News and buildup as the Premier League returns \u26bd Arsenal sweep Coventry aside | Fixtures | Get in touchToday\u2019s Premier League fixtures:Hull City v Manchester United (12:30)Everton v Crystal PalaceIpswich v SunderlandNottingham Forest v LeedsBrentford v Tottenham (17:30) Continue reading...",
+    "data": {
+      "headline": "PREMIER LEAGUE BUILDUP, TRANSFERS",
+      "subhead": "and Hull v Manchester United early news \u2013 matchday live",
+      "caption": "Premier League buildup, transfers and Hull v Manchester United early news \u2013 matchday live"
+    },
+    "score": 120.0,
+    "fingerprint": "1b46aa3726a947c5"
+  },
+  "queued_at": "2026-08-22T07:24:58.378503+00:00"
+}
