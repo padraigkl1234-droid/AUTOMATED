@@ -1,0 +1,33 @@
+{
+  "fingerprint": "b95318c871638d40",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Villa close to signing Germany midfielder Goretzka",
+  "full_caption": "Villa close to signing Germany midfielder Goretzka\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #fcbayern #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbayern",
+    "#avfc"
+  ],
+  "image_path": "out/b95318c871638d40_story.png",
+  "video_path": "out/b95318c871638d40_story.mp4",
+  "story": {
+    "title": "Villa close to signing Germany midfielder Goretzka",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cnvnvjer47mo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-22T14:39:46+00:00",
+    "summary": "Aston Villa are close to signing free agent Leon Goretzka, who left Bayern Munich in the summer after eight years.",
+    "data": {
+      "headline": "VILLA CLOSE TO SIGNING GERMANY",
+      "subhead": "midfielder Goretzka",
+      "caption": "Villa close to signing Germany midfielder Goretzka"
+    },
+    "score": 105.0,
+    "fingerprint": "b95318c871638d40"
+  },
+  "queued_at": "2026-08-22T17:25:28.201684+00:00"
+}
