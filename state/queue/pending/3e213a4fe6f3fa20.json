@@ -1,0 +1,32 @@
+{
+  "fingerprint": "3e213a4fe6f3fa20",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Alvarez open to Arsenal transfer - Sunday's gossip",
+  "full_caption": "Alvarez open to Arsenal transfer - Sunday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/3e213a4fe6f3fa20_story.png",
+  "video_path": "out/3e213a4fe6f3fa20_story.mp4",
+  "story": {
+    "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-22T20:39:00+00:00",
+    "summary": "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
+    "data": {
+      "headline": "ALVAREZ OPEN TO ARSENAL TRANSFER",
+      "subhead": "Sunday's gossip",
+      "caption": "Alvarez open to Arsenal transfer - Sunday's gossip"
+    },
+    "score": 113.0,
+    "fingerprint": "3e213a4fe6f3fa20"
+  },
+  "queued_at": "2026-08-22T22:23:42.144545+00:00"
+}
