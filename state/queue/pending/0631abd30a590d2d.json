@@ -1,0 +1,33 @@
+{
+  "fingerprint": "0631abd30a590d2d",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
+  "full_caption": "'Ask him' - Emery cryptic on Watkins amid transfer interest\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #inter #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter",
+    "#avfc"
+  ],
+  "image_path": "out/0631abd30a590d2d_story.png",
+  "video_path": "out/0631abd30a590d2d_story.mp4",
+  "story": {
+    "title": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13576353/ollie-watkins-transfer-news-aston-villa-boss-unai-emery-gives-cryptic-answer-when-asked-about-striker-amid-al-hilal-interest",
+    "published_at": "2026-08-23T16:46:00+00:00",
+    "summary": "Unai Emery&#160;gave a coy and cryptic response to questions about&#160;Ollie Watkins' absence from&#160;Aston Villa's&#160;squad for their Premier League defeat at&#160;Brighton.&#160;",
+    "data": {
+      "headline": "'ASK HIM'",
+      "subhead": "Emery cryptic on Watkins amid transfer interest",
+      "caption": "'Ask him' - Emery cryptic on Watkins amid transfer interest"
+    },
+    "score": 102.0,
+    "fingerprint": "0631abd30a590d2d"
+  },
+  "queued_at": "2026-08-23T17:24:36.902629+00:00"
+}
