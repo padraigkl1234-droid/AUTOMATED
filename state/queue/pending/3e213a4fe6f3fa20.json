@@ -1,7 +1,7 @@
 {
   "fingerprint": "3e213a4fe6f3fa20",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
   "caption": "Alvarez open to Arsenal transfer - Sunday's gossip",
   "full_caption": "Alvarez open to Arsenal transfer - Sunday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
   "hashtags": [
@@ -25,8 +25,8 @@
       "subhead": "Sunday's gossip",
       "caption": "Alvarez open to Arsenal transfer - Sunday's gossip"
     },
-    "score": 113.0,
+    "score": 98.0,
     "fingerprint": "3e213a4fe6f3fa20"
   },
-  "queued_at": "2026-08-22T22:23:42.144545+00:00"
+  "queued_at": "2026-08-23T07:26:55.724749+00:00"
 }
