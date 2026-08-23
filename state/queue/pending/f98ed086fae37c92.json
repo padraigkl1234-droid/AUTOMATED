@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f98ed086fae37c92",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
+  "full_caption": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#realmadrid"
+  ],
+  "image_path": "out/f98ed086fae37c92_story.png",
+  "video_path": "out/f98ed086fae37c92_story.mp4",
+  "story": {
+    "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-23T10:05:27+00:00",
+    "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
+    "data": {
+      "headline": "'IT HURTS'",
+      "subhead": "Alexander-Arnold reveals he still receives abuse after Liverpool exit",
+      "caption": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit"
+    },
+    "score": 78.0,
+    "fingerprint": "f98ed086fae37c92"
+  },
+  "queued_at": "2026-08-23T12:48:48.891859+00:00"
+}
