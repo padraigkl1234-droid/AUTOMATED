@@ -1,0 +1,33 @@
+{
+  "fingerprint": "ee5e960149e37536",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Signs that Jaissle's Newcastle are not to be written off",
+  "full_caption": "Signs that Jaissle's Newcastle are not to be written off\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#nufc"
+  ],
+  "image_path": "out/ee5e960149e37536_story.png",
+  "video_path": "out/ee5e960149e37536_story.mp4",
+  "story": {
+    "title": "Signs that Jaissle's Newcastle are not to be written off",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c80n021k098o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-23T20:38:18+00:00",
+    "summary": "Newcastle United were predicted to struggle from the off by some pundits, but head coach Matthias Jaissle will take encouragement from aspects of their display even after conceding a late equaliser against Liverpool",
+    "data": {
+      "headline": "SIGNS THAT JAISSLE'S NEWCASTLE ARE",
+      "subhead": "not to be written off",
+      "caption": "Signs that Jaissle's Newcastle are not to be written off"
+    },
+    "score": 113.0,
+    "fingerprint": "ee5e960149e37536"
+  },
+  "queued_at": "2026-08-23T22:24:15.411119+00:00"
+}
