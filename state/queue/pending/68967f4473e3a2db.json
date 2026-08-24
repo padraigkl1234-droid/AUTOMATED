@@ -1,0 +1,34 @@
+{
+  "fingerprint": "68967f4473e3a2db",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atl\u00e9tico?",
+  "full_caption": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atl\u00e9tico?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transferrumours #mcfc #afc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours",
+    "#mcfc",
+    "#afc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/68967f4473e3a2db_story.png",
+  "video_path": "out/68967f4473e3a2db_story.mp4",
+  "story": {
+    "title": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atl\u00e9tico?",
+    "kind": "rumour",
+    "tier": 2,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
+    "published_at": "2026-08-24T07:23:45+00:00",
+    "summary": "Today\u2019s rumours laugh off heartburnBooing Juli\u00e1n Alvarez during Atl\u00e9tico Madrid\u2019s draw with Villarreal on Sunday has seemingly convinced the Argentina forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelona, who may not have the funds to complete the signing, whereas the Gunners have plenty of cash to splash.Alejandro Balde wa",
+    "data": {
+      "headline": "FOOTBALL TRANSFER RUMOURS",
+      "subhead": "Alvarez set for Arsenal after being booed at Atl\u00e9tico?",
+      "caption": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atl\u00e9tico?"
+    },
+    "score": 75.0,
+    "fingerprint": "68967f4473e3a2db"
+  },
+  "queued_at": "2026-08-24T12:58:46.824297+00:00"
+}
