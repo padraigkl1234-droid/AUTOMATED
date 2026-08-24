@@ -1,0 +1,31 @@
+{
+  "fingerprint": "77690c7d719b7a49",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "What does your Premiership club need in final 11 days of transfer window?",
+  "full_caption": "What does your Premiership club need in final 11 days of transfer window?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/77690c7d719b7a49_story.png",
+  "video_path": "out/77690c7d719b7a49_story.mp4",
+  "story": {
+    "title": "What does your Premiership club need in final 11 days of transfer window?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgmkmpj03zmo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-24T07:41:49+00:00",
+    "summary": "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
+    "data": {
+      "headline": "WHAT DOES YOUR PREMIERSHIP CLUB",
+      "subhead": "need in final 11 days of transfer window?",
+      "caption": "What does your Premiership club need in final 11 days of transfer window?"
+    },
+    "score": 100.0,
+    "fingerprint": "77690c7d719b7a49"
+  },
+  "queued_at": "2026-08-24T07:51:35.635129+00:00"
+}
