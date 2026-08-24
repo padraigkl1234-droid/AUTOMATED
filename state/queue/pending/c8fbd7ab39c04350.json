@@ -1,0 +1,33 @@
+{
+  "fingerprint": "c8fbd7ab39c04350",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Nottingham Forest close in on signing Liam Delap from Chelsea",
+  "full_caption": "Nottingham Forest close in on signing Liam Delap from Chelsea\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #cfc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc",
+    "#avfc"
+  ],
+  "image_path": "out/c8fbd7ab39c04350_story.png",
+  "video_path": "out/c8fbd7ab39c04350_story.mp4",
+  "story": {
+    "title": "Nottingham Forest close in on signing Liam Delap from Chelsea",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/24/nottingham-forest-liam-delap-chelsea-tranfer-window",
+    "published_at": "2026-08-24T21:31:26+00:00",
+    "summary": "Oliver Glasner wants two more buys in transfer windowAston Villa target Club Brugge defender Joel Ord\u00f3\u00f1ezNottingham Forest are in advanced talks with Chelsea over a deal for Liam Delap. Oliver Glasner wants two more signings before the transfer window closes a week on Tuesday.Delap, who was on Forest\u2019s radar when the striker opted to join Chelsea from Ipswich, is out of favour at Stamford Bridge a",
+    "data": {
+      "headline": "NOTTINGHAM FOREST CLOSE",
+      "subhead": "in on signing Liam Delap from Chelsea",
+      "caption": "Nottingham Forest close in on signing Liam Delap from Chelsea"
+    },
+    "score": 112.0,
+    "fingerprint": "c8fbd7ab39c04350"
+  },
+  "queued_at": "2026-08-24T22:28:38.381370+00:00"
+}
