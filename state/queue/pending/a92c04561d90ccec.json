@@ -1,7 +1,7 @@
 {
   "fingerprint": "a92c04561d90ccec",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Baleba completes \u00a370m Man Utd move from Brighton",
   "full_caption": "Baleba completes \u00a370m Man Utd move from Brighton\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
   "hashtags": [
@@ -28,8 +28,8 @@
       "subhead": "move from Brighton",
       "caption": "Baleba completes \u00a370m Man Utd move from Brighton"
     },
-    "score": 119.0,
+    "score": 104.0,
     "fingerprint": "a92c04561d90ccec"
   },
-  "queued_at": "2026-08-25T17:35:49.137413+00:00"
+  "queued_at": "2026-08-25T22:29:46.093091+00:00"
 }
