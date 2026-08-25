@@ -1,0 +1,35 @@
+{
+  "fingerprint": "a92c04561d90ccec",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Baleba completes \u00a370m Man Utd move from Brighton",
+  "full_caption": "Baleba completes \u00a370m Man Utd move from Brighton\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/a92c04561d90ccec_story.png",
+  "video_path": "out/a92c04561d90ccec_story.mp4",
+  "story": {
+    "title": "Baleba completes \u00a370m Man Utd move from Brighton",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-25T15:55:56+00:00",
+    "summary": "Manchester United sign Cameroon midfielder Carlos Baleba from Brighton in a \u00a370m deal.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "BALEBA COMPLETES \u00a370M MAN UTD",
+      "subhead": "move from Brighton",
+      "caption": "Baleba completes \u00a370m Man Utd move from Brighton"
+    },
+    "score": 119.0,
+    "fingerprint": "a92c04561d90ccec"
+  },
+  "queued_at": "2026-08-25T17:35:49.137413+00:00"
+}
