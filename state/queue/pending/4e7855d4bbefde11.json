@@ -1,0 +1,31 @@
+{
+  "fingerprint": "4e7855d4bbefde11",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Dalglish and Carney win PFA merit awards",
+  "full_caption": "Dalglish and Carney win PFA merit awards\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/4e7855d4bbefde11_story.png",
+  "video_path": "out/4e7855d4bbefde11_story.mp4",
+  "story": {
+    "title": "Dalglish and Carney win PFA merit awards",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-25T10:01:23+00:00",
+    "summary": "Liverpool and Scotland legend Sir Kenny Dalglish and Lionesses great Karen Carney win the Professional Footballers' Association's merit awards for 2026.",
+    "data": {
+      "headline": "DALGLISH AND CARNEY WIN PFA",
+      "subhead": "merit awards",
+      "caption": "Dalglish and Carney win PFA merit awards"
+    },
+    "score": 78.0,
+    "fingerprint": "4e7855d4bbefde11"
+  },
+  "queued_at": "2026-08-25T12:55:01.981895+00:00"
+}
