@@ -1,0 +1,31 @@
+{
+  "fingerprint": "b0fd4dfb4dec01bc",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal",
+  "full_caption": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/b0fd4dfb4dec01bc_story.png",
+  "video_path": "out/b0fd4dfb4dec01bc_story.mp4",
+  "story": {
+    "title": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/f1/news/12040/13577061/max-verstappen-mercedes-boss-toto-wolff-says-he-is-not-at-all-disappointed-by-dutchmans-new-red-bull-contract",
+    "published_at": "2026-08-26T07:00:00+00:00",
+    "summary": "Mercedes chief Toto Wolff says he is \"not at all\" disappointed by Max Verstappen having committed to Red Bull with a new contract that runs until 2030.",
+    "data": {
+      "headline": "WOLFF 'NOT AT ALL' DISAPPOINTED",
+      "subhead": "by Verstappen's new Red Bull deal",
+      "caption": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal"
+    },
+    "score": 90.0,
+    "fingerprint": "b0fd4dfb4dec01bc"
+  },
+  "queued_at": "2026-08-26T07:39:18.778509+00:00"
+}
