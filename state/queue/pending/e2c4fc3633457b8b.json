@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e2c4fc3633457b8b",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row",
+  "full_caption": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/e2c4fc3633457b8b_story.png",
+  "video_path": "out/e2c4fc3633457b8b_story.mp4",
+  "story": {
+    "title": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-26T16:23:04+00:00",
+    "summary": "Barcelona have again restated their desire to sign Julian Alvarez, prompting another angry response from Atletico Madrid.",
+    "data": {
+      "headline": "'0% CHANCE'",
+      "subhead": "Atletico hit back at Barca over Alvarez transfer row",
+      "caption": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row"
+    },
+    "score": 113.0,
+    "fingerprint": "e2c4fc3633457b8b"
+  },
+  "queued_at": "2026-08-26T19:07:52.054833+00:00"
+}
