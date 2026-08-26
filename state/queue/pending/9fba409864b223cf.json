@@ -1,0 +1,34 @@
+{
+  "fingerprint": "9fba409864b223cf",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
+  "full_caption": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transferrumours #cfc #inter #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours",
+    "#cfc",
+    "#inter",
+    "#avfc"
+  ],
+  "image_path": "out/9fba409864b223cf_story.png",
+  "video_path": "out/9fba409864b223cf_story.mp4",
+  "story": {
+    "title": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
+    "kind": "rumour",
+    "tier": 2,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa",
+    "published_at": "2026-08-26T08:13:30+00:00",
+    "summary": "Today\u2019s fluff is splashing out regardlessLiam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The England youth international is thought to be breaking Nottingham Forest\u2019s transfer fee record with Oliver Glasner bringing him in for an expected \u00a350m. The fee comes despite a disappointing 2025-26 season with the 23-year-old striker sc",
+    "data": {
+      "headline": "FOOTBALL TRANSFER RUMOURS",
+      "subhead": "Jean-Philippe Mateta to Aston Villa?",
+      "caption": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?"
+    },
+    "score": 67.0,
+    "fingerprint": "9fba409864b223cf"
+  },
+  "queued_at": "2026-08-26T13:00:53.719998+00:00"
+}
