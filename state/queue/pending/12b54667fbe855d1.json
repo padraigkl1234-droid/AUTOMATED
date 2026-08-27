@@ -1,0 +1,32 @@
+{
+  "fingerprint": "12b54667fbe855d1",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Liverpool turn attention to Sarr after Brighton reject Minteh bids",
+  "full_caption": "Liverpool turn attention to Sarr after Brighton reject Minteh bids\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/12b54667fbe855d1_story.png",
+  "video_path": "out/12b54667fbe855d1_story.mp4",
+  "story": {
+    "title": "Liverpool turn attention to Sarr after Brighton reject Minteh bids",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr7d5m4d928o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-26T15:42:13+00:00",
+    "summary": "Liverpool are exploring a move for Crystal Palace's Ismaila Sarr after Brighton reject their two bids for Yankuba Minteh.",
+    "data": {
+      "headline": "LIVERPOOL TURN ATTENTION TO SARR",
+      "subhead": "after Brighton reject Minteh bids",
+      "caption": "Liverpool turn attention to Sarr after Brighton reject Minteh bids"
+    },
+    "score": 98.0,
+    "fingerprint": "12b54667fbe855d1"
+  },
+  "queued_at": "2026-08-27T02:59:42.445961+00:00"
+}
