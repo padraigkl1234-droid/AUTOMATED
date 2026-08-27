@@ -1,0 +1,32 @@
+{
+  "fingerprint": "a2e726b3666d8171",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Fiorentina in talks with Man United over Zirkzee loan",
+  "full_caption": "Fiorentina in talks with Man United over Zirkzee loan\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/a2e726b3666d8171_story.png",
+  "video_path": "out/a2e726b3666d8171_story.mp4",
+  "story": {
+    "title": "Fiorentina in talks with Man United over Zirkzee loan",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwyz9lllx3xo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-27T15:34:22+00:00",
+    "summary": "Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
+    "data": {
+      "headline": "FIORENTINA IN TALKS WITH MAN",
+      "subhead": "United over Zirkzee loan",
+      "caption": "Fiorentina in talks with Man United over Zirkzee loan"
+    },
+    "score": 113.0,
+    "fingerprint": "a2e726b3666d8171"
+  },
+  "queued_at": "2026-08-27T18:00:05.190717+00:00"
+}
