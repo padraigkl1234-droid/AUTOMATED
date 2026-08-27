@@ -1,0 +1,33 @@
+{
+  "fingerprint": "28dff3b0481b44a2",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Arsenal continue Alvarez pursuit - Friday's gossip",
+  "full_caption": "Arsenal continue Alvarez pursuit - Friday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mcfc #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/28dff3b0481b44a2_story.png",
+  "video_path": "out/28dff3b0481b44a2_story.mp4",
+  "story": {
+    "title": "Arsenal continue Alvarez pursuit - Friday's gossip",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3eq89xedp0o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-27T21:33:44+00:00",
+    "summary": "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
+    "data": {
+      "headline": "ARSENAL CONTINUE ALVAREZ PURSUIT",
+      "subhead": "Friday's gossip",
+      "caption": "Arsenal continue Alvarez pursuit - Friday's gossip"
+    },
+    "score": 85.0,
+    "fingerprint": "28dff3b0481b44a2"
+  },
+  "queued_at": "2026-08-27T22:03:04.449897+00:00"
+}
