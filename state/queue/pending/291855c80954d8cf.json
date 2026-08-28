@@ -1,7 +1,7 @@
 {
   "fingerprint": "291855c80954d8cf",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Chelsea agree \u00a37.5m deal to sign Emiliano Mart\u00ednez from Aston Villa",
   "full_caption": "Chelsea agree \u00a37.5m deal to sign Emiliano Mart\u00ednez from Aston Villa\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #cfc #avfc",
   "hashtags": [
@@ -33,5 +33,5 @@
     "score": 96.0,
     "fingerprint": "291855c80954d8cf"
   },
-  "queued_at": "2026-08-28T01:24:06.011637+00:00"
+  "queued_at": "2026-08-28T06:00:01.810132+00:00"
 }
