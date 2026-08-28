@@ -1,0 +1,37 @@
+{
+  "fingerprint": "291855c80954d8cf",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Chelsea agree \u00a37.5m deal to sign Emiliano Mart\u00ednez from Aston Villa",
+  "full_caption": "Chelsea agree \u00a37.5m deal to sign Emiliano Mart\u00ednez from Aston Villa\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #cfc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#cfc",
+    "#avfc"
+  ],
+  "image_path": "out/291855c80954d8cf_story.png",
+  "video_path": "out/291855c80954d8cf_story.mp4",
+  "story": {
+    "title": "Chelsea agree \u00a37.5m deal to sign Emiliano Mart\u00ednez from Aston Villa",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez",
+    "published_at": "2026-08-27T18:19:59+00:00",
+    "summary": "Enzo Fern\u00e1ndez left out of Luton Carabao Cup tieVilla sign Germany midfielder Leon Goretzka on freeChelsea have agreed a \u00a37.5m deal to sign the Aston Villa goalkeeper Emiliano Mart\u00ednez and are expecting Manchester City to make an offer for Enzo Fern\u00e1ndez in the next 48 hours.Xabi Alonso identified the signing of a goalkeeper as a priority after Robert S\u00e1nchez struggled against Fulham on Monday and",
+    "data": {
+      "corroborations": [
+        "BBC Sport"
+      ],
+      "headline": "CHELSEA AGREE \u00a37.5M DEAL",
+      "subhead": "to sign Emiliano Mart\u00ednez from Aston Villa",
+      "caption": "Chelsea agree \u00a37.5m deal to sign Emiliano Mart\u00ednez from Aston Villa"
+    },
+    "score": 96.0,
+    "fingerprint": "291855c80954d8cf"
+  },
+  "queued_at": "2026-08-28T01:24:06.011637+00:00"
+}
