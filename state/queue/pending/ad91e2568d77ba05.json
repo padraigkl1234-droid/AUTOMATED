@@ -1,0 +1,31 @@
+{
+  "fingerprint": "ad91e2568d77ba05",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Andoni Iraola tells Liverpool\u2019s forwards to \u2018exhaust themselves\u2019",
+  "full_caption": "Andoni Iraola tells Liverpool\u2019s forwards to \u2018exhaust themselves\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/ad91e2568d77ba05_story.png",
+  "video_path": "out/ad91e2568d77ba05_story.mp4",
+  "story": {
+    "title": "Andoni Iraola tells Liverpool\u2019s forwards to \u2018exhaust themselves\u2019",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/28/andoni-iraola-tells-liverpools-forwards-to-exhaust-themselves",
+    "published_at": "2026-08-28T21:30:08+00:00",
+    "summary": "\u2018I tell them they don\u2019t need to give us 90 minutes\u2019Head coach takes charge of first home game on SaturdayAndoni Iraola has said it is more important for Liverpool\u2019s forwards to exhaust themselves than perform for 90 minutes as he prepares to make an \u201cemotional\u201d Premier League bow at Anfield.The Liverpool head coach hopes his attacking options will be improved by the arrival of Bradley Barcola from",
+    "data": {
+      "headline": "ANDONI IRAOLA TELLS LIVERPOOL\u2019S FORWARDS",
+      "subhead": "to \u2018exhaust themselves\u2019",
+      "caption": "Andoni Iraola tells Liverpool\u2019s forwards to \u2018exhaust themselves\u2019"
+    },
+    "score": 85.0,
+    "fingerprint": "ad91e2568d77ba05"
+  },
+  "queued_at": "2026-08-28T22:00:01.642239+00:00"
+}
