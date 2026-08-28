@@ -1,0 +1,34 @@
+{
+  "fingerprint": "9aaa474049d3721f",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Villa confirm club-record Jackson signing as deal agreed for Mbaye",
+  "full_caption": "Villa confirm club-record Jackson signing as deal agreed for Mbaye\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #cfc #psg #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc",
+    "#psg",
+    "#avfc"
+  ],
+  "image_path": "out/9aaa474049d3721f_story.png",
+  "video_path": "out/9aaa474049d3721f_story.mp4",
+  "story": {
+    "title": "Villa confirm club-record Jackson signing as deal agreed for Mbaye",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13578279/nicolas-jackson-transfer-news-aston-villa-confirm-club-record-65m-signing-as-deal-agreed-to-sign-ibrahim-mbaye-from-psg",
+    "published_at": "2026-08-28T19:20:00+00:00",
+    "summary": "Aston Villa have confirmed the club-record signing of Nicolas Jackson from Chelsea while also reaching a verbal agreement to sign Paris Saint-Germain winger Ibrahim Mbaye.",
+    "data": {
+      "headline": "VILLA CONFIRM CLUB-RECORD JACKSON SIGNING",
+      "subhead": "as deal agreed for Mbaye",
+      "caption": "Villa confirm club-record Jackson signing as deal agreed for Mbaye"
+    },
+    "score": 102.0,
+    "fingerprint": "9aaa474049d3721f"
+  },
+  "queued_at": "2026-08-28T19:10:10.345825+00:00"
+}
