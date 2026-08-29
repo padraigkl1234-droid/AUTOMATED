@@ -1,0 +1,32 @@
+{
+  "fingerprint": "1a863743a667f722",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+  "full_caption": "Iraola awaits first win as Liverpool rescue late draw against Forest\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#lfc"
+  ],
+  "image_path": "out/1a863743a667f722_story.png",
+  "video_path": "out/1a863743a667f722_story.mp4",
+  "story": {
+    "title": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-29T19:12:20+00:00",
+    "summary": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+    "data": {
+      "headline": "IRAOLA AWAITS FIRST WIN",
+      "subhead": "as Liverpool rescue late draw against Forest",
+      "caption": "Iraola awaits first win as Liverpool rescue late draw against Forest"
+    },
+    "score": 107.0,
+    "fingerprint": "1a863743a667f722"
+  },
+  "queued_at": "2026-08-29T19:38:53.391318+00:00"
+}
