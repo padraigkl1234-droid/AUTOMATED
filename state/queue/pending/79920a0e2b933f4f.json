@@ -1,0 +1,33 @@
+{
+  "fingerprint": "79920a0e2b933f4f",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "How new signing Gonzalez can be Newcastle's 'quarterback'",
+  "full_caption": "How new signing Gonzalez can be Newcastle's 'quarterback'\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc",
+    "#nufc"
+  ],
+  "image_path": "out/79920a0e2b933f4f_story.png",
+  "video_path": "out/79920a0e2b933f4f_story.mp4",
+  "story": {
+    "title": "How new signing Gonzalez can be Newcastle's 'quarterback'",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cde0k31731xo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-29T22:26:51+00:00",
+    "summary": "BBC Sport pundit Ashley Williams explains how Nico Gonzalez' ability to play forward passes quickly encouraged Anthony Elanga to make runs in behind the Tottenham defence in Newcastle's 2-0 win over the North London side in the Premier League.",
+    "data": {
+      "headline": "HOW NEW SIGNING GONZALEZ CAN",
+      "subhead": "be Newcastle's 'quarterback'",
+      "caption": "How new signing Gonzalez can be Newcastle's 'quarterback'"
+    },
+    "score": 105.0,
+    "fingerprint": "79920a0e2b933f4f"
+  },
+  "queued_at": "2026-08-29T23:56:44.492644+00:00"
+}
