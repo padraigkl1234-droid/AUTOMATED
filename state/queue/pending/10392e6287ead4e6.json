@@ -1,0 +1,31 @@
+{
+  "fingerprint": "10392e6287ead4e6",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "'That trust isn't there' - how does Iraola get best out of Isak?",
+  "full_caption": "'That trust isn't there' - how does Iraola get best out of Isak?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/10392e6287ead4e6_story.png",
+  "video_path": "out/10392e6287ead4e6_story.mp4",
+  "story": {
+    "title": "'That trust isn't there' - how does Iraola get best out of Isak?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-29T15:49:49+00:00",
+    "summary": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
+    "data": {
+      "headline": "'THAT TRUST ISN'T THERE'",
+      "subhead": "how does Iraola get best out of Isak?",
+      "caption": "'That trust isn't there' - how does Iraola get best out of Isak?"
+    },
+    "score": 85.0,
+    "fingerprint": "10392e6287ead4e6"
+  },
+  "queued_at": "2026-08-29T16:29:53.850823+00:00"
+}
