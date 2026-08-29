@@ -1,0 +1,32 @@
+{
+  "fingerprint": "70cf99576e759a7c",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Liverpool agree \u00a3123m deal for PSG's Barcola",
+  "full_caption": "Liverpool agree \u00a3123m deal for PSG's Barcola\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/70cf99576e759a7c_story.png",
+  "video_path": "out/70cf99576e759a7c_story.mp4",
+  "story": {
+    "title": "Liverpool agree \u00a3123m deal for PSG's Barcola",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-29T08:03:53+00:00",
+    "summary": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
+    "data": {
+      "headline": "LIVERPOOL AGREE \u00a3123M DEAL",
+      "subhead": "for PSG's Barcola",
+      "caption": "Liverpool agree \u00a3123m deal for PSG's Barcola"
+    },
+    "score": 105.0,
+    "fingerprint": "70cf99576e759a7c"
+  },
+  "queued_at": "2026-08-29T12:54:16.015412+00:00"
+}
