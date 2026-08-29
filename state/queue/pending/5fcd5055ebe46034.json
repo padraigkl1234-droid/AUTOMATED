@@ -1,0 +1,32 @@
+{
+  "fingerprint": "5fcd5055ebe46034",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Tottenham reject Danso loan move to Sunderland",
+  "full_caption": "Tottenham reject Danso loan move to Sunderland\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/5fcd5055ebe46034_story.png",
+  "video_path": "out/5fcd5055ebe46034_story.mp4",
+  "story": {
+    "title": "Tottenham reject Danso loan move to Sunderland",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp3knknq5neo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-28T21:41:55+00:00",
+    "summary": "Tottenham Hotspur reject a season-long loan offer from Sunderland for defender Kevin Danso.",
+    "data": {
+      "headline": "TOTTENHAM REJECT DANSO LOAN MOVE",
+      "subhead": "to Sunderland",
+      "caption": "Tottenham reject Danso loan move to Sunderland"
+    },
+    "score": 97.0,
+    "fingerprint": "5fcd5055ebe46034"
+  },
+  "queued_at": "2026-08-29T00:54:20.035429+00:00"
+}
