@@ -1,0 +1,31 @@
+{
+  "fingerprint": "69cf8917168e7f3b",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Manchester United v Ipswich Town: Premier League \u2013 live",
+  "full_caption": "Manchester United v Ipswich Town: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/69cf8917168e7f3b_story.png",
+  "video_path": "out/69cf8917168e7f3b_story.mp4",
+  "story": {
+    "title": "Manchester United v Ipswich Town: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
+    "published_at": "2026-08-30T16:08:35+00:00",
+    "summary": "Premier League updates from the 4.30pm (BST) kick-offLive scoreboard | Mail Tim and follow us over on BlueskyOut come the players, some of them holding babes in arms \u2013 including Marcus Rashford, who has a big smile on his face.The first email of the afternoon comes from Dave. \u201cHi Tim, loving the MBM.\u201d Thanks! \u201cJust wondered if there\u2019s any insight into why Sesko seems to find it so hard to get a st",
+    "data": {
+      "headline": "MANCHESTER UNITED V IPSWICH TOWN",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Manchester United v Ipswich Town: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "69cf8917168e7f3b"
+  },
+  "queued_at": "2026-08-30T16:23:34.922007+00:00"
+}
