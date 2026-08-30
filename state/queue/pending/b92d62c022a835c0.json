@@ -1,0 +1,32 @@
+{
+  "fingerprint": "b92d62c022a835c0",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Tottenham make Ndiaye move with Richarlison set for Everton",
+  "full_caption": "Tottenham make Ndiaye move with Richarlison set for Everton\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/b92d62c022a835c0_story.png",
+  "video_path": "out/b92d62c022a835c0_story.mp4",
+  "story": {
+    "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-30T10:39:54+00:00",
+    "summary": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
+    "data": {
+      "headline": "TOTTENHAM MAKE NDIAYE MOVE",
+      "subhead": "with Richarlison set for Everton",
+      "caption": "Tottenham make Ndiaye move with Richarlison set for Everton"
+    },
+    "score": 105.0,
+    "fingerprint": "b92d62c022a835c0"
+  },
+  "queued_at": "2026-08-30T12:29:06.538985+00:00"
+}
