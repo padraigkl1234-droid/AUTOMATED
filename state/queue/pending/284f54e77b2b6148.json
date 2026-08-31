@@ -1,0 +1,36 @@
+{
+  "fingerprint": "284f54e77b2b6148",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Man City agree \u00a365m deal for Everton's Ndiaye",
+  "full_caption": "Man City agree \u00a365m deal for Everton's Ndiaye\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/284f54e77b2b6148_story.png",
+  "video_path": "out/284f54e77b2b6148_story.mp4",
+  "story": {
+    "title": "Man City agree \u00a365m deal for Everton's Ndiaye",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-31T19:12:15+00:00",
+    "summary": "Manchester City agree a deal worth a minimum \u00a360m to sign Iliman Ndiaye from Everton.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "MAN CITY AGREE \u00a365M DEAL",
+      "subhead": "for Everton's Ndiaye",
+      "caption": "Man City agree \u00a365m deal for Everton's Ndiaye"
+    },
+    "score": 117.0,
+    "fingerprint": "284f54e77b2b6148"
+  },
+  "queued_at": "2026-08-31T21:50:38.722365+00:00"
+}
