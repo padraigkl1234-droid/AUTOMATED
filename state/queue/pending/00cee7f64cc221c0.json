@@ -1,0 +1,32 @@
+{
+  "fingerprint": "00cee7f64cc221c0",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Aston Villa v Arsenal: Premier League \u2013 live",
+  "full_caption": "Aston Villa v Arsenal: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/00cee7f64cc221c0_story.png",
+  "video_path": "out/00cee7f64cc221c0_story.mp4",
+  "story": {
+    "title": "Aston Villa v Arsenal: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
+    "published_at": "2026-08-31T18:57:05+00:00",
+    "summary": "\u26bd\ufe0f Premier League updates from the 8pm BST kick-off\u26bd\ufe0f Email Scott and follow us on TikTok and BlueskyThe teams are out! You know what everyone\u2019s wearing. A reduced capacity of around 37,000 at Villa Park, with the North Stand closed for the season to facilitate its expansion. We\u2019ll be off in a couple of minutes.Pre-match postbag. \u201cPoor Villa. They were so great last year. Then management sells off",
+    "data": {
+      "headline": "ASTON VILLA V ARSENAL",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Aston Villa v Arsenal: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "00cee7f64cc221c0"
+  },
+  "queued_at": "2026-08-31T18:59:14.158453+00:00"
+}
