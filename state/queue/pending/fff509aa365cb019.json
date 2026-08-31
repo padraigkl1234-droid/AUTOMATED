@@ -1,0 +1,35 @@
+{
+  "fingerprint": "fff509aa365cb019",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Barcola joins Liverpool from PSG in \u00a3123m move",
+  "full_caption": "Barcola joins Liverpool from PSG in \u00a3123m move\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/fff509aa365cb019_story.png",
+  "video_path": "out/fff509aa365cb019_story.mp4",
+  "story": {
+    "title": "Barcola joins Liverpool from PSG in \u00a3123m move",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-08-31T13:01:22+00:00",
+    "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to \u00a3123m.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "BARCOLA JOINS LIVERPOOL FROM PSG",
+      "subhead": "in \u00a3123m move",
+      "caption": "Barcola joins Liverpool from PSG in \u00a3123m move"
+    },
+    "score": 119.0,
+    "fingerprint": "fff509aa365cb019"
+  },
+  "queued_at": "2026-08-31T14:39:27.238142+00:00"
+}
