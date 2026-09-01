@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c6811e2c471cb9da",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Ahanor to join Chelsea next season after Palace loan",
+  "full_caption": "Ahanor to join Chelsea next season after Palace loan\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc"
+  ],
+  "image_path": "out/c6811e2c471cb9da_story.png",
+  "video_path": "out/c6811e2c471cb9da_story.mp4",
+  "story": {
+    "title": "Ahanor to join Chelsea next season after Palace loan",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-01T11:50:30+00:00",
+    "summary": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace.",
+    "data": {
+      "headline": "AHANOR TO JOIN CHELSEA NEXT",
+      "subhead": "season after Palace loan",
+      "caption": "Ahanor to join Chelsea next season after Palace loan"
+    },
+    "score": 112.0,
+    "fingerprint": "c6811e2c471cb9da"
+  },
+  "queued_at": "2026-09-01T12:15:27.684074+00:00"
+}
