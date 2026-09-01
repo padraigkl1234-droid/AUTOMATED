@@ -1,0 +1,36 @@
+{
+  "fingerprint": "cc3e6d506bf49cb9",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+  "full_caption": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#cfc"
+  ],
+  "image_path": "out/cc3e6d506bf49cb9_story.png",
+  "video_path": "out/cc3e6d506bf49cb9_story.mp4",
+  "story": {
+    "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-01T23:16:59+00:00",
+    "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "DEADLINES, ACRIMONY AND A RECORD",
+      "subhead": "as Man City back Maresca for Fernandez deal",
+      "caption": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal"
+    },
+    "score": 118.0,
+    "fingerprint": "cc3e6d506bf49cb9"
+  },
+  "queued_at": "2026-09-01T23:52:13.755706+00:00"
+}
