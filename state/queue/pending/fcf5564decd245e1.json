@@ -1,0 +1,31 @@
+{
+  "fingerprint": "fcf5564decd245e1",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Man Utd locked in talks for Leicester midfielder Page",
+  "full_caption": "Man Utd locked in talks for Leicester midfielder Page\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/fcf5564decd245e1_story.png",
+  "video_path": "out/fcf5564decd245e1_story.mp4",
+  "story": {
+    "title": "Man Utd locked in talks for Leicester midfielder Page",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-01T15:36:52+00:00",
+    "summary": "Manchester United remain in talks to sign highly-rated Leicester youngster Louis Page in a deal that could be worth over \u00a310m.",
+    "data": {
+      "headline": "MAN UTD LOCKED IN TALKS",
+      "subhead": "for Leicester midfielder Page",
+      "caption": "Man Utd locked in talks for Leicester midfielder Page"
+    },
+    "score": 85.0,
+    "fingerprint": "fcf5564decd245e1"
+  },
+  "queued_at": "2026-09-01T16:20:25.604561+00:00"
+}
