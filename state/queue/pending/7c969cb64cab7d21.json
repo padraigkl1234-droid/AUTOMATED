@@ -1,0 +1,32 @@
+{
+  "fingerprint": "7c969cb64cab7d21",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Brughmans joins Liverpool in deal worth up to \u00a330m",
+  "full_caption": "Brughmans joins Liverpool in deal worth up to \u00a330m\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/7c969cb64cab7d21_story.png",
+  "video_path": "out/7c969cb64cab7d21_story.mp4",
+  "story": {
+    "title": "Brughmans joins Liverpool in deal worth up to \u00a330m",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c86xp9epl83o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-01T18:01:04+00:00",
+    "summary": "Liverpool have secured the signing of teenage goalkeeper Lucca Brughmans for the start of the 2027-28 season.",
+    "data": {
+      "headline": "BRUGHMANS JOINS LIVERPOOL IN DEAL",
+      "subhead": "worth up to \u00a330m",
+      "caption": "Brughmans joins Liverpool in deal worth up to \u00a330m"
+    },
+    "score": 113.0,
+    "fingerprint": "7c969cb64cab7d21"
+  },
+  "queued_at": "2026-09-01T19:48:22.059195+00:00"
+}
