@@ -1,0 +1,33 @@
+{
+  "fingerprint": "a4c33d19bb2db366",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Arsenal trying to lure Juli\u00e1n \u00c1lvarez after agreeing deals to sell Martinelli and Jesus",
+  "full_caption": "Arsenal trying to lure Juli\u00e1n \u00c1lvarez after agreeing deals to sell Martinelli and Jesus\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/a4c33d19bb2db366_story.png",
+  "video_path": "out/a4c33d19bb2db366_story.mp4",
+  "story": {
+    "title": "Arsenal trying to lure Juli\u00e1n \u00c1lvarez after agreeing deals to sell Martinelli and Jesus",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+    "published_at": "2026-08-31T22:36:50+00:00",
+    "summary": "Atl\u00e9tico say they will not allow Barcelona to buy \u00c1lvarez Jesus poised for Bar\u00e7a and Martinelli for Al-HilalArsenal are running out of time to persuade Juli\u00e1n \u00c1lvarez to join them from Atl\u00e9tico Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and F\u00e1bio Vieira in deals collectively worth more than \u00a370m.\u00c1lvarez has his heart set on joining Barcelona despite Atl\u00e9tico\u2019s insistence they ",
+    "data": {
+      "headline": "ARSENAL TRYING TO LURE JULI\u00c1N",
+      "subhead": "\u00c1lvarez after agreeing deals to sell Martinelli and Jesus",
+      "caption": "Arsenal trying to lure Juli\u00e1n \u00c1lvarez after agreeing deals to sell Martinelli and Jesus"
+    },
+    "score": 113.0,
+    "fingerprint": "a4c33d19bb2db366"
+  },
+  "queued_at": "2026-09-01T01:03:06.612116+00:00"
+}
