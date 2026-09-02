@@ -1,0 +1,31 @@
+{
+  "fingerprint": "d66c3b6b3ce832bb",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Man Utd and their calculated left-back gamble",
+  "full_caption": "Man Utd and their calculated left-back gamble\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/d66c3b6b3ce832bb_story.png",
+  "video_path": "out/d66c3b6b3ce832bb_story.mp4",
+  "story": {
+    "title": "Man Utd and their calculated left-back gamble",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-02T10:46:56+00:00",
+    "summary": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
+    "data": {
+      "headline": "MAN UTD AND THEIR CALCULATED",
+      "subhead": "left-back gamble",
+      "caption": "Man Utd and their calculated left-back gamble"
+    },
+    "score": 70.0,
+    "fingerprint": "d66c3b6b3ce832bb"
+  },
+  "queued_at": "2026-09-02T16:18:08.235591+00:00"
+}
