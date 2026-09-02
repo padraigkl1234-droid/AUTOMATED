@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f3b9f3058b515107",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo",
+  "full_caption": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc"
+  ],
+  "image_path": "out/f3b9f3058b515107_story.png",
+  "video_path": "out/f3b9f3058b515107_story.mp4",
+  "story": {
+    "title": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-02T17:25:41+00:00",
+    "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
+    "data": {
+      "headline": "CELTIC LOAN KEEPER JOHNSTONE &",
+      "subhead": "teenage Chelsea duo Mheuka & Emenalo",
+      "caption": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo"
+    },
+    "score": 105.0,
+    "fingerprint": "f3b9f3058b515107"
+  },
+  "queued_at": "2026-09-02T19:41:02.877274+00:00"
+}
