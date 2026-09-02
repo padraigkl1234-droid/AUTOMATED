@@ -1,0 +1,32 @@
+{
+  "fingerprint": "457b086964d4c43b",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions",
+  "full_caption": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/457b086964d4c43b_story.png",
+  "video_path": "out/457b086964d4c43b_story.mp4",
+  "story": {
+    "title": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-02T09:10:32+00:00",
+    "summary": "Feared in attack but light at the back? Liverpool have spent more than \u00a3200m in the transfer window but questions remain over whether the squad has enough depth.",
+    "data": {
+      "headline": "FEARED IN ATTACK, LIGHT AT THE BACK",
+      "subhead": "why Liverpool's transfer window leaves questions",
+      "caption": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions"
+    },
+    "score": 113.0,
+    "fingerprint": "457b086964d4c43b"
+  },
+  "queued_at": "2026-09-02T11:54:07.614092+00:00"
+}
