@@ -1,0 +1,33 @@
+{
+  "fingerprint": "fcfc1931fa9ad120",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "\u2018A commodity\u2019: Isma\u00efla Sarr\u2019s agent wants respect for African players in transfer deals",
+  "full_caption": "\u2018A commodity\u2019: Isma\u00efla Sarr\u2019s agent wants respect for African players in transfer deals\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #lfc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#cfc"
+  ],
+  "image_path": "out/fcfc1931fa9ad120_story.png",
+  "video_path": "out/fcfc1931fa9ad120_story.mp4",
+  "story": {
+    "title": "\u2018A commodity\u2019: Isma\u00efla Sarr\u2019s agent wants respect for African players in transfer deals",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/02/a-commodity-ismaila-sarrs-agent-wants-respect-for-african-players-in-transfer-deals",
+    "published_at": "2026-09-02T19:29:01+00:00",
+    "summary": "Diomansy Kamara says players must \u2018be heard\u2019Monaco defend halting Lamine Camara\u2019s Chelsea moveIsma\u00efla Sarr\u2019s agent has claimed some African players are treated like \u201ca commodity\u201d after Crystal Palace turned down Liverpool\u2019s approach for the Senegal forward and Lamine Camara\u2019s move from Monaco to Chelsea broke down on deadline day.Palace are understood to have rejected a bid from Liverpool for Sarr",
+    "data": {
+      "headline": "\u2018A COMMODITY\u2019",
+      "subhead": "Isma\u00efla Sarr\u2019s agent wants respect for African players in transfer deals",
+      "caption": "\u2018A commodity\u2019: Isma\u00efla Sarr\u2019s agent wants respect for African players in transfer deals"
+    },
+    "score": 105.0,
+    "fingerprint": "fcfc1931fa9ad120"
+  },
+  "queued_at": "2026-09-02T23:55:20.878929+00:00"
+}
