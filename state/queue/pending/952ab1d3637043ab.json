@@ -1,0 +1,35 @@
+{
+  "fingerprint": "952ab1d3637043ab",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move",
+  "full_caption": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/952ab1d3637043ab_story.png",
+  "video_path": "out/952ab1d3637043ab_story.mp4",
+  "story": {
+    "title": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-03T16:30:43+00:00",
+    "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for \u00a360m.",
+    "data": {
+      "corroborations": [
+        "The Guardian"
+      ],
+      "headline": "ARSENAL'S MARTINELLI JOINS AL-HILAL",
+      "subhead": "in \u00a360m move",
+      "caption": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move"
+    },
+    "score": 111.0,
+    "fingerprint": "952ab1d3637043ab"
+  },
+  "queued_at": "2026-09-03T19:41:36.702085+00:00"
+}
