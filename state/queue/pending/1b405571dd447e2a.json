@@ -1,0 +1,33 @@
+{
+  "fingerprint": "1b405571dd447e2a",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Arsenal bank on continuity after big names elude them late in transfer window",
+  "full_caption": "Arsenal bank on continuity after big names elude them late in transfer window\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/1b405571dd447e2a_story.png",
+  "video_path": "out/1b405571dd447e2a_story.mp4",
+  "story": {
+    "title": "Arsenal bank on continuity after big names elude them late in transfer window",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window",
+    "published_at": "2026-09-03T10:51:46+00:00",
+    "summary": "Could the vain pursuit of \u2018dream\u2019 signings such as Vin\u00edcius J\u00fanior at the expense of all-round strengthening come to haunt the champions?When Mikel Arteta revealed before Arsenal\u2019s win at Aston Villa that he had pleaded with the Premier League to introduce bigger matchday squads, the final 24 hours of the transfer window was not quite what he would have had in mind. A deadline day on which Manches",
+    "data": {
+      "headline": "ARSENAL BANK ON CONTINUITY",
+      "subhead": "after big names elude them late in transfer window",
+      "caption": "Arsenal bank on continuity after big names elude them late in transfer window"
+    },
+    "score": 120.0,
+    "fingerprint": "1b405571dd447e2a"
+  },
+  "queued_at": "2026-09-03T11:51:46.370623+00:00"
+}
