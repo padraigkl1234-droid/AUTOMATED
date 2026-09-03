@@ -1,7 +1,7 @@
 {
   "fingerprint": "952ab1d3637043ab",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move",
   "full_caption": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
   "hashtags": [
@@ -28,8 +28,8 @@
       "subhead": "in \u00a360m move",
       "caption": "Arsenal's Martinelli joins Al-Hilal in \u00a360m move"
     },
-    "score": 111.0,
+    "score": 104.0,
     "fingerprint": "952ab1d3637043ab"
   },
-  "queued_at": "2026-09-03T19:41:36.702085+00:00"
+  "queued_at": "2026-09-03T23:50:29.788972+00:00"
 }
