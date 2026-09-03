@@ -1,0 +1,31 @@
+{
+  "fingerprint": "9c7aee7ae710849f",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "How Alvarez needs to rebuild trust at Atletico",
+  "full_caption": "How Alvarez needs to rebuild trust at Atletico\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/9c7aee7ae710849f_story.png",
+  "video_path": "out/9c7aee7ae710849f_story.mp4",
+  "story": {
+    "title": "How Alvarez needs to rebuild trust at Atletico",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c07l8n34dleo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-03T15:47:39+00:00",
+    "summary": "How Julian Alvarez must convince supporters his focus is firmly on Atletico Madrid, after his dream move to Barcelona did not happen.",
+    "data": {
+      "headline": "HOW ALVAREZ NEEDS TO REBUILD",
+      "subhead": "trust at Atletico",
+      "caption": "How Alvarez needs to rebuild trust at Atletico"
+    },
+    "score": 85.0,
+    "fingerprint": "9c7aee7ae710849f"
+  },
+  "queued_at": "2026-09-03T16:10:04.774594+00:00"
+}
