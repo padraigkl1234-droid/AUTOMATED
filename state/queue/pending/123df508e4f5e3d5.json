@@ -1,0 +1,31 @@
+{
+  "fingerprint": "123df508e4f5e3d5",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Barcola available for Liverpool at Ipswich; Dean \u2018in fantasy land\u2019; away fans ban at Old Firm games \u2013 live",
+  "full_caption": "Barcola available for Liverpool at Ipswich; Dean \u2018in fantasy land\u2019; away fans ban at Old Firm games \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/123df508e4f5e3d5_story.png",
+  "video_path": "out/123df508e4f5e3d5_story.mp4",
+  "story": {
+    "title": "Barcola available for Liverpool at Ipswich; Dean \u2018in fantasy land\u2019; away fans ban at Old Firm games \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live",
+    "published_at": "2026-09-04T15:49:53+00:00",
+    "summary": "\u2022 All the latest news and previews before the weekend\u2022 Premier League: 10 things to watch for | Email JohnThe chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Board have joined forces with leading broadcasters and YouTube in writing to the chancellor requesting tax credits for production companies to help deliver more television coverage of women\u2019s s",
+    "data": {
+      "headline": "BARCOLA AVAILABLE FOR LIVERPOOL",
+      "subhead": "at Ipswich; Dean \u2018in fantasy land\u2019; away fans ban at Old Firm",
+      "caption": "Barcola available for Liverpool at Ipswich; Dean \u2018in fantasy land\u2019; away fans ban at Old Firm games \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "123df508e4f5e3d5"
+  },
+  "queued_at": "2026-09-04T16:03:34.085402+00:00"
+}
