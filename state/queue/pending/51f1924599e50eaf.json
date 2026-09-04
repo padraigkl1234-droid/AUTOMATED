@@ -1,0 +1,33 @@
+{
+  "fingerprint": "51f1924599e50eaf",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "WSL transfer talking points: three things we learned from the data",
+  "full_caption": "WSL transfer talking points: three things we learned from the data\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#inter"
+  ],
+  "image_path": "out/51f1924599e50eaf_story.png",
+  "video_path": "out/51f1924599e50eaf_story.mp4",
+  "story": {
+    "title": "WSL transfer talking points: three things we learned from the data",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/04/less-money-better-planning-what-we-learned-from-the-wsl-transfer-window",
+    "published_at": "2026-09-04T14:02:03+00:00",
+    "summary": "Arsenal invested the most as the leading clubs\u2019 spending dwarfed that of the rest of the league but there was a greater emphasis on stabilityThe Women\u2019s Super League\u2019s summer transfer window has closed before the start of the 2026-27 season. The finances involved are microscopic compared with the \u00a33.4bn that Premier League clubs spent on new players but the data provides three key points of intere",
+    "data": {
+      "headline": "WSL TRANSFER TALKING POINTS",
+      "subhead": "three things we learned from the data",
+      "caption": "WSL transfer talking points: three things we learned from the data"
+    },
+    "score": 105.0,
+    "fingerprint": "51f1924599e50eaf"
+  },
+  "queued_at": "2026-09-04T19:21:56.352440+00:00"
+}
