@@ -1,0 +1,32 @@
+{
+  "fingerprint": "0c65d9348a975128",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Tough start for PSG but Luis Enrique has faith in burst of \u2018new energy\u2019 from signings",
+  "full_caption": "Tough start for PSG but Luis Enrique has faith in burst of \u2018new energy\u2019 from signings\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#psg"
+  ],
+  "image_path": "out/0c65d9348a975128_story.png",
+  "video_path": "out/0c65d9348a975128_story.mp4",
+  "story": {
+    "title": "Tough start for PSG but Luis Enrique has faith in burst of \u2018new energy\u2019 from signings",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco",
+    "published_at": "2026-09-04T07:00:01+00:00",
+    "summary": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday\u201cIt\u2019s like we\u2019re at school,\u201d Luis Enrique quipped as he entered the press conference room, hearing the journalists respond in unison to his hearty bonjour.His remark was fitting on the eve of Paris Saint-Germain\u2019s first home match of the season, which lines up nicely with France\u2019s rentr\u00e9e, the t",
+    "data": {
+      "headline": "TOUGH START FOR PSG",
+      "subhead": "but Luis Enrique has faith in burst of \u2018new energy\u2019 from signings",
+      "caption": "Tough start for PSG but Luis Enrique has faith in burst of \u2018new energy\u2019 from signings"
+    },
+    "score": 97.0,
+    "fingerprint": "0c65d9348a975128"
+  },
+  "queued_at": "2026-09-04T11:54:32.884685+00:00"
+}
