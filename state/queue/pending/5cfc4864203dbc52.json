@@ -1,0 +1,31 @@
+{
+  "fingerprint": "5cfc4864203dbc52",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Clarke gave SFA 'a little shove' over new contract",
+  "full_caption": "Clarke gave SFA 'a little shove' over new contract\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/5cfc4864203dbc52_story.png",
+  "video_path": "out/5cfc4864203dbc52_story.mp4",
+  "story": {
+    "title": "Clarke gave SFA 'a little shove' over new contract",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-05T10:14:28+00:00",
+    "summary": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
+    "data": {
+      "headline": "CLARKE GAVE SFA 'A LITTLE",
+      "subhead": "shove' over new contract",
+      "caption": "Clarke gave SFA 'a little shove' over new contract"
+    },
+    "score": 100.0,
+    "fingerprint": "5cfc4864203dbc52"
+  },
+  "queued_at": "2026-09-05T11:04:14.594546+00:00"
+}
