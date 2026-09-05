@@ -1,7 +1,7 @@
 {
   "fingerprint": "94c500225af1cba3",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Fernandez and Ndiaye show signs of promise on Man City debuts",
   "full_caption": "Fernandez and Ndiaye show signs of promise on Man City debuts\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
   "hashtags": [
@@ -25,8 +25,8 @@
       "subhead": "of promise on Man City debuts",
       "caption": "Fernandez and Ndiaye show signs of promise on Man City debuts"
     },
-    "score": 112.0,
+    "score": 97.0,
     "fingerprint": "94c500225af1cba3"
   },
-  "queued_at": "2026-09-05T18:54:59.455970+00:00"
+  "queued_at": "2026-09-05T23:37:02.394922+00:00"
 }
