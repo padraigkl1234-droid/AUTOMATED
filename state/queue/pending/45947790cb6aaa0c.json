@@ -1,0 +1,35 @@
+{
+  "fingerprint": "45947790cb6aaa0c",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Chelsea drop points against Aston Villa for the first time in WSL",
+  "full_caption": "Chelsea drop points against Aston Villa for the first time in WSL\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #cfc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#cfc",
+    "#avfc"
+  ],
+  "image_path": "out/45947790cb6aaa0c_story.png",
+  "video_path": "out/45947790cb6aaa0c_story.mp4",
+  "story": {
+    "title": "Chelsea drop points against Aston Villa for the first time in WSL",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-05T14:03:29+00:00",
+    "summary": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "CHELSEA DROP POINTS AGAINST ASTON",
+      "subhead": "Villa for the first time in WSL",
+      "caption": "Chelsea drop points against Aston Villa for the first time in WSL"
+    },
+    "score": 83.0,
+    "fingerprint": "45947790cb6aaa0c"
+  },
+  "queued_at": "2026-09-05T14:53:36.195733+00:00"
+}
