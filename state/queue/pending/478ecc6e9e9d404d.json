@@ -1,0 +1,32 @@
+{
+  "fingerprint": "478ecc6e9e9d404d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Arsenal v Chelsea: Premier League \u2013 live",
+  "full_caption": "Arsenal v Chelsea: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/478ecc6e9e9d404d_story.png",
+  "video_path": "out/478ecc6e9e9d404d_story.mp4",
+  "story": {
+    "title": "Arsenal v Chelsea: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+    "published_at": "2026-09-06T14:58:35+00:00",
+    "summary": "Minute-by-minute updates from the action at the Emirates StadiumArsenal bank on continuity after window closesAnd now a third goal\u2026There\u2019s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
+    "data": {
+      "headline": "ARSENAL V CHELSEA",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Arsenal v Chelsea: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "478ecc6e9e9d404d"
+  },
+  "queued_at": "2026-09-06T15:13:58.767180+00:00"
+}
