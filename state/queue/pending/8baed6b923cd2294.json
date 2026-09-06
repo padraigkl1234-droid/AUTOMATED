@@ -1,0 +1,34 @@
+{
+  "fingerprint": "8baed6b923cd2294",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Chelsea plot early move for Scott - Monday's gossip",
+  "full_caption": "Chelsea plot early move for Scott - Monday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #cfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#cfc",
+    "#inter"
+  ],
+  "image_path": "out/8baed6b923cd2294_story.png",
+  "video_path": "out/8baed6b923cd2294_story.mp4",
+  "story": {
+    "title": "Chelsea plot early move for Scott - Monday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-06T20:54:40+00:00",
+    "summary": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Christopher Nkunku.",
+    "data": {
+      "headline": "CHELSEA PLOT EARLY MOVE FOR SCOTT",
+      "subhead": "Monday's gossip",
+      "caption": "Chelsea plot early move for Scott - Monday's gossip"
+    },
+    "score": 113.0,
+    "fingerprint": "8baed6b923cd2294"
+  },
+  "queued_at": "2026-09-06T23:35:19.335409+00:00"
+}
