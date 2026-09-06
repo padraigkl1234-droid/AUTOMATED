@@ -1,0 +1,32 @@
+{
+  "fingerprint": "87b69ca92294ca84",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Liverpool beat newly-promoted Charlton 4-0",
+  "full_caption": "Liverpool beat newly-promoted Charlton 4-0\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#lfc"
+  ],
+  "image_path": "out/87b69ca92294ca84_story.png",
+  "video_path": "out/87b69ca92294ca84_story.mp4",
+  "story": {
+    "title": "Liverpool beat newly-promoted Charlton 4-0",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-06T18:53:52+00:00",
+    "summary": "Grace Fisk scores twice as Liverpool beat newly-promoted Charlton in the Women's Super League at The Valley.",
+    "data": {
+      "headline": "LIVERPOOL BEAT NEWLY-PROMOTED CHARLTON 4-0",
+      "subhead": "",
+      "caption": "Liverpool beat newly-promoted Charlton 4-0"
+    },
+    "score": 107.0,
+    "fingerprint": "87b69ca92294ca84"
+  },
+  "queued_at": "2026-09-06T18:58:05.621559+00:00"
+}
