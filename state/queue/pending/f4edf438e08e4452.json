@@ -1,0 +1,33 @@
+{
+  "fingerprint": "f4edf438e08e4452",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Transfer window verdict: how every Premier League club fared",
+  "full_caption": "Transfer window verdict: how every Premier League club fared\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/f4edf438e08e4452_story.png",
+  "video_path": "out/f4edf438e08e4452_story.mp4",
+  "story": {
+    "title": "Transfer window verdict: how every Premier League club fared",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+    "published_at": "2026-09-02T08:30:27+00:00",
+    "summary": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summerBringing in Christos Tzolis, Bruno Guimar\u00e3es and Ezri Konsa was a strong start to the window but could Arsenal\u2019s failure to sign a marquee attacker cost them in the long run? They began targeting Morgan Rogers before pivoting to Vin\u00edcius J\u00fanior when the England forward went to Chelsea, onl",
+    "data": {
+      "headline": "TRANSFER WINDOW VERDICT",
+      "subhead": "how every Premier League club fared",
+      "caption": "Transfer window verdict: how every Premier League club fared"
+    },
+    "score": 85.0,
+    "fingerprint": "f4edf438e08e4452"
+  },
+  "queued_at": "2026-09-06T11:28:04.310737+00:00"
+}
