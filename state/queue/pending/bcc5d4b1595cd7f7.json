@@ -1,0 +1,31 @@
+{
+  "fingerprint": "bcc5d4b1595cd7f7",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Joey Barton to remain in custody until trial after bail application turned down",
+  "full_caption": "Joey Barton to remain in custody until trial after bail application turned down\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/bcc5d4b1595cd7f7_story.png",
+  "video_path": "out/bcc5d4b1595cd7f7_story.mp4",
+  "story": {
+    "title": "Joey Barton to remain in custody until trial after bail application turned down",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/07/joey-barton-to-remain-in-custody-until-trial-after-bail-application-turned-down",
+    "published_at": "2026-09-07T16:36:25+00:00",
+    "summary": "Former footballer accused of attack outside golf clubHis trial has been pushed back to March next yearThe former footballer Joey Barton will remain in custody until his trial next year after a bail application was refused.The 44-year-old had been due to stand trial at Liverpool crown court last week accused of causing grievous bodily harm with intent to Kevin Lynch, 51, at Fairway, Huyton, on 8 Ma",
+    "data": {
+      "headline": "JOEY BARTON TO REMAIN",
+      "subhead": "in custody until trial after bail application turned down",
+      "caption": "Joey Barton to remain in custody until trial after bail application turned down"
+    },
+    "score": 85.0,
+    "fingerprint": "bcc5d4b1595cd7f7"
+  },
+  "queued_at": "2026-09-07T17:35:20.076213+00:00"
+}
