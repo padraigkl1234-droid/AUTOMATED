@@ -1,0 +1,32 @@
+{
+  "fingerprint": "26ab05aad6fbd6ee",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+  "full_caption": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/26ab05aad6fbd6ee_story.png",
+  "video_path": "out/26ab05aad6fbd6ee_story.mp4",
+  "story": {
+    "title": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "published_at": "2026-09-07T17:35:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "LIVERPOOL LATEST",
+      "subhead": "Isak feeling 'good' and says Reds must keep pushing",
+      "caption": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing"
+    },
+    "score": 103.0,
+    "fingerprint": "26ab05aad6fbd6ee"
+  },
+  "queued_at": "2026-09-07T20:24:35.203913+00:00"
+}
