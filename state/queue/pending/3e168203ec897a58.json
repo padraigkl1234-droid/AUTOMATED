@@ -1,0 +1,32 @@
+{
+  "fingerprint": "3e168203ec897a58",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
+  "full_caption": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/3e168203ec897a58_story.png",
+  "video_path": "out/3e168203ec897a58_story.mp4",
+  "story": {
+    "title": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
+    "published_at": "2026-09-07T11:20:32+00:00",
+    "summary": "Promoted side\u2019s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for GunnersKirsty Howat\u2019s 60-second cameo deep into injury time could ruin what was a memorable day for Crystal Palace on their return to the top flight. An impressive 1-0 victory over Everton was celebrated emphatically by Jo Potter and her players but that joy would have ",
+    "data": {
+      "headline": "WSL TALKING POINTS",
+      "subhead": "Palace result in doubt after substitution nightmare, Arsenal signings shine",
+      "caption": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine"
+    },
+    "score": 113.0,
+    "fingerprint": "3e168203ec897a58"
+  },
+  "queued_at": "2026-09-07T13:10:34.362980+00:00"
+}
