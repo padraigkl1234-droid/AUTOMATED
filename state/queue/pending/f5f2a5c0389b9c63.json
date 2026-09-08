@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f5f2a5c0389b9c63",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Haaland double gives Manchester City ideal Champions League start in Porto",
+  "full_caption": "Haaland double gives Manchester City ideal Champions League start in Porto\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/f5f2a5c0389b9c63_story.png",
+  "video_path": "out/f5f2a5c0389b9c63_story.mp4",
+  "story": {
+    "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
+    "published_at": "2026-09-08T21:08:19+00:00",
+    "summary": "Enzo Maresca admitted a liking for the \u201cboom-boom\u201d of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain.City had lost six of their past nine away games in the competition, and been beaten in the 2021 Champions League final at this venue, so to beat Porto and claim three points is a ",
+    "data": {
+      "headline": "HAALAND DOUBLE GIVES MANCHESTER CITY",
+      "subhead": "ideal Champions League start in Porto",
+      "caption": "Haaland double gives Manchester City ideal Champions League start in Porto"
+    },
+    "score": 105.0,
+    "fingerprint": "f5f2a5c0389b9c63"
+  },
+  "queued_at": "2026-09-08T23:54:34.023973+00:00"
+}
