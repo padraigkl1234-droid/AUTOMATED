@@ -1,0 +1,33 @@
+{
+  "fingerprint": "d142f79d8d67560c",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Chelsea explored move for Fulham midfielder Berge",
+  "full_caption": "Chelsea explored move for Fulham midfielder Berge\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc",
+    "#inter"
+  ],
+  "image_path": "out/d142f79d8d67560c_story.png",
+  "video_path": "out/d142f79d8d67560c_story.mp4",
+  "story": {
+    "title": "Chelsea explored move for Fulham midfielder Berge",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-07T16:03:52+00:00",
+    "summary": "Chelsea showed late interest in Fulham's Sander Berge as they attempted to strengthen their midfield options before Enzo Fernandez's departure.",
+    "data": {
+      "headline": "CHELSEA EXPLORED MOVE FOR FULHAM",
+      "subhead": "midfielder Berge",
+      "caption": "Chelsea explored move for Fulham midfielder Berge"
+    },
+    "score": 90.0,
+    "fingerprint": "d142f79d8d67560c"
+  },
+  "queued_at": "2026-09-08T00:02:27.513148+00:00"
+}
