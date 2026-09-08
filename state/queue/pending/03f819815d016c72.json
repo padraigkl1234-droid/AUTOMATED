@@ -1,0 +1,31 @@
+{
+  "fingerprint": "03f819815d016c72",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Favourite Kane makes Ballon d'Or shortlist",
+  "full_caption": "Favourite Kane makes Ballon d'Or shortlist\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#fcbayern"
+  ],
+  "image_path": "out/03f819815d016c72_story.png",
+  "video_path": "out/03f819815d016c72_story.mp4",
+  "story": {
+    "title": "Favourite Kane makes Ballon d'Or shortlist",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-08T15:27:09+00:00",
+    "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+    "data": {
+      "headline": "FAVOURITE KANE MAKES BALLON D'OR",
+      "subhead": "shortlist",
+      "caption": "Favourite Kane makes Ballon d'Or shortlist"
+    },
+    "score": 77.0,
+    "fingerprint": "03f819815d016c72"
+  },
+  "queued_at": "2026-09-08T16:21:51.286293+00:00"
+}
