@@ -1,0 +1,36 @@
+{
+  "fingerprint": "a20b785ee9512e92",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Mac Allister 'sad' at no Liverpool contract offer",
+  "full_caption": "Mac Allister 'sad' at no Liverpool contract offer\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/a20b785ee9512e92_story.png",
+  "video_path": "out/a20b785ee9512e92_story.mp4",
+  "story": {
+    "title": "Mac Allister 'sad' at no Liverpool contract offer",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-08T13:01:12+00:00",
+    "summary": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "MAC ALLISTER 'SAD' AT NO",
+      "subhead": "Liverpool contract offer",
+      "caption": "Mac Allister 'sad' at no Liverpool contract offer"
+    },
+    "score": 110.0,
+    "fingerprint": "a20b785ee9512e92"
+  },
+  "queued_at": "2026-09-08T19:47:32.419616+00:00"
+}
