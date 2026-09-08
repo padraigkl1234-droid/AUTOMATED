@@ -1,0 +1,32 @@
+{
+  "fingerprint": "77b03dd0f5be4078",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Liverpool agree \u00a360m-a-year shirt sponsorship deal with Turkish Airlines",
+  "full_caption": "Liverpool agree \u00a360m-a-year shirt sponsorship deal with Turkish Airlines\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/77b03dd0f5be4078_story.png",
+  "video_path": "out/77b03dd0f5be4078_story.mp4",
+  "story": {
+    "title": "Liverpool agree \u00a360m-a-year shirt sponsorship deal with Turkish Airlines",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
+    "published_at": "2026-09-08T09:41:41+00:00",
+    "summary": "Turkish Airlines to replace Standard Chartered from 2027Deal may be most lucrative in Premier League historyLiverpool have announced a new shirt sponsorship deal with Turkish Airlines worth more than \u00a360m a year to the club.The five-year deal will generate more than \u00a3300m for Liverpool when it comes into effect from the start of the 2027-28 season. Turkish Airlines will replace Standard Chartered,",
+    "data": {
+      "headline": "LIVERPOOL AGREE \u00a360M-A-YEAR SHIRT SPONSORSHIP",
+      "subhead": "deal with Turkish Airlines",
+      "caption": "Liverpool agree \u00a360m-a-year shirt sponsorship deal with Turkish Airlines"
+    },
+    "score": 113.0,
+    "fingerprint": "77b03dd0f5be4078"
+  },
+  "queued_at": "2026-09-08T11:54:56.893752+00:00"
+}
