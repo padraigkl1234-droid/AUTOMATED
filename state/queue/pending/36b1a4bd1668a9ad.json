@@ -1,0 +1,33 @@
+{
+  "fingerprint": "36b1a4bd1668a9ad",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Carrick up for \u2018magical\u2019 Champions League but derby timing \u2018not ideal\u2019",
+  "full_caption": "Carrick up for \u2018magical\u2019 Champions League but derby timing \u2018not ideal\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#mcfc"
+  ],
+  "image_path": "out/36b1a4bd1668a9ad_story.png",
+  "video_path": "out/36b1a4bd1668a9ad_story.mp4",
+  "story": {
+    "title": "Carrick up for \u2018magical\u2019 Champions League but derby timing \u2018not ideal\u2019",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford",
+    "published_at": "2026-09-09T14:56:47+00:00",
+    "summary": "United play Sabah, then Manchester City on Sunday\u2018To win the Champions League was the ultimate\u2019Michael Carrick is excited to lead Manchester United on their return to the \u201cmagical\u201d Champions League but admitted playing on Thursday night was \u201cnot ideal\u201d with the derby on Sunday.United welcome Sabah to Old Trafford after a two-year Champions League absence. The Azerbaijani club are making their debu",
+    "data": {
+      "headline": "CARRICK UP FOR \u2018MAGICAL\u2019 CHAMPIONS",
+      "subhead": "League but derby timing \u2018not ideal\u2019",
+      "caption": "Carrick up for \u2018magical\u2019 Champions League but derby timing \u2018not ideal\u2019"
+    },
+    "score": 105.0,
+    "fingerprint": "36b1a4bd1668a9ad"
+  },
+  "queued_at": "2026-09-09T19:38:48.049297+00:00"
+}
