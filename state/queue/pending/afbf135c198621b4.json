@@ -1,0 +1,32 @@
+{
+  "fingerprint": "afbf135c198621b4",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "How Mac Allister 'let his feet do the talking' - Warnock",
+  "full_caption": "How Mac Allister 'let his feet do the talking' - Warnock\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/afbf135c198621b4_story.png",
+  "video_path": "out/afbf135c198621b4_story.mp4",
+  "story": {
+    "title": "How Mac Allister 'let his feet do the talking' - Warnock",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/videos/c1mvpvk5jryo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-09T22:21:42+00:00",
+    "summary": "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions League win over Atletico Madrid at Anfield.",
+    "data": {
+      "headline": "HOW MAC ALLISTER 'LET HIS",
+      "subhead": "feet do the talking' - Warnock",
+      "caption": "How Mac Allister 'let his feet do the talking' - Warnock"
+    },
+    "score": 113.0,
+    "fingerprint": "afbf135c198621b4"
+  },
+  "queued_at": "2026-09-09T23:53:10.082630+00:00"
+}
