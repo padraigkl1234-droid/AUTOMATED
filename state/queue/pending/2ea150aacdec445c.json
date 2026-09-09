@@ -1,0 +1,31 @@
+{
+  "fingerprint": "2ea150aacdec445c",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "'This Is Anfield' sign fetches \u00a3115k at auction",
+  "full_caption": "'This Is Anfield' sign fetches \u00a3115k at auction\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/2ea150aacdec445c_story.png",
+  "video_path": "out/2ea150aacdec445c_story.mp4",
+  "story": {
+    "title": "'This Is Anfield' sign fetches \u00a3115k at auction",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-09T16:00:46+00:00",
+    "summary": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
+    "data": {
+      "headline": "'THIS IS ANFIELD' SIGN FETCHES",
+      "subhead": "\u00a3115k at auction",
+      "caption": "'This Is Anfield' sign fetches \u00a3115k at auction"
+    },
+    "score": 85.0,
+    "fingerprint": "2ea150aacdec445c"
+  },
+  "queued_at": "2026-09-09T16:17:02.699620+00:00"
+}
