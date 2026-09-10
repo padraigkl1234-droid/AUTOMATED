@@ -1,0 +1,32 @@
+{
+  "fingerprint": "ce632cfc0747c808",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
+  "full_caption": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/ce632cfc0747c808_story.png",
+  "video_path": "out/ce632cfc0747c808_story.mp4",
+  "story": {
+    "title": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles",
+    "published_at": "2026-09-10T10:00:24+00:00",
+    "summary": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passionsOn a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied ani",
+    "data": {
+      "headline": "SALOONS, SCHOOL AND SPECIALTY COFFEE",
+      "subhead": "NWSL players enjoy new era of side hustles",
+      "caption": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles"
+    },
+    "score": 105.0,
+    "fingerprint": "ce632cfc0747c808"
+  },
+  "queued_at": "2026-09-10T11:59:24.798603+00:00"
+}
