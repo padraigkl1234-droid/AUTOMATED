@@ -1,0 +1,32 @@
+{
+  "fingerprint": "7108b3237282d58f",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Spurs and Richarlison in dispute over contract",
+  "full_caption": "Spurs and Richarlison in dispute over contract\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/7108b3237282d58f_story.png",
+  "video_path": "out/7108b3237282d58f_story.mp4",
+  "story": {
+    "title": "Spurs and Richarlison in dispute over contract",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-10T18:48:12+00:00",
+    "summary": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+    "data": {
+      "headline": "SPURS AND RICHARLISON IN DISPUTE",
+      "subhead": "over contract",
+      "caption": "Spurs and Richarlison in dispute over contract"
+    },
+    "score": 112.0,
+    "fingerprint": "7108b3237282d58f"
+  },
+  "queued_at": "2026-09-10T19:29:59.699402+00:00"
+}
