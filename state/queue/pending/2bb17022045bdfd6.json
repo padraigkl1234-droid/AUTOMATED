@@ -1,0 +1,31 @@
+{
+  "fingerprint": "2bb17022045bdfd6",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Gordon a better fit for Barca than Rashford - Deco",
+  "full_caption": "Gordon a better fit for Barca than Rashford - Deco\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/2bb17022045bdfd6_story.png",
+  "video_path": "out/2bb17022045bdfd6_story.mp4",
+  "story": {
+    "title": "Gordon a better fit for Barca than Rashford - Deco",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clyl7njnk46o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-10T15:30:53+00:00",
+    "summary": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this summer.",
+    "data": {
+      "headline": "GORDON A BETTER FIT",
+      "subhead": "for Barca than Rashford - Deco",
+      "caption": "Gordon a better fit for Barca than Rashford - Deco"
+    },
+    "score": 85.0,
+    "fingerprint": "2bb17022045bdfd6"
+  },
+  "queued_at": "2026-09-10T16:08:11.697275+00:00"
+}
