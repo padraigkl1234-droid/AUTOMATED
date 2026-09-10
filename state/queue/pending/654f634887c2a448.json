@@ -1,0 +1,32 @@
+{
+  "fingerprint": "654f634887c2a448",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Fernandes finishes off brilliant move to double Man Utd lead",
+  "full_caption": "Fernandes finishes off brilliant move to double Man Utd lead\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/654f634887c2a448_story.png",
+  "video_path": "out/654f634887c2a448_story.mp4",
+  "story": {
+    "title": "Fernandes finishes off brilliant move to double Man Utd lead",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c70d1rg9e0wo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-10T20:59:52+00:00",
+    "summary": "Manchester United captain Bruno Fernandes rounds off a brilliant team move to double his side's lead over Sabah at Old Trafford.",
+    "data": {
+      "headline": "FERNANDES FINISHES OFF BRILLIANT MOVE",
+      "subhead": "to double Man Utd lead",
+      "caption": "Fernandes finishes off brilliant move to double Man Utd lead"
+    },
+    "score": 113.0,
+    "fingerprint": "654f634887c2a448"
+  },
+  "queued_at": "2026-09-10T23:49:37.963247+00:00"
+}
