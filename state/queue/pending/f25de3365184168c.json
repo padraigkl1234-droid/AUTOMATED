@@ -1,0 +1,35 @@
+{
+  "fingerprint": "f25de3365184168c",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news \u2013 live",
+  "full_caption": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#nufc"
+  ],
+  "image_path": "out/f25de3365184168c_story.png",
+  "video_path": "out/f25de3365184168c_story.mp4",
+  "story": {
+    "title": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+    "published_at": "2026-09-11T15:49:33+00:00",
+    "summary": "\u26bd\ufe0f News and updates before the weekend\u2019s football action\u26bd\ufe0f Premier League: 10 things to watch out for | Mail JohnMatthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle.The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle\u2019s last two matches. Speaking ahead of Monday\u2019s clash with ",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "MANCHESTER UNITED BAN 685 SEASON-TICKET",
+      "subhead": "holders over touting; Watford sign Antonio: football news \u2013 live",
+      "caption": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news \u2013 live"
+    },
+    "score": 91.0,
+    "fingerprint": "f25de3365184168c"
+  },
+  "queued_at": "2026-09-11T16:11:42.768109+00:00"
+}
