@@ -1,7 +1,7 @@
 {
   "fingerprint": "6e403b1f6fdc5f5c",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
   "full_caption": "Kobbie Mainoo moves from outsider to main man after summer of hurt\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc",
   "hashtags": [
@@ -25,8 +25,8 @@
       "subhead": "to main man after summer of hurt",
       "caption": "Kobbie Mainoo moves from outsider to main man after summer of hurt"
     },
-    "score": 120.0,
+    "score": 105.0,
     "fingerprint": "6e403b1f6fdc5f5c"
   },
-  "queued_at": "2026-09-11T19:31:15.047733+00:00"
+  "queued_at": "2026-09-11T23:56:28.408648+00:00"
 }
