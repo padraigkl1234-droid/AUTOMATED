@@ -1,0 +1,32 @@
+{
+  "fingerprint": "5f74c49266fd0e23",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Tottenham latest: Bergvall signs new deal - two months after asking to leave",
+  "full_caption": "Tottenham latest: Bergvall signs new deal - two months after asking to leave\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/5f74c49266fd0e23_story.png",
+  "video_path": "out/5f74c49266fd0e23_story.mp4",
+  "story": {
+    "title": "Tottenham latest: Bergvall signs new deal - two months after asking to leave",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "published_at": "2026-09-11T12:00:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "TOTTENHAM LATEST",
+      "subhead": "Bergvall signs new deal - two months after asking to leave",
+      "caption": "Tottenham latest: Bergvall signs new deal - two months after asking to leave"
+    },
+    "score": 102.0,
+    "fingerprint": "5f74c49266fd0e23"
+  },
+  "queued_at": "2026-09-11T11:57:35.516980+00:00"
+}
