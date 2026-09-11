@@ -1,0 +1,32 @@
+{
+  "fingerprint": "6e403b1f6fdc5f5c",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
+  "full_caption": "Kobbie Mainoo moves from outsider to main man after summer of hurt\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/6e403b1f6fdc5f5c_story.png",
+  "video_path": "out/6e403b1f6fdc5f5c_story.mp4",
+  "story": {
+    "title": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby",
+    "published_at": "2026-09-11T19:00:12+00:00",
+    "summary": "England reached World Cup semis yet midfielder did not play a minute. But he is key to Manchester United in derbyIt was a sight the England press pack became increasingly used to seeing after the team\u2019s&nbsp;World Cup matches over the summer. Kobbie&nbsp;Mainoo was invariably the first to leave the dressing room, walk through the mixed zone \u2013 eyes dead ahead, features impassive \u2013 and board the bus",
+    "data": {
+      "headline": "KOBBIE MAINOO MOVES FROM OUTSIDER",
+      "subhead": "to main man after summer of hurt",
+      "caption": "Kobbie Mainoo moves from outsider to main man after summer of hurt"
+    },
+    "score": 120.0,
+    "fingerprint": "6e403b1f6fdc5f5c"
+  },
+  "queued_at": "2026-09-11T19:31:15.047733+00:00"
+}
