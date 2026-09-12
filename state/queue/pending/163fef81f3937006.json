@@ -1,0 +1,32 @@
+{
+  "fingerprint": "163fef81f3937006",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Hull remain unbeaten in league after impressive Chelsea draw",
+  "full_caption": "Hull remain unbeaten in league after impressive Chelsea draw\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#cfc"
+  ],
+  "image_path": "out/163fef81f3937006_story.png",
+  "video_path": "out/163fef81f3937006_story.mp4",
+  "story": {
+    "title": "Hull remain unbeaten in league after impressive Chelsea draw",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cwyz533qlw8o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-12T21:30:16+00:00",
+    "summary": "In-form striker Joao Pedro scores a second-half equaliser as Chelsea rescues a point at home to promoted Hull City.",
+    "data": {
+      "headline": "HULL REMAIN UNBEATEN IN LEAGUE",
+      "subhead": "after impressive Chelsea draw",
+      "caption": "Hull remain unbeaten in league after impressive Chelsea draw"
+    },
+    "score": 92.0,
+    "fingerprint": "163fef81f3937006"
+  },
+  "queued_at": "2026-09-12T23:50:38.694607+00:00"
+}
