@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c35b66dcf6965d27",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Tottenham still waiting for first league goal of season after draw against Everton",
+  "full_caption": "Tottenham still waiting for first league goal of season after draw against Everton\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#thfc"
+  ],
+  "image_path": "out/c35b66dcf6965d27_story.png",
+  "video_path": "out/c35b66dcf6965d27_story.mp4",
+  "story": {
+    "title": "Tottenham still waiting for first league goal of season after draw against Everton",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
+    "published_at": "2026-09-12T18:47:01+00:00",
+    "summary": "Is it too early for a Tottenham crisis? To which the answer is surely that it is never too early for a Tottenham crisis. After four Premier League games, they have yet to score. This kind of run has never happened in their history at the beginning of a league season.At least, they mustered a couple of shots on target this time, having failed to do so last weekend in the 0-0 draw at Nottingham Fore",
+    "data": {
+      "headline": "TOTTENHAM STILL WAITING FOR FIRST",
+      "subhead": "league goal of season after draw against Everton",
+      "caption": "Tottenham still waiting for first league goal of season after draw against Everton"
+    },
+    "score": 99.0,
+    "fingerprint": "c35b66dcf6965d27"
+  },
+  "queued_at": "2026-09-12T19:04:50.547880+00:00"
+}
