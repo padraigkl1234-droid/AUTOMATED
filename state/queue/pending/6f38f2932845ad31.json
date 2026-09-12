@@ -1,0 +1,32 @@
+{
+  "fingerprint": "6f38f2932845ad31",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Febrile Manchester derby awaits amid growing rift between United fans and club",
+  "full_caption": "Febrile Manchester derby awaits amid growing rift between United fans and club\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#mcfc"
+  ],
+  "image_path": "out/6f38f2932845ad31_story.png",
+  "video_path": "out/6f38f2932845ad31_story.mp4",
+  "story": {
+    "title": "Febrile Manchester derby awaits amid growing rift between United fans and club",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club",
+    "published_at": "2026-09-12T11:00:35+00:00",
+    "summary": "City heading to a fortress but home supporters will protest before kick-off over club\u2019s drive against ticket toutsManchester United\u2019s nine victories from 10 Premier League games at Old Trafford in 2026 cast their stadium as a fortress Manchester City aim to ransack on Sunday, to join Leeds in departing with three points during this calendar year.Michael Carrick has overseen the division\u2019s highest ",
+    "data": {
+      "headline": "FEBRILE MANCHESTER DERBY AWAITS",
+      "subhead": "amid growing rift between United fans and club",
+      "caption": "Febrile Manchester derby awaits amid growing rift between United fans and club"
+    },
+    "score": 70.0,
+    "fingerprint": "6f38f2932845ad31"
+  },
+  "queued_at": "2026-09-12T15:19:01.984433+00:00"
+}
