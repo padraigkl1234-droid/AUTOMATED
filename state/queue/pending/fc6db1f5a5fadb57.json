@@ -1,0 +1,32 @@
+{
+  "fingerprint": "fc6db1f5a5fadb57",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "'I've turned the page' - Camara on Chelsea deal collapse",
+  "full_caption": "'I've turned the page' - Camara on Chelsea deal collapse\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc"
+  ],
+  "image_path": "out/fc6db1f5a5fadb57_story.png",
+  "video_path": "out/fc6db1f5a5fadb57_story.mp4",
+  "story": {
+    "title": "'I've turned the page' - Camara on Chelsea deal collapse",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-12T10:07:36+00:00",
+    "summary": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed \u00a347.1m move to Chelsea.",
+    "data": {
+      "headline": "'I'VE TURNED THE PAGE'",
+      "subhead": "Camara on Chelsea deal collapse",
+      "caption": "'I've turned the page' - Camara on Chelsea deal collapse"
+    },
+    "score": 105.0,
+    "fingerprint": "fc6db1f5a5fadb57"
+  },
+  "queued_at": "2026-09-12T11:24:17.464311+00:00"
+}
