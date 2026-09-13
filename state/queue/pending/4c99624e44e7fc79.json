@@ -1,0 +1,32 @@
+{
+  "fingerprint": "4c99624e44e7fc79",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Manchester United v Manchester City: Premier League \u2013 live",
+  "full_caption": "Manchester United v Manchester City: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#mcfc"
+  ],
+  "image_path": "out/4c99624e44e7fc79_story.png",
+  "video_path": "out/4c99624e44e7fc79_story.mp4",
+  "story": {
+    "title": "Manchester United v Manchester City: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+    "published_at": "2026-09-13T15:48:21+00:00",
+    "summary": "\u26bd\ufe0f Manchester derby updates from 4.30pm BST \u26bd\ufe0f Dunk showstopper helps Brighton rout Coventry\u26bd\ufe0f Today\u2019s scores | Drop Rob an emailBrighton\u2019s fourth goal was a screamer from Lewis Dunk, of all people, prompting this email from Steve Bradfield.Is Brighton\u2019s fourth goal a slam Dunk for goal of month? Continue reading...",
+    "data": {
+      "headline": "MANCHESTER UNITED V MANCHESTER CITY",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Manchester United v Manchester City: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "4c99624e44e7fc79"
+  },
+  "queued_at": "2026-09-13T15:55:24.741304+00:00"
+}
