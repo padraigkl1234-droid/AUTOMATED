@@ -1,0 +1,34 @@
+{
+  "fingerprint": "04cc9c7bff841901",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+  "full_caption": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #cfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#cfc",
+    "#inter"
+  ],
+  "image_path": "out/04cc9c7bff841901_story.png",
+  "video_path": "out/04cc9c7bff841901_story.mp4",
+  "story": {
+    "title": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+    "published_at": "2026-09-11T12:55:05+00:00",
+    "summary": "Winger shining after summer pursuit by several clubsChelsea felt selling Fern\u00e1ndez to City was right moveChelsea have rewarded Pedro Neto\u2019s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest from several Premier League clubs including Manchester City, but indicated a desire to stay and play for Xabi Alonso. He ",
+    "data": {
+      "headline": "CHELSEA HAND PEDRO NETO NEW",
+      "subhead": "deal in wake of his rejecting Manchester City",
+      "caption": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City"
+    },
+    "score": 77.0,
+    "fingerprint": "04cc9c7bff841901"
+  },
+  "queued_at": "2026-09-13T12:28:09.726517+00:00"
+}
