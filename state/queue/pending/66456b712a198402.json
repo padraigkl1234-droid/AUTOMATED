@@ -1,0 +1,31 @@
+{
+  "fingerprint": "66456b712a198402",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "'There's no stopping Antonelli' - Hamilton says 2026 F1 title bid is over",
+  "full_caption": "'There's no stopping Antonelli' - Hamilton says 2026 F1 title bid is over\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/66456b712a198402_story.png",
+  "video_path": "out/66456b712a198402_story.mp4",
+  "story": {
+    "title": "'There's no stopping Antonelli' - Hamilton says 2026 F1 title bid is over",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/f1/news/12040/13585295/lewis-hamilton-says-theres-no-stopping-kimi-antonelli-as-ferrari-driver-appears-to-give-up-2026-f1-title-bid",
+    "published_at": "2026-09-13T18:40:00+00:00",
+    "summary": "Lewis Hamilton appeared to give up hope of claiming a record eighth Formula 1 title this year as he said that \"there's no stopping\" Kimi Antonelli following the championship leader's latest victory at the Spanish Grand Prix.",
+    "data": {
+      "headline": "'THERE'S NO STOPPING ANTONELLI'",
+      "subhead": "Hamilton says 2026 F1 title bid is over",
+      "caption": "'There's no stopping Antonelli' - Hamilton says 2026 F1 title bid is over"
+    },
+    "score": 90.0,
+    "fingerprint": "66456b712a198402"
+  },
+  "queued_at": "2026-09-13T19:15:23.906342+00:00"
+}
