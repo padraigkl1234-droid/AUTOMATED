@@ -1,0 +1,34 @@
+{
+  "fingerprint": "607b3947bf0ddad3",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
+  "full_caption": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #mcfc #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mcfc",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/607b3947bf0ddad3_story.png",
+  "video_path": "out/607b3947bf0ddad3_story.mp4",
+  "story": {
+    "title": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
+    "published_at": "2026-09-13T19:58:52+00:00",
+    "summary": "Gunners held at Emirates despite 30 attempts on goalCity win 4-1 at Aston Villa to extend perfect startArsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium.The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, wit",
+    "data": {
+      "headline": "WSL ROUNDUP",
+      "subhead": "Arsenal rue misses in Palace draw, Manchester City crush Villa",
+      "caption": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa"
+    },
+    "score": 92.0,
+    "fingerprint": "607b3947bf0ddad3"
+  },
+  "queued_at": "2026-09-13T23:56:02.210164+00:00"
+}
