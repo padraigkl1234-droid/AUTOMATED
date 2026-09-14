@@ -1,0 +1,33 @@
+{
+  "fingerprint": "39b370d828ddd16a",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Leeds United v Newcastle United: Premier League \u2013\u00a0live",
+  "full_caption": "Leeds United v Newcastle United: Premier League \u2013\u00a0live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc #afc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#afc",
+    "#nufc"
+  ],
+  "image_path": "out/39b370d828ddd16a_story.png",
+  "video_path": "out/39b370d828ddd16a_story.mp4",
+  "story": {
+    "title": "Leeds United v Newcastle United: Premier League \u2013\u00a0live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+    "published_at": "2026-09-14T17:30:12+00:00",
+    "summary": "\u26bd Premier League updates from the 8pm BST kick-off\u26bd 10 weekend talking points | And you can mail DanielEnglish football is renowned for its classic match-ups \u2013 your Man United-Liverpools, your Arsenal-Spurses and so on. But it also boasts a slew of evocative fixtures that, though not ensconced in the top tier, define the game just as essentially, historic clubs telling rich stories, set in mythica",
+    "data": {
+      "headline": "LEEDS UNITED V NEWCASTLE UNITED",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Leeds United v Newcastle United: Premier League \u2013\u00a0live"
+    },
+    "score": 85.0,
+    "fingerprint": "39b370d828ddd16a"
+  },
+  "queued_at": "2026-09-14T17:57:29.047648+00:00"
+}
