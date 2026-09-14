@@ -1,0 +1,32 @@
+{
+  "fingerprint": "970d01e8d0050b20",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Chelsea latest: Blues transfer target opens up on failed move to Stamford Bridge",
+  "full_caption": "Chelsea latest: Blues transfer target opens up on failed move to Stamford Bridge\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transferrumours #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours",
+    "#cfc"
+  ],
+  "image_path": "out/970d01e8d0050b20_story.png",
+  "video_path": "out/970d01e8d0050b20_story.mp4",
+  "story": {
+    "title": "Chelsea latest: Blues transfer target opens up on failed move to Stamford Bridge",
+    "kind": "rumour",
+    "tier": 3,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "published_at": "2026-09-14T12:00:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "CHELSEA LATEST",
+      "subhead": "Blues transfer target opens up on failed move to Stamford Bridge",
+      "caption": "Chelsea latest: Blues transfer target opens up on failed move to Stamford Bridge"
+    },
+    "score": 65.0,
+    "fingerprint": "970d01e8d0050b20"
+  },
+  "queued_at": "2026-09-14T13:31:19.297070+00:00"
+}
