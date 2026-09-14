@@ -1,0 +1,32 @@
+{
+  "fingerprint": "94cf4cc2ecd07b62",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Leeds THRASHING Newcastle LIVE!",
+  "full_caption": "Leeds THRASHING Newcastle LIVE!\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #matchday #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#nufc"
+  ],
+  "image_path": "out/94cf4cc2ecd07b62_story.png",
+  "video_path": "out/94cf4cc2ecd07b62_story.mp4",
+  "story": {
+    "title": "Leeds THRASHING Newcastle LIVE!",
+    "kind": "result",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/live/559479",
+    "published_at": "2026-09-14T18:30:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "LEEDS THRASHING NEWCASTLE LIVE!",
+      "subhead": "",
+      "caption": "Leeds THRASHING Newcastle LIVE!"
+    },
+    "score": 70.0,
+    "fingerprint": "94cf4cc2ecd07b62"
+  },
+  "queued_at": "2026-09-14T20:49:30.028662+00:00"
+}
