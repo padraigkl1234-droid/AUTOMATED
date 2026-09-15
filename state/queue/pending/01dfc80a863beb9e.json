@@ -1,0 +1,32 @@
+{
+  "fingerprint": "01dfc80a863beb9e",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "European football: Inter roar back to beat Udinese and join Roma at the top",
+  "full_caption": "European football: Inter roar back to beat Udinese and join Roma at the top\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#inter"
+  ],
+  "image_path": "out/01dfc80a863beb9e_story.png",
+  "video_path": "out/01dfc80a863beb9e_story.mp4",
+  "story": {
+    "title": "European football: Inter roar back to beat Udinese and join Roma at the top",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
+    "published_at": "2026-09-14T22:08:01+00:00",
+    "summary": "Inter and Roma lead Serie A, Como move up to thirdReal Betis beat struggling Villarreal in La LigaInter fought back \u2060from two goals down \u200bto beat Udinese 5-3 on Monday, maintaining their perfect Serie A start alongside Roma, who won 2-0 at Torino before Saturday\u2019s match between \u2060the joint leaders. Both sides have 12 points from four matches and share top spot before their encounter at the Stadio O",
+    "data": {
+      "headline": "EUROPEAN FOOTBALL",
+      "subhead": "Inter roar back to beat Udinese and join Roma at the top",
+      "caption": "European football: Inter roar back to beat Udinese and join Roma at the top"
+    },
+    "score": 92.0,
+    "fingerprint": "01dfc80a863beb9e"
+  },
+  "queued_at": "2026-09-15T00:22:55.440076+00:00"
+}
