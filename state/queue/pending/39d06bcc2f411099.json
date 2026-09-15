@@ -1,0 +1,31 @@
+{
+  "fingerprint": "39d06bcc2f411099",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Tuchel regrets not eating Azteca turf after win over Mexico",
+  "full_caption": "Tuchel regrets not eating Azteca turf after win over Mexico\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday"
+  ],
+  "image_path": "out/39d06bcc2f411099_story.png",
+  "video_path": "out/39d06bcc2f411099_story.mp4",
+  "story": {
+    "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-15T19:25:48+00:00",
+    "summary": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+    "data": {
+      "headline": "TUCHEL REGRETS NOT EATING AZTECA",
+      "subhead": "turf after win over Mexico",
+      "caption": "Tuchel regrets not eating Azteca turf after win over Mexico"
+    },
+    "score": 87.0,
+    "fingerprint": "39d06bcc2f411099"
+  },
+  "queued_at": "2026-09-15T20:05:43.625821+00:00"
+}
