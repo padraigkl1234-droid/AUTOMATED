@@ -1,0 +1,33 @@
+{
+  "fingerprint": "b40910450e5f7caa",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Madueke a target for Euro loans - Tuesday's gossip",
+  "full_caption": "Madueke a target for Euro loans - Tuesday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transferrumours #lfc #juventus",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours",
+    "#lfc",
+    "#juventus"
+  ],
+  "image_path": "out/b40910450e5f7caa_story.png",
+  "video_path": "out/b40910450e5f7caa_story.mp4",
+  "story": {
+    "title": "Madueke a target for Euro loans - Tuesday's gossip",
+    "kind": "rumour",
+    "tier": 2,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-14T22:44:24+00:00",
+    "summary": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+    "data": {
+      "headline": "MADUEKE A TARGET FOR EURO LOANS",
+      "subhead": "Tuesday's gossip",
+      "caption": "Madueke a target for Euro loans - Tuesday's gossip"
+    },
+    "score": 55.0,
+    "fingerprint": "b40910450e5f7caa"
+  },
+  "queued_at": "2026-09-15T12:23:18.447276+00:00"
+}
