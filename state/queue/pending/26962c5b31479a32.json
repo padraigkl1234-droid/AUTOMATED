@@ -1,0 +1,31 @@
+{
+  "fingerprint": "26962c5b31479a32",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
+  "full_caption": "Manchester United shocked as talented youngster JJ Gabriel asks to leave\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/26962c5b31479a32_story.png",
+  "video_path": "out/26962c5b31479a32_story.mp4",
+  "story": {
+    "title": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
+    "published_at": "2026-09-15T14:18:24+00:00",
+    "summary": "15-year-old wants his registration to be cancelledHe was to be in squad to face Brighton on WednesdayManchester United have been left confused and shocked by the news that the talented 15-year-old player JJ Gabriel has asked to leave the club, a day before he was to be included in the first-team squad to face Brighton.Gabriel could have become United\u2019s youngest player in the Carabao Cup third-roun",
+    "data": {
+      "headline": "MANCHESTER UNITED SHOCKED AS TALENTED",
+      "subhead": "youngster JJ Gabriel asks to leave",
+      "caption": "Manchester United shocked as talented youngster JJ Gabriel asks to leave"
+    },
+    "score": 78.0,
+    "fingerprint": "26962c5b31479a32"
+  },
+  "queued_at": "2026-09-15T16:38:30.964787+00:00"
+}
