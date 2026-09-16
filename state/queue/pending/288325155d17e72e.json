@@ -1,0 +1,34 @@
+{
+  "fingerprint": "288325155d17e72e",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+  "full_caption": "Arsenal rejected Dowman loan offers - Thursday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #afc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#afc",
+    "#inter"
+  ],
+  "image_path": "out/288325155d17e72e_story.png",
+  "video_path": "out/288325155d17e72e_story.mp4",
+  "story": {
+    "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-16T19:53:12+00:00",
+    "summary": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attracting interest from multiple Premier League clubs, plus more.",
+    "data": {
+      "headline": "ARSENAL REJECTED DOWMAN LOAN OFFERS",
+      "subhead": "Thursday's gossip",
+      "caption": "Arsenal rejected Dowman loan offers - Thursday's gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "288325155d17e72e"
+  },
+  "queued_at": "2026-09-16T19:56:13.927839+00:00"
+}
