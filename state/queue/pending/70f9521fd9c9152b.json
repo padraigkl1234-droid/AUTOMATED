@@ -1,0 +1,32 @@
+{
+  "fingerprint": "70f9521fd9c9152b",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Ex-Spurs midfielder Bissouma completes Ajax move",
+  "full_caption": "Ex-Spurs midfielder Bissouma completes Ajax move\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/70f9521fd9c9152b_story.png",
+  "video_path": "out/70f9521fd9c9152b_story.mp4",
+  "story": {
+    "title": "Ex-Spurs midfielder Bissouma completes Ajax move",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-16T08:13:42+00:00",
+    "summary": "Former Tottenham midfielder Yves Bissouma has joined Ajax on an initial deal that runs until the end of the season.",
+    "data": {
+      "headline": "EX-SPURS MIDFIELDER BISSOUMA COMPLETES AJAX",
+      "subhead": "move",
+      "caption": "Ex-Spurs midfielder Bissouma completes Ajax move"
+    },
+    "score": 97.0,
+    "fingerprint": "70f9521fd9c9152b"
+  },
+  "queued_at": "2026-09-16T12:20:15.194133+00:00"
+}
