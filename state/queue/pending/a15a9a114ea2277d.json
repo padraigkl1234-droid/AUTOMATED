@@ -1,0 +1,34 @@
+{
+  "fingerprint": "a15a9a114ea2277d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "\u2018They are very similar\u2019: Arsenal\u2019s Dowman reminds Merino of Lamine Yamal",
+  "full_caption": "\u2018They are very similar\u2019: Arsenal\u2019s Dowman reminds Merino of Lamine Yamal\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/a15a9a114ea2277d_story.png",
+  "video_path": "out/a15a9a114ea2277d_story.mp4",
+  "story": {
+    "title": "\u2018They are very similar\u2019: Arsenal\u2019s Dowman reminds Merino of Lamine Yamal",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
+    "published_at": "2026-09-16T16:00:23+00:00",
+    "summary": "Teenager continues development with two goals at IpswichMerino: \u2018He is a big talent and we have to take care of him\u2019Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side\u2019s 4-2 win against Ipswich.Dowman, who has been given a host of opportunities at senior level by Mikel Arteta, starred after being handed his first",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "\u2018THEY ARE VERY SIMILAR\u2019",
+      "subhead": "Arsenal\u2019s Dowman reminds Merino of Lamine Yamal",
+      "caption": "\u2018They are very similar\u2019: Arsenal\u2019s Dowman reminds Merino of Lamine Yamal"
+    },
+    "score": 91.0,
+    "fingerprint": "a15a9a114ea2277d"
+  },
+  "queued_at": "2026-09-16T16:31:36.848512+00:00"
+}
