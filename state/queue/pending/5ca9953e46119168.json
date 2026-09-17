@@ -1,0 +1,31 @@
+{
+  "fingerprint": "5ca9953e46119168",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Euro Leagues",
+  "full_caption": "Euro Leagues\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#realmadrid"
+  ],
+  "image_path": "out/5ca9953e46119168_story.png",
+  "video_path": "out/5ca9953e46119168_story.mp4",
+  "story": {
+    "title": "Euro Leagues",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-17T16:00:00+00:00",
+    "summary": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
+    "data": {
+      "headline": "EURO LEAGUES",
+      "subhead": "",
+      "caption": "Euro Leagues"
+    },
+    "score": 85.0,
+    "fingerprint": "5ca9953e46119168"
+  },
+  "queued_at": "2026-09-17T16:37:01.224919+00:00"
+}
