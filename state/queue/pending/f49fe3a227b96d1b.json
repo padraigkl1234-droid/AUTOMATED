@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f49fe3a227b96d1b",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
+  "full_caption": "New season, same Man Utd story - Carrick is now firmly feeling the pressure\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/f49fe3a227b96d1b_story.png",
+  "video_path": "out/f49fe3a227b96d1b_story.mp4",
+  "story": {
+    "title": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
+    "published_at": "2026-09-16T23:47:00+00:00",
+    "summary": "This wasn't just a defeat. This wasn't just a collapse. This wasn't just a cup exit. Another Manchester United managerial project is heading in that one, same direction. And even Michael Carrick recognises that.",
+    "data": {
+      "headline": "NEW SEASON, SAME MAN UTD STORY",
+      "subhead": "Carrick is now firmly feeling the pressure",
+      "caption": "New season, same Man Utd story - Carrick is now firmly feeling the pressure"
+    },
+    "score": 110.0,
+    "fingerprint": "f49fe3a227b96d1b"
+  },
+  "queued_at": "2026-09-17T00:11:20.579002+00:00"
+}
