@@ -1,6 +1,6 @@
 {
   "fingerprint": "f4edf438e08e4452",
-  "slot_id": "morning_roundup",
+  "slot_id": "evening_news",
   "template": "transfer_card",
   "caption": "Transfer window verdict: how every Premier League club fared",
   "full_caption": "Transfer window verdict: how every Premier League club fared\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc #cfc",
@@ -29,5 +29,5 @@
     "score": 85.0,
     "fingerprint": "f4edf438e08e4452"
   },
-  "queued_at": "2026-09-17T12:19:56.522988+00:00"
+  "queued_at": "2026-09-17T20:05:28.977571+00:00"
 }
