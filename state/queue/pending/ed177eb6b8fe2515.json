@@ -1,0 +1,31 @@
+{
+  "fingerprint": "ed177eb6b8fe2515",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "How Iraola is moving Liverpool on from the Slot era",
+  "full_caption": "How Iraola is moving Liverpool on from the Slot era\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/ed177eb6b8fe2515_story.png",
+  "video_path": "out/ed177eb6b8fe2515_story.mp4",
+  "story": {
+    "title": "How Iraola is moving Liverpool on from the Slot era",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-18T13:20:50+00:00",
+    "summary": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
+    "data": {
+      "headline": "HOW IRAOLA IS MOVING LIVERPOOL",
+      "subhead": "on from the Slot era",
+      "caption": "How Iraola is moving Liverpool on from the Slot era"
+    },
+    "score": 78.0,
+    "fingerprint": "ed177eb6b8fe2515"
+  },
+  "queued_at": "2026-09-18T16:08:36.882859+00:00"
+}
