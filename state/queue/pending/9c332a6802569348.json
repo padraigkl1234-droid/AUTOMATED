@@ -1,0 +1,32 @@
+{
+  "fingerprint": "9c332a6802569348",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Arsenal open to Dowman loan in right circumstances",
+  "full_caption": "Arsenal open to Dowman loan in right circumstances\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/9c332a6802569348_story.png",
+  "video_path": "out/9c332a6802569348_story.mp4",
+  "story": {
+    "title": "Arsenal open to Dowman loan in right circumstances",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-18T21:30:38+00:00",
+    "summary": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
+    "data": {
+      "headline": "ARSENAL OPEN TO DOWMAN LOAN",
+      "subhead": "in right circumstances",
+      "caption": "Arsenal open to Dowman loan in right circumstances"
+    },
+    "score": 113.0,
+    "fingerprint": "9c332a6802569348"
+  },
+  "queued_at": "2026-09-18T23:57:30.002053+00:00"
+}
