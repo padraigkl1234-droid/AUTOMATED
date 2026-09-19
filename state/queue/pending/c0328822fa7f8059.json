@@ -1,0 +1,31 @@
+{
+  "fingerprint": "c0328822fa7f8059",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+  "full_caption": "Ratcliffe 'must go' says Man Utd Muslim fan group\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/c0328822fa7f8059_story.png",
+  "video_path": "out/c0328822fa7f8059_story.mp4",
+  "story": {
+    "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-19T14:52:38+00:00",
+    "summary": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
+    "data": {
+      "headline": "RATCLIFFE 'MUST GO' SAYS MAN",
+      "subhead": "Utd Muslim fan group",
+      "caption": "Ratcliffe 'must go' says Man Utd Muslim fan group"
+    },
+    "score": 85.0,
+    "fingerprint": "c0328822fa7f8059"
+  },
+  "queued_at": "2026-09-19T15:40:47.626929+00:00"
+}
