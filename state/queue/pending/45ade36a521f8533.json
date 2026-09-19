@@ -1,0 +1,32 @@
+{
+  "fingerprint": "45ade36a521f8533",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
+  "full_caption": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#afc"
+  ],
+  "image_path": "out/45ade36a521f8533_story.png",
+  "video_path": "out/45ade36a521f8533_story.mp4",
+  "story": {
+    "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-19T21:59:01+00:00",
+    "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
+    "data": {
+      "headline": "'BRAVE' BRIGHTON PUT IN 'COMPLETE'",
+      "subhead": "performance to beat Arsenal - Murphy",
+      "caption": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy"
+    },
+    "score": 100.0,
+    "fingerprint": "45ade36a521f8533"
+  },
+  "queued_at": "2026-09-19T23:57:03.969501+00:00"
+}
