@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e01991a4977a963d",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Clark resigns as Hartlepool boss in post-match interview",
+  "full_caption": "Clark resigns as Hartlepool boss in post-match interview\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/e01991a4977a963d_story.png",
+  "video_path": "out/e01991a4977a963d_story.mp4",
+  "story": {
+    "title": "Clark resigns as Hartlepool boss in post-match interview",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-19T15:14:10+00:00",
+    "summary": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
+    "data": {
+      "headline": "CLARK RESIGNS AS HARTLEPOOL BOSS",
+      "subhead": "in post-match interview",
+      "caption": "Clark resigns as Hartlepool boss in post-match interview"
+    },
+    "score": 97.0,
+    "fingerprint": "e01991a4977a963d"
+  },
+  "queued_at": "2026-09-19T19:14:57.817230+00:00"
+}
