@@ -1,0 +1,32 @@
+{
+  "fingerprint": "af008d38d82c2a75",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham",
+  "full_caption": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc"
+  ],
+  "image_path": "out/af008d38d82c2a75_story.png",
+  "video_path": "out/af008d38d82c2a75_story.mp4",
+  "story": {
+    "title": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cwr7d3y11r34o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-20T18:29:06+00:00",
+    "summary": "Manchester United head coach Michael Carrick is impressed his side \"kept their belief\" to come from a goal down to earn a draw against Fulham at Craven Cottage.",
+    "data": {
+      "headline": "CARRICK IMPRESSED MAN UTD 'KEPT",
+      "subhead": "belief' to earn draw at Fulham",
+      "caption": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham"
+    },
+    "score": 107.0,
+    "fingerprint": "af008d38d82c2a75"
+  },
+  "queued_at": "2026-09-20T19:19:09.664299+00:00"
+}
