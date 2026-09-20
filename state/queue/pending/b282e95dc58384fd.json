@@ -1,0 +1,34 @@
+{
+  "fingerprint": "b282e95dc58384fd",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Isak pounces to give Liverpool victory on Iraola\u2019s return to Bournemouth",
+  "full_caption": "Isak pounces to give Liverpool victory on Iraola\u2019s return to Bournemouth\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/b282e95dc58384fd_story.png",
+  "video_path": "out/b282e95dc58384fd_story.mp4",
+  "story": {
+    "title": "Isak pounces to give Liverpool victory on Iraola\u2019s return to Bournemouth",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
+    "published_at": "2026-09-20T15:06:48+00:00",
+    "summary": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola hopes they become but they did enough to claim three points here, Alexander Isak capping a peculiar performance with a simple finish. Cody Gakpo was again the architect, the Dutchman th",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "ISAK POUNCES TO GIVE LIVERPOOL",
+      "subhead": "victory on Iraola\u2019s return to Bournemouth",
+      "caption": "Isak pounces to give Liverpool victory on Iraola\u2019s return to Bournemouth"
+    },
+    "score": 91.0,
+    "fingerprint": "b282e95dc58384fd"
+  },
+  "queued_at": "2026-09-20T15:45:57.970933+00:00"
+}
