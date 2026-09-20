@@ -1,0 +1,32 @@
+{
+  "fingerprint": "68f622113c9efabd",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Jonathan David earns Atl\u00e9tico precious win over 10-man Real Madrid in fractious derby",
+  "full_caption": "Jonathan David earns Atl\u00e9tico precious win over 10-man Real Madrid in fractious derby\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#realmadrid"
+  ],
+  "image_path": "out/68f622113c9efabd_story.png",
+  "video_path": "out/68f622113c9efabd_story.mp4",
+  "story": {
+    "title": "Jonathan David earns Atl\u00e9tico precious win over 10-man Real Madrid in fractious derby",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
+    "published_at": "2026-09-20T18:10:11+00:00",
+    "summary": "On the eve of the derby, Diego Simeone described this as a special week in Madrid, a \u201ctremendous energy about the city\u201d, and it closed the way he wanted. He had enjoyed the Formula One, he said, and he had enjoyed seeing Shakira in concert, but he enjoyed this even more. At least he did by the time the last of many, many blows on the referee\u2019s whistle brought it to an end, sprinting up the tunnel ",
+    "data": {
+      "headline": "JONATHAN DAVID EARNS ATL\u00c9TICO PRECIOUS",
+      "subhead": "win over 10-man Real Madrid in fractious derby",
+      "caption": "Jonathan David earns Atl\u00e9tico precious win over 10-man Real Madrid in fractious derby"
+    },
+    "score": 92.0,
+    "fingerprint": "68f622113c9efabd"
+  },
+  "queued_at": "2026-09-20T23:55:47.170807+00:00"
+}
