@@ -1,0 +1,31 @@
+{
+  "fingerprint": "76d55de5330d4a76",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Edwards joins Red Roses coaching team on short-term deal",
+  "full_caption": "Edwards joins Red Roses coaching team on short-term deal\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/76d55de5330d4a76_story.png",
+  "video_path": "out/76d55de5330d4a76_story.mp4",
+  "story": {
+    "title": "Edwards joins Red Roses coaching team on short-term deal",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13590422/shaun-edwards-joins-england-women-coaching-team-under-john-mitchell-on-short-term-deal-until-end-of-wxv-global-series",
+    "published_at": "2026-09-21T12:50:00+00:00",
+    "summary": "Shaun Edwards has joined the England Women coaching team as a consultant until the end of the WXV Global Series, the Rugby Football Union has announced.",
+    "data": {
+      "headline": "EDWARDS JOINS RED ROSES COACHING",
+      "subhead": "team on short-term deal",
+      "caption": "Edwards joins Red Roses coaching team on short-term deal"
+    },
+    "score": 90.0,
+    "fingerprint": "76d55de5330d4a76"
+  },
+  "queued_at": "2026-09-21T13:30:11.460392+00:00"
+}
