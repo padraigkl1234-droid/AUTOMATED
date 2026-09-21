@@ -1,0 +1,32 @@
+{
+  "fingerprint": "fa479349ccc88a41",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Football Daily | Brighton\u2019s organised chaos viciously pecks Arsenal into submission",
+  "full_caption": "Football Daily | Brighton\u2019s organised chaos viciously pecks Arsenal into submission\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#inter"
+  ],
+  "image_path": "out/fa479349ccc88a41_story.png",
+  "video_path": "out/fa479349ccc88a41_story.mp4",
+  "story": {
+    "title": "Football Daily | Brighton\u2019s organised chaos viciously pecks Arsenal into submission",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/21/football-daily-email-brighton-arsenal",
+    "published_at": "2026-09-21T15:14:17+00:00",
+    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!For an elite head coach who isn\u2019t used to seeing his team lose, suffering a rare defeat on the weekend before an international break is particularly hard to take. With the vast majority of your players hightailing it out of Dodge to rack up more air miles than Santa Claus across a decade\u2019s worth of Christmas Eves, the chance to quickly put things ",
+    "data": {
+      "headline": "FOOTBALL DAILY | BRIGHTON\u2019S ORGANISED",
+      "subhead": "chaos viciously pecks Arsenal into submission",
+      "caption": "Football Daily | Brighton\u2019s organised chaos viciously pecks Arsenal into submission"
+    },
+    "score": 78.0,
+    "fingerprint": "fa479349ccc88a41"
+  },
+  "queued_at": "2026-09-21T18:04:27.061257+00:00"
+}
