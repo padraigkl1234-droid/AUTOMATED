@@ -1,0 +1,32 @@
+{
+  "fingerprint": "18b067fecedc85ef",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030",
+  "full_caption": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/18b067fecedc85ef_story.png",
+  "video_path": "out/18b067fecedc85ef_story.mp4",
+  "story": {
+    "title": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/22/mikel-arteta-agrees-contract-extension-arsenal-2030",
+    "published_at": "2026-09-22T17:36:29+00:00",
+    "summary": "Manager\u2019s current deal to expire at end of the seasonSpaniard can expect big increase on \u00a310m-a-year salaryMikel Arteta has agreed a long-term contract extension with Arsenal that includes a hefty pay rise in recognition of his success last season and could take his reign as the manager beyond a decade.The three-year deal he signed in September 2024 expires at the end of this season and talks have",
+    "data": {
+      "headline": "MIKEL ARTETA AGREES CONTRACT EXTENSION",
+      "subhead": "expected to keep him at Arsenal until 2030",
+      "caption": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030"
+    },
+    "score": 113.0,
+    "fingerprint": "18b067fecedc85ef"
+  },
+  "queued_at": "2026-09-22T20:04:44.642760+00:00"
+}
