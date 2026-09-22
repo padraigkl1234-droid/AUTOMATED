@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f5031ad963c2b741",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Arteta agrees new deal with champions Arsenal",
+  "full_caption": "Arteta agrees new deal with champions Arsenal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/f5031ad963c2b741_story.png",
+  "video_path": "out/f5031ad963c2b741_story.mp4",
+  "story": {
+    "title": "Arteta agrees new deal with champions Arsenal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-22T11:48:23+00:00",
+    "summary": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+    "data": {
+      "headline": "ARTETA AGREES NEW DEAL",
+      "subhead": "with champions Arsenal",
+      "caption": "Arteta agrees new deal with champions Arsenal"
+    },
+    "score": 120.0,
+    "fingerprint": "f5031ad963c2b741"
+  },
+  "queued_at": "2026-09-22T12:15:05.902317+00:00"
+}
