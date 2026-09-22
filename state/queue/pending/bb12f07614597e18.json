@@ -1,0 +1,31 @@
+{
+  "fingerprint": "bb12f07614597e18",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "I was close to joining Liverpool in 2016 - Mbappe",
+  "full_caption": "I was close to joining Liverpool in 2016 - Mbappe\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/bb12f07614597e18_story.png",
+  "video_path": "out/bb12f07614597e18_story.mp4",
+  "story": {
+    "title": "I was close to joining Liverpool in 2016 - Mbappe",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-22T15:58:22+00:00",
+    "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
+    "data": {
+      "headline": "I WAS CLOSE TO JOINING",
+      "subhead": "Liverpool in 2016 - Mbappe",
+      "caption": "I was close to joining Liverpool in 2016 - Mbappe"
+    },
+    "score": 85.0,
+    "fingerprint": "bb12f07614597e18"
+  },
+  "queued_at": "2026-09-22T16:38:36.752947+00:00"
+}
