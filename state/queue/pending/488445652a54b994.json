@@ -1,0 +1,31 @@
+{
+  "fingerprint": "488445652a54b994",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Florian Wirtz does not look like a \u00a3116m player but it is early to write him off",
+  "full_caption": "Florian Wirtz does not look like a \u00a3116m player but it is early to write him off\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/488445652a54b994_story.png",
+  "video_path": "out/488445652a54b994_story.mp4",
+  "story": {
+    "title": "Florian Wirtz does not look like a \u00a3116m player but it is early to write him off",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/23/florian-wirtz-liverpool-playmaker-opta",
+    "published_at": "2026-09-23T13:33:48+00:00",
+    "summary": "The 23-year-old playmaker has been disappointing for Liverpool but has he really been that bad?By Opta AnalystWhen Florian Wirtz signed for Liverpool in the summer of 2025, there was only one logical assumption. The Premier League champions at the time had recruited one of the hottest young talents in world football \u2013 a key player in the Bayer Leverkusen team that had won the double in 2023-24 and",
+    "data": {
+      "headline": "FLORIAN WIRTZ DOES NOT LOOK",
+      "subhead": "like a \u00a3116m player but it is early to write him off",
+      "caption": "Florian Wirtz does not look like a \u00a3116m player but it is early to write him off"
+    },
+    "score": 78.0,
+    "fingerprint": "488445652a54b994"
+  },
+  "queued_at": "2026-09-23T16:30:42.846992+00:00"
+}
