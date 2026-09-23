@@ -1,0 +1,32 @@
+{
+  "fingerprint": "7c5f91e0b428266c",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal latest: Where does Arteta rank ahead of new deal?",
+  "full_caption": "Arsenal latest: Where does Arteta rank ahead of new deal?\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/7c5f91e0b428266c_story.png",
+  "video_path": "out/7c5f91e0b428266c_story.mp4",
+  "story": {
+    "title": "Arsenal latest: Where does Arteta rank ahead of new deal?",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "published_at": "2026-09-23T09:45:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "ARSENAL LATEST",
+      "subhead": "Where does Arteta rank ahead of new deal?",
+      "caption": "Arsenal latest: Where does Arteta rank ahead of new deal?"
+    },
+    "score": 88.0,
+    "fingerprint": "7c5f91e0b428266c"
+  },
+  "queued_at": "2026-09-23T20:04:04.180350+00:00"
+}
