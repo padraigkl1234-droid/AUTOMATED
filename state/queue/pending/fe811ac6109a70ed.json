@@ -1,0 +1,31 @@
+{
+  "fingerprint": "fe811ac6109a70ed",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Ten of the best-value deals from this summer\u2019s transfer window",
+  "full_caption": "Ten of the best-value deals from this summer\u2019s transfer window\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/fe811ac6109a70ed_story.png",
+  "video_path": "out/fe811ac6109a70ed_story.mp4",
+  "story": {
+    "title": "Ten of the best-value deals from this summer\u2019s transfer window",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/23/summer-football-transfer-window-best-value-deals",
+    "published_at": "2026-09-23T11:25:10+00:00",
+    "summary": "From veteran strikers to exciting young talents, here are 10 signings who could prove to be bargains for their new teamsEven in this era of relentless transfer inflation, a fee of more than \u00a320m does not usually represent a bargain. Roma\u2019s move for the Porto playmaker Mora may be an exception, though. The teenager has been on the radar of Europe\u2019s elite teams since starring for Porto\u2019s B-team at 1",
+    "data": {
+      "headline": "TEN OF THE BEST-VALUE DEALS",
+      "subhead": "from this summer\u2019s transfer window",
+      "caption": "Ten of the best-value deals from this summer\u2019s transfer window"
+    },
+    "score": 93.0,
+    "fingerprint": "fe811ac6109a70ed"
+  },
+  "queued_at": "2026-09-23T12:27:42.814839+00:00"
+}
