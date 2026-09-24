@@ -1,0 +1,33 @@
+{
+  "fingerprint": "69b3eb671775ab21",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Fox makes 'easy decision' to sign three-year Arsenal deal",
+  "full_caption": "Fox makes 'easy decision' to sign three-year Arsenal deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#inter"
+  ],
+  "image_path": "out/69b3eb671775ab21_story.png",
+  "video_path": "out/69b3eb671775ab21_story.mp4",
+  "story": {
+    "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c046lgw20nno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-24T12:59:44+00:00",
+    "summary": "USA international Emily Fox has described signed a new contract at Arsenal as \"an easy decision\".",
+    "data": {
+      "headline": "FOX MAKES 'EASY DECISION'",
+      "subhead": "to sign three-year Arsenal deal",
+      "caption": "Fox makes 'easy decision' to sign three-year Arsenal deal"
+    },
+    "score": 98.0,
+    "fingerprint": "69b3eb671775ab21"
+  },
+  "queued_at": "2026-09-24T20:19:32.056254+00:00"
+}
