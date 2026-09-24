@@ -1,0 +1,32 @@
+{
+  "fingerprint": "24e0d1c3e583a97b",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Fox signs new Arsenal deal",
+  "full_caption": "Fox signs new Arsenal deal\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/24e0d1c3e583a97b_story.png",
+  "video_path": "out/24e0d1c3e583a97b_story.mp4",
+  "story": {
+    "title": "Fox signs new Arsenal deal",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13591163/arsenal-usa-international-emily-fox-signs-new-deal-with-womens-super-league-club",
+    "published_at": "2026-09-24T12:00:00+00:00",
+    "summary": "Arsenal defender Emily Fox has signed a new contract at the club.",
+    "data": {
+      "headline": "FOX SIGNS NEW ARSENAL DEAL",
+      "subhead": "",
+      "caption": "Fox signs new Arsenal deal"
+    },
+    "score": 110.0,
+    "fingerprint": "24e0d1c3e583a97b"
+  },
+  "queued_at": "2026-09-24T12:27:03.151697+00:00"
+}
