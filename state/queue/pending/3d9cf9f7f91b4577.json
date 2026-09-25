@@ -1,0 +1,33 @@
+{
+  "fingerprint": "3d9cf9f7f91b4577",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Liverpool\u2019s Cody Gakpo reflects on \u2018tough summer\u2019 after collapse of Manchester City move",
+  "full_caption": "Liverpool\u2019s Cody Gakpo reflects on \u2018tough summer\u2019 after collapse of Manchester City move\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#lfc"
+  ],
+  "image_path": "out/3d9cf9f7f91b4577_story.png",
+  "video_path": "out/3d9cf9f7f91b4577_story.mp4",
+  "story": {
+    "title": "Liverpool\u2019s Cody Gakpo reflects on \u2018tough summer\u2019 after collapse of Manchester City move",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city",
+    "published_at": "2026-09-25T16:00:11+00:00",
+    "summary": "Dutchman\u2019s second son died during pregnancy in June\u2018If I have no control over the situation, I will not worry\u2019Cody Gakpo has reflected on a \u201cvery tough\u201d summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting him join their top-flight rivals.The forward scored a superb stoppage-time equaliser to earn the Netherlands a 1-1 draw in ",
+    "data": {
+      "headline": "LIVERPOOL\u2019S CODY GAKPO REFLECTS",
+      "subhead": "on \u2018tough summer\u2019 after collapse of Manchester City move",
+      "caption": "Liverpool\u2019s Cody Gakpo reflects on \u2018tough summer\u2019 after collapse of Manchester City move"
+    },
+    "score": 105.0,
+    "fingerprint": "3d9cf9f7f91b4577"
+  },
+  "queued_at": "2026-09-25T20:20:48.720889+00:00"
+}
