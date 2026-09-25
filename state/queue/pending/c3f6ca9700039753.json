@@ -1,0 +1,31 @@
+{
+  "fingerprint": "c3f6ca9700039753",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Uefa fears impact of Premier League spending on transfer market",
+  "full_caption": "Uefa fears impact of Premier League spending on transfer market\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/c3f6ca9700039753_story.png",
+  "video_path": "out/c3f6ca9700039753_story.mp4",
+  "story": {
+    "title": "Uefa fears impact of Premier League spending on transfer market",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-24T22:09:28+00:00",
+    "summary": "Uefa believes \"a clear two-speed system\" is emerging in the transfer market due to huge spending by Premier League clubs this summer.",
+    "data": {
+      "headline": "UEFA FEARS IMPACT OF PREMIER",
+      "subhead": "League spending on transfer market",
+      "caption": "Uefa fears impact of Premier League spending on transfer market"
+    },
+    "score": 93.0,
+    "fingerprint": "c3f6ca9700039753"
+  },
+  "queued_at": "2026-09-25T00:20:04.040686+00:00"
+}
