@@ -1,0 +1,31 @@
+{
+  "fingerprint": "0f5cfe2e5485a2d8",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Wycombe sign ex-England striker Ings",
+  "full_caption": "Wycombe sign ex-England striker Ings\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/0f5cfe2e5485a2d8_story.png",
+  "video_path": "out/0f5cfe2e5485a2d8_story.mp4",
+  "story": {
+    "title": "Wycombe sign ex-England striker Ings",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-25T14:17:37+00:00",
+    "summary": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings.",
+    "data": {
+      "headline": "WYCOMBE SIGN EX-ENGLAND STRIKER INGS",
+      "subhead": "",
+      "caption": "Wycombe sign ex-England striker Ings"
+    },
+    "score": 78.0,
+    "fingerprint": "0f5cfe2e5485a2d8"
+  },
+  "queued_at": "2026-09-25T16:55:29.773379+00:00"
+}
