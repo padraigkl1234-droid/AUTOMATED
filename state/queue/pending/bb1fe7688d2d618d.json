@@ -1,0 +1,31 @@
+{
+  "fingerprint": "bb1fe7688d2d618d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Ngumoha not in England squad to face Spain",
+  "full_caption": "Ngumoha not in England squad to face Spain\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/bb1fe7688d2d618d_story.png",
+  "video_path": "out/bb1fe7688d2d618d_story.mp4",
+  "story": {
+    "title": "Ngumoha not in England squad to face Spain",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-26T10:27:29+00:00",
+    "summary": "Liverpool teenager Rio Ngumoha is not named in England's matchday squad for Saturday's Nations League opener against Spain.",
+    "data": {
+      "headline": "NGUMOHA NOT IN ENGLAND SQUAD",
+      "subhead": "to face Spain",
+      "caption": "Ngumoha not in England squad to face Spain"
+    },
+    "score": 70.0,
+    "fingerprint": "bb1fe7688d2d618d"
+  },
+  "queued_at": "2026-09-26T16:06:22.979392+00:00"
+}
