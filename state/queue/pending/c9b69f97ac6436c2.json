@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c9b69f97ac6436c2",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "No relegation clause in Haaland's City deal - Saturday's gossip",
+  "full_caption": "No relegation clause in Haaland's City deal - Saturday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #juventus",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#juventus"
+  ],
+  "image_path": "out/c9b69f97ac6436c2_story.png",
+  "video_path": "out/c9b69f97ac6436c2_story.mp4",
+  "story": {
+    "title": "No relegation clause in Haaland's City deal - Saturday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c84gkkepxxl4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-25T21:10:17+00:00",
+    "summary": "Erling Haaland is without a relegation clause, Premier League clubs are eyeing Marcos Llorente, Juventus are considering Crystal Palace's Tyrick Mitchell.",
+    "data": {
+      "headline": "NO RELEGATION CLAUSE IN HAALAND'S CITY DEAL",
+      "subhead": "Saturday's gossip",
+      "caption": "No relegation clause in Haaland's City deal - Saturday's gossip"
+    },
+    "score": 77.0,
+    "fingerprint": "c9b69f97ac6436c2"
+  },
+  "queued_at": "2026-09-26T11:59:13.604934+00:00"
+}
