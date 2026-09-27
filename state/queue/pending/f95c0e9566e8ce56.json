@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f95c0e9566e8ce56",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
+  "full_caption": "Man City? I feel cheated - when do Stoke City get our FA Cup?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/f95c0e9566e8ce56_story.png",
+  "video_path": "out/f95c0e9566e8ce56_story.mp4",
+  "story": {
+    "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-27T06:50:09+00:00",
+    "summary": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
+    "data": {
+      "headline": "MAN CITY? I FEEL CHEATED",
+      "subhead": "when do Stoke City get our FA Cup?",
+      "caption": "Man City? I feel cheated - when do Stoke City get our FA Cup?"
+    },
+    "score": 97.0,
+    "fingerprint": "f95c0e9566e8ce56"
+  },
+  "queued_at": "2026-09-27T12:36:44.209580+00:00"
+}
