@@ -1,0 +1,32 @@
+{
+  "fingerprint": "fc6418d8d8c92647",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Chelsea v Arsenal: Women\u2019s Super League \u2013 live",
+  "full_caption": "Chelsea v Arsenal: Women\u2019s Super League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/fc6418d8d8c92647_story.png",
+  "video_path": "out/fc6418d8d8c92647_story.mp4",
+  "story": {
+    "title": "Chelsea v Arsenal: Women\u2019s Super League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
+    "published_at": "2026-09-27T16:18:36+00:00",
+    "summary": "WSL rivals meet at Stamford Bridge; 4.30pm BST kick-offLive scores | Putellas on target for Lionesses | Email Will2 mins: The Arsenal fans make the early noise in the stands but Chelsea have enjoyed all of the possession.Peep! Peep! Peep! Here we go! Continue reading...",
+    "data": {
+      "headline": "CHELSEA V ARSENAL",
+      "subhead": "Women\u2019s Super League \u2013 live",
+      "caption": "Chelsea v Arsenal: Women\u2019s Super League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "fc6418d8d8c92647"
+  },
+  "queued_at": "2026-09-27T16:43:06.035471+00:00"
+}
