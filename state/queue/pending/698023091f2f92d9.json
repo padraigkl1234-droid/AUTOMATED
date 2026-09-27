@@ -1,0 +1,33 @@
+{
+  "fingerprint": "698023091f2f92d9",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Chelsea 1-0 Arsenal: Women\u2019s Super League \u2013 as it happened",
+  "full_caption": "Chelsea 1-0 Arsenal: Women\u2019s Super League \u2013 as it happened\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/698023091f2f92d9_story.png",
+  "video_path": "out/698023091f2f92d9_story.mp4",
+  "story": {
+    "title": "Chelsea 1-0 Arsenal: Women\u2019s Super League \u2013 as it happened",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
+    "published_at": "2026-09-27T17:50:34+00:00",
+    "summary": "Alyssa Thompson\u2019s first-half goal settled the match at Stamford Bridge2 mins: The Arsenal fans make the early noise in the stands but Chelsea have enjoyed all of the possession.Peep! Peep! Peep! Here we go! Continue reading...",
+    "data": {
+      "headline": "CHELSEA 1-0 ARSENAL",
+      "subhead": "Women\u2019s Super League \u2013 as it happened",
+      "caption": "Chelsea 1-0 Arsenal: Women\u2019s Super League \u2013 as it happened"
+    },
+    "score": 100.0,
+    "fingerprint": "698023091f2f92d9"
+  },
+  "queued_at": "2026-09-27T19:59:45.745568+00:00"
+}
