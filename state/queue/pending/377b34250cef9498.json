@@ -1,0 +1,31 @@
+{
+  "fingerprint": "377b34250cef9498",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Man City CEO defiant over Premier League charges",
+  "full_caption": "Man City CEO defiant over Premier League charges\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc"
+  ],
+  "image_path": "out/377b34250cef9498_story.png",
+  "video_path": "out/377b34250cef9498_story.mp4",
+  "story": {
+    "title": "Man City CEO defiant over Premier League charges",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-28T18:53:30+00:00",
+    "summary": "Manchester City chief executive Ferran Soriano issues a defiant message to other club executives about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
+    "data": {
+      "headline": "MAN CITY CEO DEFIANT",
+      "subhead": "over Premier League charges",
+      "caption": "Man City CEO defiant over Premier League charges"
+    },
+    "score": 77.0,
+    "fingerprint": "377b34250cef9498"
+  },
+  "queued_at": "2026-09-28T19:28:12.615099+00:00"
+}
