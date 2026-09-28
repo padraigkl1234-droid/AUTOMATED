@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e6b11e790728efc7",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019",
+  "full_caption": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/e6b11e790728efc7_story.png",
+  "video_path": "out/e6b11e790728efc7_story.mp4",
+  "story": {
+    "title": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
+    "published_at": "2026-09-28T09:19:04+00:00",
+    "summary": "Coach alleged to have been paid for advisory workMancini says City \u2018not guilty\u2019 after Premier League rulingRoberto Mancini appeared to acknowledge he had \u201ca double contract\u201d when he managed Manchester City after the club were found guilty of breaching the Premier League\u2019s financial rules.But Mancini, who in 2011-12 coached City to their first Premier League title in a half century and is now in ch",
+    "data": {
+      "headline": "MANCINI REFERS TO \u2018DOUBLE\u2019 MANCHESTER",
+      "subhead": "City contract and says it \u2018isn\u2019t my problem\u2019",
+      "caption": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019"
+    },
+    "score": 97.0,
+    "fingerprint": "e6b11e790728efc7"
+  },
+  "queued_at": "2026-09-28T14:45:28.595490+00:00"
+}
