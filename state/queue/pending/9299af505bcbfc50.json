@@ -1,0 +1,32 @@
+{
+  "fingerprint": "9299af505bcbfc50",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Swedish duo help Liverpool to derby win over Everton",
+  "full_caption": "Swedish duo help Liverpool to derby win over Everton\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#lfc"
+  ],
+  "image_path": "out/9299af505bcbfc50_story.png",
+  "video_path": "out/9299af505bcbfc50_story.mp4",
+  "story": {
+    "title": "Swedish duo help Liverpool to derby win over Everton",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c65ywngpw59yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-27T18:49:13+00:00",
+    "summary": "Swedish duo Beata Olsson and Cornelia Kapocs help Liverpool end a run of five consecutive home defeats in Merseyside derbies with a deserved win over Everton.",
+    "data": {
+      "headline": "SWEDISH DUO HELP LIVERPOOL",
+      "subhead": "to derby win over Everton",
+      "caption": "Swedish duo help Liverpool to derby win over Everton"
+    },
+    "score": 92.0,
+    "fingerprint": "9299af505bcbfc50"
+  },
+  "queued_at": "2026-09-28T00:22:08.454031+00:00"
+}
