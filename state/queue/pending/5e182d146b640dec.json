@@ -1,0 +1,35 @@
+{
+  "fingerprint": "5e182d146b640dec",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts",
+  "full_caption": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/5e182d146b640dec_story.png",
+  "video_path": "out/5e182d146b640dec_story.mp4",
+  "story": {
+    "title": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+    "published_at": "2026-09-29T16:05:21+00:00",
+    "summary": "Commission: club broke rules over nine-season periodCity will appeal against verdict before Friday deadlineThe Premier League has confirmed Manchester City have been found guilty of all charges of breaching its financial rules over a nine-year period, with the club found to have boosted their income by a staggering amount of more than \u00a3900m.In a bombshell announcement the Premier League revealed a",
+    "data": {
+      "corroborations": [
+        "BBC Sport"
+      ],
+      "headline": "MANCHESTER CITY GUILTY OVER PREMIER",
+      "subhead": "League charges after \u00a3900m of \u2018sham\u2019 contracts",
+      "caption": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts"
+    },
+    "score": 103.0,
+    "fingerprint": "5e182d146b640dec"
+  },
+  "queued_at": "2026-09-29T21:19:18.385045+00:00"
+}
