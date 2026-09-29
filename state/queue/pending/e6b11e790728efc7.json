@@ -1,7 +1,7 @@
 {
   "fingerprint": "e6b11e790728efc7",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019",
   "full_caption": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
   "hashtags": [
@@ -25,8 +25,8 @@
       "subhead": "City contract and says it \u2018isn\u2019t my problem\u2019",
       "caption": "Mancini refers to \u2018double\u2019 Manchester City contract and says it \u2018isn\u2019t my problem\u2019"
     },
-    "score": 97.0,
+    "score": 90.0,
     "fingerprint": "e6b11e790728efc7"
   },
-  "queued_at": "2026-09-28T22:28:15.743149+00:00"
+  "queued_at": "2026-09-29T01:33:26.127080+00:00"
 }
