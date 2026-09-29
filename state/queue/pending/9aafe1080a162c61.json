@@ -1,0 +1,31 @@
+{
+  "fingerprint": "9aafe1080a162c61",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "The four 'what next?' scenarios for Premier League after Man City ruling",
+  "full_caption": "The four 'what next?' scenarios for Premier League after Man City ruling\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc"
+  ],
+  "image_path": "out/9aafe1080a162c61_story.png",
+  "video_path": "out/9aafe1080a162c61_story.mp4",
+  "story": {
+    "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-29T17:37:54+00:00",
+    "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+    "data": {
+      "headline": "THE FOUR 'WHAT NEXT?' SCENARIOS",
+      "subhead": "for Premier League after Man City ruling",
+      "caption": "The four 'what next?' scenarios for Premier League after Man City ruling"
+    },
+    "score": 77.0,
+    "fingerprint": "9aafe1080a162c61"
+  },
+  "queued_at": "2026-09-29T17:54:56.029737+00:00"
+}
