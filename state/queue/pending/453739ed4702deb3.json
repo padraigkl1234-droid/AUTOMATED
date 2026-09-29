@@ -1,0 +1,31 @@
+{
+  "fingerprint": "453739ed4702deb3",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "24th season in F1! Alonso extends Aston Martin deal for 2027",
+  "full_caption": "24th season in F1! Alonso extends Aston Martin deal for 2027\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/453739ed4702deb3_story.png",
+  "video_path": "out/453739ed4702deb3_story.mp4",
+  "story": {
+    "title": "24th season in F1! Alonso extends Aston Martin deal for 2027",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/f1/news/12040/13571663/fernando-alonso-aston-martin-confirm-unchanged-line-up-for-2027-f1-season-with-spaniard-and-lance-stroll-extending-contracts",
+    "published_at": "2026-09-29T12:00:00+00:00",
+    "summary": "Fernando Alonso will race on in Formula 1 with Aston Martin into the 2027 season after extending his contract with the team.",
+    "data": {
+      "headline": "24TH SEASON IN F1! ALONSO",
+      "subhead": "extends Aston Martin deal for 2027",
+      "caption": "24th season in F1! Alonso extends Aston Martin deal for 2027"
+    },
+    "score": 83.0,
+    "fingerprint": "453739ed4702deb3"
+  },
+  "queued_at": "2026-09-29T13:35:17.528466+00:00"
+}
