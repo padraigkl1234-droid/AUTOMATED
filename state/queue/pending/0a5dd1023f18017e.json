@@ -1,0 +1,32 @@
+{
+  "fingerprint": "0a5dd1023f18017e",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "How do teams deal with longer international window?",
+  "full_caption": "How do teams deal with longer international window?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/0a5dd1023f18017e_story.png",
+  "video_path": "out/0a5dd1023f18017e_story.mp4",
+  "story": {
+    "title": "How do teams deal with longer international window?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz97v042vo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-09-30T05:25:05+00:00",
+    "summary": "With the international window extended to four games, how do nations like Northern Ireland deal with the additional demands on players and staff?",
+    "data": {
+      "headline": "HOW DO TEAMS DEAL",
+      "subhead": "with longer international window?",
+      "caption": "How do teams deal with longer international window?"
+    },
+    "score": 90.0,
+    "fingerprint": "0a5dd1023f18017e"
+  },
+  "queued_at": "2026-09-30T13:14:10.371132+00:00"
+}
