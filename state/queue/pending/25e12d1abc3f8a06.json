@@ -1,0 +1,31 @@
+{
+  "fingerprint": "25e12d1abc3f8a06",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Paris FC v Arsenal: Women\u2019s Champions League \u2013 live",
+  "full_caption": "Paris FC v Arsenal: Women\u2019s Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/25e12d1abc3f8a06_story.png",
+  "video_path": "out/25e12d1abc3f8a06_story.mp4",
+  "story": {
+    "title": "Paris FC v Arsenal: Women\u2019s Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
+    "published_at": "2026-09-30T17:48:45+00:00",
+    "summary": "\u26bd Updates from the 5.45pm BST kick-off in France\u26bd Live scores | Read Moving the Goalposts | Mail Niall7 mins: Arsenal win another corner and play it short, before Cooney Cross\u2019 ball into the middle bobbles through the penalty area.5 mins: Lisa Baum lifts a useful cross towards Caldentey, who can\u2019t get enough power on her header from an awkward angle. Continue reading...",
+    "data": {
+      "headline": "PARIS FC V ARSENAL",
+      "subhead": "Women\u2019s Champions League \u2013 live",
+      "caption": "Paris FC v Arsenal: Women\u2019s Champions League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "25e12d1abc3f8a06"
+  },
+  "queued_at": "2026-09-30T18:01:24.291958+00:00"
+}
