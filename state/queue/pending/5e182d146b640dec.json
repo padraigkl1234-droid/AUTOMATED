@@ -1,7 +1,7 @@
 {
   "fingerprint": "5e182d146b640dec",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts",
   "full_caption": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
   "hashtags": [
@@ -28,8 +28,8 @@
       "subhead": "League charges after \u00a3900m of \u2018sham\u2019 contracts",
       "caption": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts"
     },
-    "score": 103.0,
+    "score": 96.0,
     "fingerprint": "5e182d146b640dec"
   },
-  "queued_at": "2026-09-29T21:19:18.385045+00:00"
+  "queued_at": "2026-09-30T01:09:15.700122+00:00"
 }
