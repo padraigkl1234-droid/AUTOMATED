@@ -1,0 +1,31 @@
+{
+  "fingerprint": "50850eea43058892",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "HMRC urged to scrutinise tax implications of Man City case",
+  "full_caption": "HMRC urged to scrutinise tax implications of Man City case\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc"
+  ],
+  "image_path": "out/50850eea43058892_story.png",
+  "video_path": "out/50850eea43058892_story.mp4",
+  "story": {
+    "title": "HMRC urged to scrutinise tax implications of Man City case",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-01T17:23:09+00:00",
+    "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+    "data": {
+      "headline": "HMRC URGED TO SCRUTINISE TAX",
+      "subhead": "implications of Man City case",
+      "caption": "HMRC urged to scrutinise tax implications of Man City case"
+    },
+    "score": 77.0,
+    "fingerprint": "50850eea43058892"
+  },
+  "queued_at": "2026-10-01T18:17:22.523182+00:00"
+}
