@@ -1,7 +1,7 @@
 {
   "fingerprint": "2032d772aab03c52",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Rival clubs feel relegating Manchester City to Championship would not be enough",
   "full_caption": "Rival clubs feel relegating Manchester City to Championship would not be enough\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
   "hashtags": [
@@ -19,14 +19,14 @@
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
     "published_at": "2026-09-30T18:55:24+00:00",
-    "summary": "Premier League executives pushing for severe punishmentCity maintain they are \u2018innocent of the accusations\u2019The Premier League will face pressure from Manchester City\u2019s rivals to push for a sanction that will result in a prolonged absence from the top flight after the club were found guilty of more than 100 charges of financial rule-breaking.Executives at a number of Premier League clubs have told ",
+    "summary": "Premier League executives push for severe punishmentCity maintain they are \u2018innocent of the accusations\u2019The Premier League will face pressure from Manchester City\u2019s rivals to push for a sanction that will result in a prolonged absence from the top flight after the club were found guilty of more than 100 charges of financial rule-breaking.Executives at a number of Premier League clubs have told the",
     "data": {
       "headline": "RIVAL CLUBS FEEL RELEGATING MANCHESTER",
       "subhead": "City to Championship would not be enough",
       "caption": "Rival clubs feel relegating Manchester City to Championship would not be enough"
     },
-    "score": 105.0,
+    "score": 90.0,
     "fingerprint": "2032d772aab03c52"
   },
-  "queued_at": "2026-09-30T21:20:19.876963+00:00"
+  "queued_at": "2026-10-01T01:08:49.283716+00:00"
 }
