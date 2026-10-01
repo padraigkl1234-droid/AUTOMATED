@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e5acc2da26c4338d",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Former Man Utd defender Smalling signs for Porto",
+  "full_caption": "Former Man Utd defender Smalling signs for Porto\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/e5acc2da26c4338d_story.png",
+  "video_path": "out/e5acc2da26c4338d_story.mp4",
+  "story": {
+    "title": "Former Man Utd defender Smalling signs for Porto",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-01T12:33:26+00:00",
+    "summary": "Former Manchester United and England defender Chris Smalling signs for Portuguese league leaders Porto.",
+    "data": {
+      "headline": "FORMER MAN UTD DEFENDER SMALLING",
+      "subhead": "signs for Porto",
+      "caption": "Former Man Utd defender Smalling signs for Porto"
+    },
+    "score": 113.0,
+    "fingerprint": "e5acc2da26c4338d"
+  },
+  "queued_at": "2026-10-01T14:16:09.769859+00:00"
+}
