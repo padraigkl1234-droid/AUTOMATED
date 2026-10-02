@@ -1,0 +1,33 @@
+{
+  "fingerprint": "e32331f924a80d12",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms",
+  "full_caption": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/e32331f924a80d12_story.png",
+  "video_path": "out/e32331f924a80d12_story.mp4",
+  "story": {
+    "title": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/02/renee-slegers-feels-support-arsenal-hierarchy-despite-miserable-run-wsl",
+    "published_at": "2026-10-02T16:38:59+00:00",
+    "summary": "Board \u2018really good and positive\u2019 at \u2018difficult time\u2019Gunners visit WSL leaders Manchester City on SundayRen\u00e9e Slegers says she has felt the full support of Arsenal\u2019s board and praised her senior players for showing \u201cmonumental leadership\u201d this week as she vows to find solutions to recent poor form before Sunday\u2019s pivotal trip to Manchester City.One win in five matches has put Slegers under mounting",
+    "data": {
+      "headline": "SLEGERS FEELS SUPPORT FROM ARSENAL",
+      "subhead": "hierarchy despite dismal run but biggest test looms",
+      "caption": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms"
+    },
+    "score": 105.0,
+    "fingerprint": "e32331f924a80d12"
+  },
+  "queued_at": "2026-10-02T21:14:17.858932+00:00"
+}
