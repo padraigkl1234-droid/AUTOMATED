@@ -1,0 +1,31 @@
+{
+  "fingerprint": "a611c90811dde737",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Bentley: 'Best move' to sign for Zuffa and fight 'dangerous' Shane Mosley Jr",
+  "full_caption": "Bentley: 'Best move' to sign for Zuffa and fight 'dangerous' Shane Mosley Jr\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/a611c90811dde737_story.png",
+  "video_path": "out/a611c90811dde737_story.mp4",
+  "story": {
+    "title": "Bentley: 'Best move' to sign for Zuffa and fight 'dangerous' Shane Mosley Jr",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/watch/video/13594387/boxing-denzil-bentley-signs-with-zuffa-and-takes-on-dangerous-shane-mosley-jr-at-copper-box",
+    "published_at": "2026-10-02T13:13:00+00:00",
+    "summary": "Denzel Bentley signs with Zuffa Boxing and will fight Shane Mosley Jr at the Copper Box Arena on the Chris Billam-Smith vs Cheavon Clarke undercard.",
+    "data": {
+      "headline": "BENTLEY: 'BEST MOVE' TO SIGN",
+      "subhead": "for Zuffa and fight 'dangerous' Shane Mosley Jr",
+      "caption": "Bentley: 'Best move' to sign for Zuffa and fight 'dangerous' Shane Mosley Jr"
+    },
+    "score": 90.0,
+    "fingerprint": "a611c90811dde737"
+  },
+  "queued_at": "2026-10-02T13:23:25.817113+00:00"
+}
