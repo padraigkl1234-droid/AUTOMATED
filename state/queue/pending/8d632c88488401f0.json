@@ -1,0 +1,31 @@
+{
+  "fingerprint": "8d632c88488401f0",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "How Gordon became one of England's main men",
+  "full_caption": "How Gordon became one of England's main men\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/8d632c88488401f0_story.png",
+  "video_path": "out/8d632c88488401f0_story.mp4",
+  "story": {
+    "title": "How Gordon became one of England's main men",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-02T13:15:44+00:00",
+    "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage - is the Barcelona forward now undroppable?",
+    "data": {
+      "headline": "HOW GORDON BECAME ONE",
+      "subhead": "of England's main men",
+      "caption": "How Gordon became one of England's main men"
+    },
+    "score": 70.0,
+    "fingerprint": "8d632c88488401f0"
+  },
+  "queued_at": "2026-10-02T17:41:33.570907+00:00"
+}
