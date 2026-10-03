@@ -1,0 +1,32 @@
+{
+  "fingerprint": "6af28eed6c281616",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Back-to-back wins for Man Utd as they see off Liverpool",
+  "full_caption": "Back-to-back wins for Man Utd as they see off Liverpool\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#lfc"
+  ],
+  "image_path": "out/6af28eed6c281616_story.png",
+  "video_path": "out/6af28eed6c281616_story.mp4",
+  "story": {
+    "title": "Back-to-back wins for Man Utd as they see off Liverpool",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqx2z9gmjn7yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-03T15:04:54+00:00",
+    "summary": "Manchester United celebrate their 250th game in the club's history with a narrow victory over Liverpool in the Women's Super League.",
+    "data": {
+      "headline": "BACK-TO-BACK WINS FOR MAN UTD",
+      "subhead": "as they see off Liverpool",
+      "caption": "Back-to-back wins for Man Utd as they see off Liverpool"
+    },
+    "score": 85.0,
+    "fingerprint": "6af28eed6c281616"
+  },
+  "queued_at": "2026-10-03T15:59:50.786420+00:00"
+}
