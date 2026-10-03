@@ -1,0 +1,32 @@
+{
+  "fingerprint": "5fbe7fde776ee445",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+  "full_caption": "Which clubs did Man City's 'inflated' money flow to in transfer market?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/5fbe7fde776ee445_story.png",
+  "video_path": "out/5fbe7fde776ee445_story.mp4",
+  "story": {
+    "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-02T22:30:24+00:00",
+    "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
+    "data": {
+      "headline": "WHICH CLUBS DID MAN CITY'S",
+      "subhead": "'inflated' money flow to in transfer market?",
+      "caption": "Which clubs did Man City's 'inflated' money flow to in transfer market?"
+    },
+    "score": 105.0,
+    "fingerprint": "5fbe7fde776ee445"
+  },
+  "queued_at": "2026-10-03T00:59:30.135247+00:00"
+}
