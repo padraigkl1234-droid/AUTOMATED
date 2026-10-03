@@ -1,7 +1,7 @@
 {
   "fingerprint": "5fbe7fde776ee445",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
   "caption": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
   "full_caption": "Which clubs did Man City's 'inflated' money flow to in transfer market?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
   "hashtags": [
@@ -25,8 +25,8 @@
       "subhead": "'inflated' money flow to in transfer market?",
       "caption": "Which clubs did Man City's 'inflated' money flow to in transfer market?"
     },
-    "score": 105.0,
+    "score": 77.0,
     "fingerprint": "5fbe7fde776ee445"
   },
-  "queued_at": "2026-10-03T00:59:30.135247+00:00"
+  "queued_at": "2026-10-03T19:44:00.709089+00:00"
 }
