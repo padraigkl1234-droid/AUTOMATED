@@ -1,0 +1,33 @@
+{
+  "fingerprint": "37cf076920a8ade7",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Man City fight back to beat struggling Arsenal",
+  "full_caption": "Man City fight back to beat struggling Arsenal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/37cf076920a8ade7_story.png",
+  "video_path": "out/37cf076920a8ade7_story.mp4",
+  "story": {
+    "title": "Man City fight back to beat struggling Arsenal",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-04T21:20:21+00:00",
+    "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.",
+    "data": {
+      "headline": "MAN CITY FIGHT BACK",
+      "subhead": "to beat struggling Arsenal",
+      "caption": "Man City fight back to beat struggling Arsenal"
+    },
+    "score": 92.0,
+    "fingerprint": "37cf076920a8ade7"
+  },
+  "queued_at": "2026-10-05T00:31:39.922017+00:00"
+}
