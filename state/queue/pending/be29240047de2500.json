@@ -1,0 +1,34 @@
+{
+  "fingerprint": "be29240047de2500",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Gabriel in Man Utd team photo but no hint of reconciliation",
+  "full_caption": "Gabriel in Man Utd team photo but no hint of reconciliation\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/be29240047de2500_story.png",
+  "video_path": "out/be29240047de2500_story.mp4",
+  "story": {
+    "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-05T19:13:15+00:00",
+    "summary": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "GABRIEL IN MAN UTD TEAM",
+      "subhead": "photo but no hint of reconciliation",
+      "caption": "Gabriel in Man Utd team photo but no hint of reconciliation"
+    },
+    "score": 84.0,
+    "fingerprint": "be29240047de2500"
+  },
+  "queued_at": "2026-10-05T20:25:52.445745+00:00"
+}
