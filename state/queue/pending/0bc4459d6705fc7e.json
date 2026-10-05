@@ -1,0 +1,31 @@
+{
+  "fingerprint": "0bc4459d6705fc7e",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Celtic celebrate heated win over Rangers in final of revived Tennent\u2019s Sixes",
+  "full_caption": "Celtic celebrate heated win over Rangers in final of revived Tennent\u2019s Sixes\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday"
+  ],
+  "image_path": "out/0bc4459d6705fc7e_story.png",
+  "video_path": "out/0bc4459d6705fc7e_story.mp4",
+  "story": {
+    "title": "Celtic celebrate heated win over Rangers in final of revived Tennent\u2019s Sixes",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/05/celtic-celebrate-heated-win-rangers-final-revived-tennents-sixes",
+    "published_at": "2026-10-05T13:21:16+00:00",
+    "summary": "Charlie Mulgrew admits getting carried away after gameAngry scenes in Rangers dressing room emerge in videoThe intensity of the football rivalry in Glasgow was evident on Sunday night as Celtic turned the tables on Rangers to win the Tennent\u2019s Sixes. Celtic beat their rivals 5-4 in the final at Braehead Arena after being on the end of a 7-1 defeat by Rangers in the group stage on Saturday.The tour",
+    "data": {
+      "headline": "CELTIC CELEBRATE HEATED WIN",
+      "subhead": "over Rangers in final of revived Tennent\u2019s Sixes",
+      "caption": "Celtic celebrate heated win over Rangers in final of revived Tennent\u2019s Sixes"
+    },
+    "score": 80.0,
+    "fingerprint": "0bc4459d6705fc7e"
+  },
+  "queued_at": "2026-10-05T15:26:13.058180+00:00"
+}
