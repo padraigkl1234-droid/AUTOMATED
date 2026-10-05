@@ -1,0 +1,33 @@
+{
+  "fingerprint": "4005e38612b738c7",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Shaw seals thrilling win over Arsenal to extend Manchester City\u2019s 100% WSL start",
+  "full_caption": "Shaw seals thrilling win over Arsenal to extend Manchester City\u2019s 100% WSL start\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/4005e38612b738c7_story.png",
+  "video_path": "out/4005e38612b738c7_story.mp4",
+  "story": {
+    "title": "Shaw seals thrilling win over Arsenal to extend Manchester City\u2019s 100% WSL start",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report",
+    "published_at": "2026-10-04T18:07:47+00:00",
+    "summary": "Arsenal\u2019s under-pressure head coach Ren\u00e9e Slegers still believes they will turn their form around, despite falling 10 points behind Manchester City with Sunday\u2019s defeat in an absorbing six-goal thriller against the defending champions.Arsenal were last season\u2019s runners-up in the Women\u2019s Super League and had high hopes of mounting a strong challenge this term but their chances of lifting a first WS",
+    "data": {
+      "headline": "SHAW SEALS THRILLING WIN",
+      "subhead": "over Arsenal to extend Manchester City\u2019s 100% WSL start",
+      "caption": "Shaw seals thrilling win over Arsenal to extend Manchester City\u2019s 100% WSL start"
+    },
+    "score": 72.0,
+    "fingerprint": "4005e38612b738c7"
+  },
+  "queued_at": "2026-10-05T23:05:51.670008+00:00"
+}
