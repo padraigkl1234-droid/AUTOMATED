@@ -1,0 +1,31 @@
+{
+  "fingerprint": "0d197dd3f96c0dab",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Lionel Messi has completed football and can bid Argentina farewell with pride",
+  "full_caption": "Lionel Messi has completed football and can bid Argentina farewell with pride\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/0d197dd3f96c0dab_story.png",
+  "video_path": "out/0d197dd3f96c0dab_story.mp4",
+  "story": {
+    "title": "Lionel Messi has completed football and can bid Argentina farewell with pride",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/06/lionel-messi-completed-football-argentina-farewell-world-cup-glory",
+    "published_at": "2026-10-06T11:07:41+00:00",
+    "summary": "Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come By Opta AnalystNot for the first time, Lionel Messi is returning to the Argentina national team. This occasion, however, will be accompanied by a sense of completion and celebration rather than obligation, as the country bids farewell to probably the greatest footballer ever. Messi will wear",
+    "data": {
+      "headline": "LIONEL MESSI HAS COMPLETED FOOTBALL",
+      "subhead": "and can bid Argentina farewell with pride",
+      "caption": "Lionel Messi has completed football and can bid Argentina farewell with pride"
+    },
+    "score": 93.0,
+    "fingerprint": "0d197dd3f96c0dab"
+  },
+  "queued_at": "2026-10-06T13:49:01.217094+00:00"
+}
