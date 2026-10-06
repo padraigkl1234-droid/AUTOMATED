@@ -1,0 +1,34 @@
+{
+  "fingerprint": "b0b6036a6742504e",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Too nice: do Arsenal lack the grit and tenacity to end WSL title drought?",
+  "full_caption": "Too nice: do Arsenal lack the grit and tenacity to end WSL title drought?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #afc #cfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#afc",
+    "#cfc",
+    "#inter"
+  ],
+  "image_path": "out/b0b6036a6742504e_story.png",
+  "video_path": "out/b0b6036a6742504e_story.mp4",
+  "story": {
+    "title": "Too nice: do Arsenal lack the grit and tenacity to end WSL title drought?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/06/arsenal-womens-super-league-title-renee-slegers-manchester-city-chelsea",
+    "published_at": "2026-10-06T16:55:59+00:00",
+    "summary": "Ren\u00e9e Slegers\u2019 team have the technical ability, but doubts remain over the nastiness needed to rival Manchester City and ChelseaArsenal, 10 points adrift of the Women\u2019s Super League leaders, are poised to undertake a \u201cbig review\u201d of their season during this international break to try to determine where things have gone so horribly wrong \u2013 again \u2013 in the early stages. After their 4-2 loss at Manche",
+    "data": {
+      "headline": "TOO NICE",
+      "subhead": "do Arsenal lack the grit and tenacity to end WSL title drought?",
+      "caption": "Too nice: do Arsenal lack the grit and tenacity to end WSL title drought?"
+    },
+    "score": 78.0,
+    "fingerprint": "b0b6036a6742504e"
+  },
+  "queued_at": "2026-10-06T18:09:11.925733+00:00"
+}
