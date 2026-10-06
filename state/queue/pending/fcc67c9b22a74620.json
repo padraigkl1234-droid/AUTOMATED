@@ -1,0 +1,32 @@
+{
+  "fingerprint": "fcc67c9b22a74620",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Villa eye Endrick loan deal - Wednesday's gossip",
+  "full_caption": "Villa eye Endrick loan deal - Wednesday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#avfc"
+  ],
+  "image_path": "out/fcc67c9b22a74620_story.png",
+  "video_path": "out/fcc67c9b22a74620_story.mp4",
+  "story": {
+    "title": "Villa eye Endrick loan deal - Wednesday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm75pl4dw5rpo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-06T20:20:01+00:00",
+    "summary": "Aston Villa might lure Endrick to the Premier League, Bournemouth fight to keep hold of Alex Scott, top clubs are keen on Rayan Cherki, plus more.",
+    "data": {
+      "headline": "VILLA EYE ENDRICK LOAN DEAL",
+      "subhead": "Wednesday's gossip",
+      "caption": "Villa eye Endrick loan deal - Wednesday's gossip"
+    },
+    "score": 93.0,
+    "fingerprint": "fcc67c9b22a74620"
+  },
+  "queued_at": "2026-10-06T21:30:53.938912+00:00"
+}
