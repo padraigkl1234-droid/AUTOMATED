@@ -1,0 +1,31 @@
+{
+  "fingerprint": "ee12cb1721d78e86",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Lionel Messi\u2019s Argentina career turned football into a sacred mystery | Marcela Mora y Araujo",
+  "full_caption": "Lionel Messi\u2019s Argentina career turned football into a sacred mystery | Marcela Mora y Araujo\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#inter"
+  ],
+  "image_path": "out/ee12cb1721d78e86_story.png",
+  "video_path": "out/ee12cb1721d78e86_story.mp4",
+  "story": {
+    "title": "Lionel Messi\u2019s Argentina career turned football into a sacred mystery | Marcela Mora y Araujo",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-argentina-retirement-final-match",
+    "published_at": "2026-10-07T17:02:22+00:00",
+    "summary": "Jorge Messi wanted his country to fall in love with his son. That ambition was fulfilled during a brilliant international career that ended this week\u201cWhat Argentina is doing in this World Cup is of a sacred order,\u201d Brazilian writer Milly Lacombe posted at the height of the tide of anti-Argentinian sentiment during this year\u2019s tournament. She was exploring the contradiction she felt around her supp",
+    "data": {
+      "headline": "LIONEL MESSI\u2019S ARGENTINA CAREER TURNED",
+      "subhead": "football into a sacred mystery | Marcela Mora y Araujo",
+      "caption": "Lionel Messi\u2019s Argentina career turned football into a sacred mystery | Marcela Mora y Araujo"
+    },
+    "score": 70.0,
+    "fingerprint": "ee12cb1721d78e86"
+  },
+  "queued_at": "2026-10-07T18:43:42.449025+00:00"
+}
