@@ -1,0 +1,32 @@
+{
+  "fingerprint": "30f650c4f613e700",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "US group given SFA green light in bid to buy Shrewsbury",
+  "full_caption": "US group given SFA green light in bid to buy Shrewsbury\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/30f650c4f613e700_story.png",
+  "video_path": "out/30f650c4f613e700_story.mp4",
+  "story": {
+    "title": "US group given SFA green light in bid to buy Shrewsbury",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6n49218ky0yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-06T13:28:53+00:00",
+    "summary": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans FC.",
+    "data": {
+      "headline": "US GROUP GIVEN SFA GREEN",
+      "subhead": "light in bid to buy Shrewsbury",
+      "caption": "US group given SFA green light in bid to buy Shrewsbury"
+    },
+    "score": 90.0,
+    "fingerprint": "30f650c4f613e700"
+  },
+  "queued_at": "2026-10-07T01:18:58.154488+00:00"
+}
