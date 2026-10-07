@@ -1,0 +1,32 @@
+{
+  "fingerprint": "680bda663b23d4e1",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "\u2018This is only the beginning,\u2019 vows Mikel Arteta after signing \u00a380m-plus Arsenal deal",
+  "full_caption": "\u2018This is only the beginning,\u2019 vows Mikel Arteta after signing \u00a380m-plus Arsenal deal\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/680bda663b23d4e1_story.png",
+  "video_path": "out/680bda663b23d4e1_story.mp4",
+  "story": {
+    "title": "\u2018This is only the beginning,\u2019 vows Mikel Arteta after signing \u00a380m-plus Arsenal deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/07/mikel-arteta-signs-new-arsenal-deal-only-the-beginning",
+    "published_at": "2026-10-07T11:13:33+00:00",
+    "summary": "Four-year-contract secures Spaniard\u2019s futureTitle winner is Premier League\u2019s best-paid managerMikel Arteta has promised \u201cthis is only the beginning\u201d of what he can achieve as Arsenal manager after signing a new long-term contract that would take his reign at the club beyond a decade if he sees it out.The Spaniard is understood to have signed a four-year deal worth more \u00a320m a season, making him th",
+    "data": {
+      "headline": "\u2018THIS IS ONLY THE BEGINNING,\u2019",
+      "subhead": "vows Mikel Arteta after signing \u00a380m-plus Arsenal deal",
+      "caption": "\u2018This is only the beginning,\u2019 vows Mikel Arteta after signing \u00a380m-plus Arsenal deal"
+    },
+    "score": 113.0,
+    "fingerprint": "680bda663b23d4e1"
+  },
+  "queued_at": "2026-10-07T14:05:30.987370+00:00"
+}
