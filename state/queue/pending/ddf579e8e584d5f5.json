@@ -1,0 +1,32 @@
+{
+  "fingerprint": "ddf579e8e584d5f5",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Rice close to agreeing new Arsenal deal",
+  "full_caption": "Rice close to agreeing new Arsenal deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/ddf579e8e584d5f5_story.png",
+  "video_path": "out/ddf579e8e584d5f5_story.mp4",
+  "story": {
+    "title": "Rice close to agreeing new Arsenal deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-07T18:30:21+00:00",
+    "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+    "data": {
+      "headline": "RICE CLOSE TO AGREEING NEW",
+      "subhead": "Arsenal deal",
+      "caption": "Rice close to agreeing new Arsenal deal"
+    },
+    "score": 105.0,
+    "fingerprint": "ddf579e8e584d5f5"
+  },
+  "queued_at": "2026-10-07T22:02:31.934134+00:00"
+}
