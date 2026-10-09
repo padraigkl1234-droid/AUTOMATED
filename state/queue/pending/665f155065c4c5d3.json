@@ -1,0 +1,34 @@
+{
+  "fingerprint": "665f155065c4c5d3",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal eye deal for teenager Mora - Saturday's gossip",
+  "full_caption": "Arsenal eye deal for teenager Mora - Saturday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #acmilan #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#acmilan",
+    "#inter"
+  ],
+  "image_path": "out/665f155065c4c5d3_story.png",
+  "video_path": "out/665f155065c4c5d3_story.mp4",
+  "story": {
+    "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-09T21:19:35+00:00",
+    "summary": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest",
+    "data": {
+      "headline": "ARSENAL EYE DEAL FOR TEENAGER MORA",
+      "subhead": "Saturday's gossip",
+      "caption": "Arsenal eye deal for teenager Mora - Saturday's gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "665f155065c4c5d3"
+  },
+  "queued_at": "2026-10-09T21:31:33.771904+00:00"
+}
