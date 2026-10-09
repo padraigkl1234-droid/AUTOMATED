@@ -1,7 +1,7 @@
 {
   "fingerprint": "34ad879165bda5b9",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Real seek McTominay move - Friday's gossip",
   "full_caption": "Real seek McTominay move - Friday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #cfc #realmadrid",
   "hashtags": [
@@ -27,8 +27,8 @@
       "subhead": "Friday's gossip",
       "caption": "Real seek McTominay move - Friday's gossip"
     },
-    "score": 120.0,
+    "score": 105.0,
     "fingerprint": "34ad879165bda5b9"
   },
-  "queued_at": "2026-10-08T21:54:31.830751+00:00"
+  "queued_at": "2026-10-09T01:47:48.318130+00:00"
 }
