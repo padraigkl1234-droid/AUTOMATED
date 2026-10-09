@@ -1,0 +1,32 @@
+{
+  "fingerprint": "2e0b1df1759f07af",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "From doomscrolling to defiance - how do Man City fans feel?",
+  "full_caption": "From doomscrolling to defiance - how do Man City fans feel?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/2e0b1df1759f07af_story.png",
+  "video_path": "out/2e0b1df1759f07af_story.mp4",
+  "story": {
+    "title": "From doomscrolling to defiance - how do Man City fans feel?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm040l634249o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-09T09:02:26+00:00",
+    "summary": "With Manchester City found guilty of the majority of 115 charges against them, how are their fans feeling?",
+    "data": {
+      "headline": "FROM DOOMSCROLLING TO DEFIANCE",
+      "subhead": "how do Man City fans feel?",
+      "caption": "From doomscrolling to defiance - how do Man City fans feel?"
+    },
+    "score": 97.0,
+    "fingerprint": "2e0b1df1759f07af"
+  },
+  "queued_at": "2026-10-09T14:01:21.345240+00:00"
+}
