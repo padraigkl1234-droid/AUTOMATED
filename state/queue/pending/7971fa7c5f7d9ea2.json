@@ -1,0 +1,34 @@
+{
+  "fingerprint": "7971fa7c5f7d9ea2",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Premier League team news: predicted lineups for the weekend action",
+  "full_caption": "Premier League team news: predicted lineups for the weekend action\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #lfc #thfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#lfc",
+    "#thfc",
+    "#inter"
+  ],
+  "image_path": "out/7971fa7c5f7d9ea2_story.png",
+  "video_path": "out/7971fa7c5f7d9ea2_story.mp4",
+  "story": {
+    "title": "Premier League team news: predicted lineups for the weekend action",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+    "published_at": "2026-10-09T16:22:09+00:00",
+    "summary": "Manchester City face Liverpool after a trying international break while struggling Tottenham go to Old TraffordSaturday 12.30pm TNT Sports 1 Venue Emirates Stadium Continue reading...",
+    "data": {
+      "headline": "PREMIER LEAGUE TEAM NEWS",
+      "subhead": "predicted lineups for the weekend action",
+      "caption": "Premier League team news: predicted lineups for the weekend action"
+    },
+    "score": 78.0,
+    "fingerprint": "7971fa7c5f7d9ea2"
+  },
+  "queued_at": "2026-10-09T18:11:36.882491+00:00"
+}
