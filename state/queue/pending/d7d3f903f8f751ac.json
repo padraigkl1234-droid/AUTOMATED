@@ -1,0 +1,35 @@
+{
+  "fingerprint": "d7d3f903f8f751ac",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Palmer signs new Chelsea contract until 2034",
+  "full_caption": "Palmer signs new Chelsea contract until 2034\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc"
+  ],
+  "image_path": "out/d7d3f903f8f751ac_story.png",
+  "video_path": "out/d7d3f903f8f751ac_story.mp4",
+  "story": {
+    "title": "Palmer signs new Chelsea contract until 2034",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-10T09:51:09+00:00",
+    "summary": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "PALMER SIGNS NEW CHELSEA CONTRACT",
+      "subhead": "until 2034",
+      "caption": "Palmer signs new Chelsea contract until 2034"
+    },
+    "score": 103.0,
+    "fingerprint": "d7d3f903f8f751ac"
+  },
+  "queued_at": "2026-10-10T13:10:19.184240+00:00"
+}
