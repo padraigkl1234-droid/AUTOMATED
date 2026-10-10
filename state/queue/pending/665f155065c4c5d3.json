@@ -1,7 +1,7 @@
 {
   "fingerprint": "665f155065c4c5d3",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Arsenal eye deal for teenager Mora - Saturday's gossip",
   "full_caption": "Arsenal eye deal for teenager Mora - Saturday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc #acmilan #inter",
   "hashtags": [
@@ -27,8 +27,8 @@
       "subhead": "Saturday's gossip",
       "caption": "Arsenal eye deal for teenager Mora - Saturday's gossip"
     },
-    "score": 120.0,
+    "score": 105.0,
     "fingerprint": "665f155065c4c5d3"
   },
-  "queued_at": "2026-10-09T21:31:33.771904+00:00"
+  "queued_at": "2026-10-10T01:34:36.016604+00:00"
 }
