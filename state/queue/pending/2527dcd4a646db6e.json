@@ -1,0 +1,33 @@
+{
+  "fingerprint": "2527dcd4a646db6e",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
+  "full_caption": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc",
+    "#thfc"
+  ],
+  "image_path": "out/2527dcd4a646db6e_story.png",
+  "video_path": "out/2527dcd4a646db6e_story.mp4",
+  "story": {
+    "title": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-10T19:35:45+00:00",
+    "summary": "Manchester United head coach Michael Carrick says boos from the club's fans 'hurts a lot' but that he and his team 'must cope with it' after they conceded a late equaliser to draw 1-1 with Tottenham in the Premier League.",
+    "data": {
+      "headline": "'IT HURTS A LOT'",
+      "subhead": "Carrick 'understands' Man Utd boos after draw",
+      "caption": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw"
+    },
+    "score": 107.0,
+    "fingerprint": "2527dcd4a646db6e"
+  },
+  "queued_at": "2026-10-10T20:32:00.360368+00:00"
+}
