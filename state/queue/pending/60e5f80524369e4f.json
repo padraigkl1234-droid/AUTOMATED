@@ -1,0 +1,33 @@
+{
+  "fingerprint": "60e5f80524369e4f",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+  "full_caption": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc",
+    "#thfc"
+  ],
+  "image_path": "out/60e5f80524369e4f_story.png",
+  "video_path": "out/60e5f80524369e4f_story.mp4",
+  "story": {
+    "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-10T18:46:40+00:00",
+    "summary": "Tottenham score an injury-time equaliser against Manchester United after Rodrigo Bentancur was sent off for headbutting Luke Shaw.",
+    "data": {
+      "headline": "TOTTENHAM GRAB A DRAW",
+      "subhead": "but who got 1/10 - Ratings for Man Utd v Spurs",
+      "caption": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs"
+    },
+    "score": 92.0,
+    "fingerprint": "60e5f80524369e4f"
+  },
+  "queued_at": "2026-10-11T00:43:51.704691+00:00"
+}
