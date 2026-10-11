@@ -1,0 +1,31 @@
+{
+  "fingerprint": "1e3fd15667d583ce",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
+  "full_caption": "European football: Lazio join Inter at top of Serie A as Roma held at Como\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#inter"
+  ],
+  "image_path": "out/1e3fd15667d583ce_story.png",
+  "video_path": "out/1e3fd15667d583ce_story.mp4",
+  "story": {
+    "title": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
+    "published_at": "2026-10-11T16:09:39+00:00",
+    "summary": "Gattuso\u2019s side ease to 3-1 win against 10-man MonzaRoma frustrated after goalless draw away at ComoLazio moved level on points with Inter at the top of Serie A with a 3-1 win over Monza on Sunday as 10-man Roma played out the first goalless draw of the Italian season at Como.Under Gennaro Gattuso, who has bounced back after his failure at the helm of the Italian national side who missed out on the",
+    "data": {
+      "headline": "EUROPEAN FOOTBALL",
+      "subhead": "Lazio join Inter at top of Serie A as Roma held at",
+      "caption": "European football: Lazio join Inter at top of Serie A as Roma held at Como"
+    },
+    "score": 70.0,
+    "fingerprint": "1e3fd15667d583ce"
+  },
+  "queued_at": "2026-10-11T17:33:23.251602+00:00"
+}
