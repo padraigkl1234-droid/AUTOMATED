@@ -1,0 +1,31 @@
+{
+  "fingerprint": "e93fc3e92e0557f3",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Arbeloa 'doesn't feel fear' but pressure increases after loss",
+  "full_caption": "Arbeloa 'doesn't feel fear' but pressure increases after loss\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/e93fc3e92e0557f3_story.png",
+  "video_path": "out/e93fc3e92e0557f3_story.mp4",
+  "story": {
+    "title": "Arbeloa 'doesn't feel fear' but pressure increases after loss",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-10T19:03:00+00:00",
+    "summary": "Fulham boss Alvaro Arbeloa says he does not 'feel fear' after defeat at Ipswich left his side winless in six games and bottom of the Premier League.",
+    "data": {
+      "headline": "ARBELOA 'DOESN'T FEEL FEAR'",
+      "subhead": "but pressure increases after loss",
+      "caption": "Arbeloa 'doesn't feel fear' but pressure increases after loss"
+    },
+    "score": 65.0,
+    "fingerprint": "e93fc3e92e0557f3"
+  },
+  "queued_at": "2026-10-11T13:39:59.347821+00:00"
+}
