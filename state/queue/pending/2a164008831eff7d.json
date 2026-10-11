@@ -1,0 +1,33 @@
+{
+  "fingerprint": "2a164008831eff7d",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Man City's statement win has feeling of irrelevance with season in limbo",
+  "full_caption": "Man City's statement win has feeling of irrelevance with season in limbo\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#lfc"
+  ],
+  "image_path": "out/2a164008831eff7d_story.png",
+  "video_path": "out/2a164008831eff7d_story.mp4",
+  "story": {
+    "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-11T20:02:27+00:00",
+    "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+    "data": {
+      "headline": "MAN CITY'S STATEMENT WIN HAS",
+      "subhead": "feeling of irrelevance with season in limbo",
+      "caption": "Man City's statement win has feeling of irrelevance with season in limbo"
+    },
+    "score": 120.0,
+    "fingerprint": "2a164008831eff7d"
+  },
+  "queued_at": "2026-10-11T20:51:20.131387+00:00"
+}
