@@ -1,7 +1,7 @@
 {
   "fingerprint": "2a164008831eff7d",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Man City's statement win has feeling of irrelevance with season in limbo",
   "full_caption": "Man City's statement win has feeling of irrelevance with season in limbo\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc #lfc",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "feeling of irrelevance with season in limbo",
       "caption": "Man City's statement win has feeling of irrelevance with season in limbo"
     },
-    "score": 120.0,
+    "score": 105.0,
     "fingerprint": "2a164008831eff7d"
   },
-  "queued_at": "2026-10-11T20:51:20.131387+00:00"
+  "queued_at": "2026-10-12T01:04:42.104651+00:00"
 }
