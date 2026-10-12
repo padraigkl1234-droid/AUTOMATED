@@ -1,0 +1,33 @@
+{
+  "fingerprint": "5ccfc2890a96c937",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Man Utd eye Simeone - Tuesday's gossip",
+  "full_caption": "Man Utd eye Simeone - Tuesday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc #cfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#cfc",
+    "#inter"
+  ],
+  "image_path": "out/5ccfc2890a96c937_story.png",
+  "video_path": "out/5ccfc2890a96c937_story.mp4",
+  "story": {
+    "title": "Man Utd eye Simeone - Tuesday's gossip",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-12T20:49:48+00:00",
+    "summary": "Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's Aleksandar Stankovic.",
+    "data": {
+      "headline": "MAN UTD EYE SIMEONE",
+      "subhead": "Tuesday's gossip",
+      "caption": "Man Utd eye Simeone - Tuesday's gossip"
+    },
+    "score": 85.0,
+    "fingerprint": "5ccfc2890a96c937"
+  },
+  "queued_at": "2026-10-12T21:07:01.106917+00:00"
+}
