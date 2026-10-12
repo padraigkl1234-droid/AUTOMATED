@@ -1,0 +1,32 @@
+{
+  "fingerprint": "a67dbb8d610645ef",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Lampard keeping 'feet on ground' following big win over Newcastle",
+  "full_caption": "Lampard keeping 'feet on ground' following big win over Newcastle\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#nufc"
+  ],
+  "image_path": "out/a67dbb8d610645ef_story.png",
+  "video_path": "out/a67dbb8d610645ef_story.mp4",
+  "story": {
+    "title": "Lampard keeping 'feet on ground' following big win over Newcastle",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-12T21:43:20+00:00",
+    "summary": "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1.",
+    "data": {
+      "headline": "LAMPARD KEEPING 'FEET ON GROUND'",
+      "subhead": "following big win over Newcastle",
+      "caption": "Lampard keeping 'feet on ground' following big win over Newcastle"
+    },
+    "score": 93.0,
+    "fingerprint": "a67dbb8d610645ef"
+  },
+  "queued_at": "2026-10-12T23:33:29.555090+00:00"
+}
