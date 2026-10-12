@@ -1,0 +1,32 @@
+{
+  "fingerprint": "bcd313a118abee95",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson",
+  "full_caption": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/bcd313a118abee95_story.png",
+  "video_path": "out/bcd313a118abee95_story.mp4",
+  "story": {
+    "title": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language",
+    "published_at": "2026-10-12T14:24:02+00:00",
+    "summary": "It\u2019s not just that the club\u2019s recent charges themselves are unprecedented \u2013 it\u2019s the language used to describe them tooSign up for our free newsletter hereThe language of football is a fine and highly nuanced dialect. The majority of people involved in the game speak it with a high degree of sophistication. Minor deviations from the familiar, almost imperceptible to outsiders, can set off alarm be",
+    "data": {
+      "headline": "WINNING IS NOT ENOUGH",
+      "subhead": "for Manchester City to move on from this crisis | Jonathan Wilson",
+      "caption": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson"
+    },
+    "score": 105.0,
+    "fingerprint": "bcd313a118abee95"
+  },
+  "queued_at": "2026-10-12T16:21:23.634970+00:00"
+}
