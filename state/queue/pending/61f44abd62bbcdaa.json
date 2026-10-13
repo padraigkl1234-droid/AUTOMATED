@@ -1,0 +1,35 @@
+{
+  "fingerprint": "61f44abd62bbcdaa",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Arsenal v Lille: Champions League \u2013 live",
+  "full_caption": "Arsenal v Lille: Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/61f44abd62bbcdaa_story.png",
+  "video_path": "out/61f44abd62bbcdaa_story.mp4",
+  "story": {
+    "title": "Arsenal v Lille: Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/oct/13/arsenal-v-lille-champions-league-live-score-updates",
+    "published_at": "2026-10-13T18:45:28+00:00",
+    "summary": "Champions League updates from the 8pm BST kick-offLive scoreboard | Follow Atl\u00e9tico v Man Utd | Mail Simon\u201cWith the Eurostar links close by both grounds is it time to call this the St Pancras-ico?\u201d wonders Chris Walker. The Eurostarby, perhaps?Most of Mikel Arteta\u2019s pre-match chat with TNT Sports focuses on Ken Friar, Arsenal\u2019s life president, whose death aged 92 was announced today. He was, Artet",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "ARSENAL V LILLE",
+      "subhead": "Champions League \u2013 live",
+      "caption": "Arsenal v Lille: Champions League \u2013 live"
+    },
+    "score": 97.0,
+    "fingerprint": "61f44abd62bbcdaa"
+  },
+  "queued_at": "2026-10-13T19:05:55.992777+00:00"
+}
