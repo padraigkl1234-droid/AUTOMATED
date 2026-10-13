@@ -1,0 +1,32 @@
+{
+  "fingerprint": "31691f6bc07250d9",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "What Manchester's 'super-profit' deal with City owners has paid out so far",
+  "full_caption": "What Manchester's 'super-profit' deal with City owners has paid out so far\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/31691f6bc07250d9_story.png",
+  "video_path": "out/31691f6bc07250d9_story.mp4",
+  "story": {
+    "title": "What Manchester's 'super-profit' deal with City owners has paid out so far",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/c62keg74dvxjo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-13T05:12:47+00:00",
+    "summary": "Manchester City Council has made almost \u00a33m from the \"super-profits\" of Man City-linked developments.",
+    "data": {
+      "headline": "WHAT MANCHESTER'S 'SUPER-PROFIT' DEAL",
+      "subhead": "with City owners has paid out so far",
+      "caption": "What Manchester's 'super-profit' deal with City owners has paid out so far"
+    },
+    "score": 90.0,
+    "fingerprint": "31691f6bc07250d9"
+  },
+  "queued_at": "2026-10-13T14:42:54.296179+00:00"
+}
