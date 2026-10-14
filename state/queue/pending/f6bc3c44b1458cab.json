@@ -1,0 +1,34 @@
+{
+  "fingerprint": "f6bc3c44b1458cab",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Lask v Liverpool: Champions League \u2013 live",
+  "full_caption": "Lask v Liverpool: Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/f6bc3c44b1458cab_story.png",
+  "video_path": "out/f6bc3c44b1458cab_story.mp4",
+  "story": {
+    "title": "Lask v Liverpool: Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/oct/14/lask-v-liverpool-champions-league-live-score-updates",
+    "published_at": "2026-10-14T16:32:49+00:00",
+    "summary": "Champions League news from the 5.45pm BST kick-offLive scoreboard | Today\u2019s Football Daily | Email MichaelAndoni Iraola, Liverpool\u2019s manager, speaks to TNT:We play every three days so we cannot expect to play every game with the same XI. This is a good opportunity to give Van Dijk a rest.Koumas and Ngumoha are coming from the academy but they are first-team players. I hope they do well. This is th",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "LASK V LIVERPOOL",
+      "subhead": "Champions League \u2013 live",
+      "caption": "Lask v Liverpool: Champions League \u2013 live"
+    },
+    "score": 91.0,
+    "fingerprint": "f6bc3c44b1458cab"
+  },
+  "queued_at": "2026-10-14T16:53:05.801949+00:00"
+}
