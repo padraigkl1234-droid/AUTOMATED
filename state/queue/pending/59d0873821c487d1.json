@@ -1,7 +1,7 @@
 {
   "fingerprint": "59d0873821c487d1",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Man Utd beaten by Atletico as Yoro controversially sent off",
   "full_caption": "Man Utd beaten by Atletico as Yoro controversially sent off\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #matchday #mufc",
   "hashtags": [
@@ -19,14 +19,14 @@
     "source": "Sky Sports",
     "url": "https://www.skysports.com/football/atletico-madrid-vs-manchester-united/report/577616",
     "published_at": "2026-10-13T21:45:00+00:00",
-    "summary": "Manchester United failed to ease the pressure on Michael Carrick as they were beaten 2-0 at Atletico Madrid in the Champions League after Leny Yoro&#8217;s controversial second-half sending off.",
+    "summary": "Ten-man Manchester United failed to ease the pressure on Michael Carrick as they were beaten 2-0 at Atletico Madrid in the Champions League after conceding in the first minute.",
     "data": {
       "headline": "MAN UTD BEATEN BY ATLETICO",
       "subhead": "as Yoro controversially sent off",
       "caption": "Man Utd beaten by Atletico as Yoro controversially sent off"
     },
-    "score": 97.0,
+    "score": 82.0,
     "fingerprint": "59d0873821c487d1"
   },
-  "queued_at": "2026-10-13T21:47:00.193128+00:00"
+  "queued_at": "2026-10-14T00:56:40.836289+00:00"
 }
