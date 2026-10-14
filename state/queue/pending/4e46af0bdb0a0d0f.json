@@ -1,0 +1,31 @@
+{
+  "fingerprint": "4e46af0bdb0a0d0f",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+  "full_caption": "Quiz: Do you remember the big names who took aim at football club chiefs?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/4e46af0bdb0a0d0f_story.png",
+  "video_path": "out/4e46af0bdb0a0d0f_story.mp4",
+  "story": {
+    "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-14T12:13:38+00:00",
+    "summary": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
+    "data": {
+      "headline": "QUIZ: DO YOU REMEMBER",
+      "subhead": "the big names who took aim at football club chiefs?",
+      "caption": "Quiz: Do you remember the big names who took aim at football club chiefs?"
+    },
+    "score": 85.0,
+    "fingerprint": "4e46af0bdb0a0d0f"
+  },
+  "queued_at": "2026-10-14T12:34:58.342116+00:00"
+}
