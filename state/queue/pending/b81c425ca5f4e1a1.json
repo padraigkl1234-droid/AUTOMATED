@@ -1,0 +1,32 @@
+{
+  "fingerprint": "b81c425ca5f4e1a1",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Kane agrees new deal in principle with Bayern Munich",
+  "full_caption": "Kane agrees new deal in principle with Bayern Munich\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbayern"
+  ],
+  "image_path": "out/b81c425ca5f4e1a1_story.png",
+  "video_path": "out/b81c425ca5f4e1a1_story.mp4",
+  "story": {
+    "title": "Kane agrees new deal in principle with Bayern Munich",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
+    "published_at": "2026-10-15T16:23:00+00:00",
+    "summary": "Harry Kane has agreed a new deal in principle with Bayern Munich until the summer of 2029.",
+    "data": {
+      "headline": "KANE AGREES NEW DEAL",
+      "subhead": "in principle with Bayern Munich",
+      "caption": "Kane agrees new deal in principle with Bayern Munich"
+    },
+    "score": 87.0,
+    "fingerprint": "b81c425ca5f4e1a1"
+  },
+  "queued_at": "2026-10-15T20:14:13.077870+00:00"
+}
