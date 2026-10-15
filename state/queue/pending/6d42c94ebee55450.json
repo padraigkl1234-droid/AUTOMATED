@@ -1,0 +1,32 @@
+{
+  "fingerprint": "6d42c94ebee55450",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win",
+  "full_caption": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#avfc"
+  ],
+  "image_path": "out/6d42c94ebee55450_story.png",
+  "video_path": "out/6d42c94ebee55450_story.mp4",
+  "story": {
+    "title": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
+    "published_at": "2026-10-14T21:02:51+00:00",
+    "summary": "It may be a bit early for the pantomime season but the Holte End enjoyed acclaiming their heroes and villains as Aston Villa won at home for the first time this season with their biggest victory in European competition. Every touch for Mason Greenwood, playing his first game in England since January 2022, was booed, but even louder applause was reserved for Aston Villa\u2019s rediscovered attacking pro",
+    "data": {
+      "headline": "JACKSON AND BARKLEY DOUBLES SINK",
+      "subhead": "feeble Fenerbahce in record Aston Villa win",
+      "caption": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win"
+    },
+    "score": 65.0,
+    "fingerprint": "6d42c94ebee55450"
+  },
+  "queued_at": "2026-10-15T12:20:07.892337+00:00"
+}
