@@ -1,0 +1,32 @@
+{
+  "fingerprint": "d2660bbae248b91e",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Giovanni Leoni\u2019s return from injury delayed in fresh blow to Liverpool",
+  "full_caption": "Giovanni Leoni\u2019s return from injury delayed in fresh blow to Liverpool\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#inter"
+  ],
+  "image_path": "out/d2660bbae248b91e_story.png",
+  "video_path": "out/d2660bbae248b91e_story.mp4",
+  "story": {
+    "title": "Giovanni Leoni\u2019s return from injury delayed in fresh blow to Liverpool",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/15/giovanni-leonis-return-from-injury-delayed-in-fresh-blow-to-liverpool",
+    "published_at": "2026-10-15T15:13:24+00:00",
+    "summary": "Defender sustained ACL injury on debut for clubIraola: \u2018It is taking more time than we wanted\u2019Giovanni Leoni\u2019s Liverpool return has been delayed because of the severity of the knee injury sustained on his debut, Andoni Iraola has revealed.The central defender had been expected to resume team training during the recent international break but that schedule has been put back by about a month. Contin",
+    "data": {
+      "headline": "GIOVANNI LEONI\u2019S RETURN FROM INJURY",
+      "subhead": "delayed in fresh blow to Liverpool",
+      "caption": "Giovanni Leoni\u2019s return from injury delayed in fresh blow to Liverpool"
+    },
+    "score": 78.0,
+    "fingerprint": "d2660bbae248b91e"
+  },
+  "queued_at": "2026-10-15T16:39:19.033211+00:00"
+}
