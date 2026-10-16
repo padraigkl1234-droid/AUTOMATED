@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f250d797266eb040",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Moore's Germany move inspired by Sancho and Bellingham",
+  "full_caption": "Moore's Germany move inspired by Sancho and Bellingham\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#thfc"
+  ],
+  "image_path": "out/f250d797266eb040_story.png",
+  "video_path": "out/f250d797266eb040_story.mp4",
+  "story": {
+    "title": "Moore's Germany move inspired by Sancho and Bellingham",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c65yneln8wp0o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-15T16:09:55+00:00",
+    "summary": "Tottenham loanee Mikey Moore says the success of Jadon Sancho and Jude Bellingham in the Bundesliga influenced his decision to join Cologne.",
+    "data": {
+      "headline": "MOORE'S GERMANY MOVE INSPIRED",
+      "subhead": "by Sancho and Bellingham",
+      "caption": "Moore's Germany move inspired by Sancho and Bellingham"
+    },
+    "score": 90.0,
+    "fingerprint": "f250d797266eb040"
+  },
+  "queued_at": "2026-10-16T00:08:21.112175+00:00"
+}
