@@ -1,0 +1,33 @@
+{
+  "fingerprint": "7e32528a16221361",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "The rapid rise of a former art dealer to Europe's hottest young manager",
+  "full_caption": "The rapid rise of a former art dealer to Europe's hottest young manager\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#inter"
+  ],
+  "image_path": "out/7e32528a16221361_story.png",
+  "video_path": "out/7e32528a16221361_story.mp4",
+  "story": {
+    "title": "The rapid rise of a former art dealer to Europe's hottest young manager",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-16T06:28:10+00:00",
+    "summary": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.",
+    "data": {
+      "headline": "THE RAPID RISE",
+      "subhead": "of a former art dealer to Europe's hottest young manager",
+      "caption": "The rapid rise of a former art dealer to Europe's hottest young manager"
+    },
+    "score": 105.0,
+    "fingerprint": "7e32528a16221361"
+  },
+  "queued_at": "2026-10-16T12:01:30.837661+00:00"
+}
