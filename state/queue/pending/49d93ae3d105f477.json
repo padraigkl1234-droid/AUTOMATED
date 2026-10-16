@@ -1,0 +1,34 @@
+{
+  "fingerprint": "49d93ae3d105f477",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Real demand Tebas resign over Goebbels comparison",
+  "full_caption": "Real demand Tebas resign over Goebbels comparison\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#realmadrid"
+  ],
+  "image_path": "out/49d93ae3d105f477_story.png",
+  "video_path": "out/49d93ae3d105f477_story.mp4",
+  "story": {
+    "title": "Real demand Tebas resign over Goebbels comparison",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-16T15:43:32+00:00",
+    "summary": "Real Madrid have called for the \"immediate resignation\" of La Liga president Javier Tebas after he compared the club's management to Joseph Goebbels.",
+    "data": {
+      "corroborations": [
+        "The Guardian"
+      ],
+      "headline": "REAL DEMAND TEBAS RESIGN",
+      "subhead": "over Goebbels comparison",
+      "caption": "Real demand Tebas resign over Goebbels comparison"
+    },
+    "score": 91.0,
+    "fingerprint": "49d93ae3d105f477"
+  },
+  "queued_at": "2026-10-16T16:22:37.390590+00:00"
+}
