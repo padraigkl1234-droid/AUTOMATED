@@ -1,0 +1,34 @@
+{
+  "fingerprint": "781cf4f40269c10e",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Bellingham agrees new Real deal - Saturday's gossip",
+  "full_caption": "Bellingham agrees new Real deal - Saturday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/781cf4f40269c10e_story.png",
+  "video_path": "out/781cf4f40269c10e_story.mp4",
+  "story": {
+    "title": "Bellingham agrees new Real deal - Saturday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-16T21:57:37+00:00",
+    "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
+    "data": {
+      "headline": "BELLINGHAM AGREES NEW REAL DEAL",
+      "subhead": "Saturday's gossip",
+      "caption": "Bellingham agrees new Real deal - Saturday's gossip"
+    },
+    "score": 113.0,
+    "fingerprint": "781cf4f40269c10e"
+  },
+  "queued_at": "2026-10-17T00:11:55.931741+00:00"
+}
