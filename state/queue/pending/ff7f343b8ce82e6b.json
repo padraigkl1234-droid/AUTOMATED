@@ -1,0 +1,31 @@
+{
+  "fingerprint": "ff7f343b8ce82e6b",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "'Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?",
+  "full_caption": "'Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/ff7f343b8ce82e6b_story.png",
+  "video_path": "out/ff7f343b8ce82e6b_story.mp4",
+  "story": {
+    "title": "'Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-17T21:37:38+00:00",
+    "summary": "Two games in, no points gathered and a chorus of boos greeting him at full-time at Easter Road. The honeymoon is well and truly over for Marink Reedijk.",
+    "data": {
+      "headline": "'SICK FEELING IN STOMACH'",
+      "subhead": "are Reedijk's Hibs in relegation fight?",
+      "caption": "'Sick feeling in stomach' - are Reedijk's Hibs in relegation fight?"
+    },
+    "score": 93.0,
+    "fingerprint": "ff7f343b8ce82e6b"
+  },
+  "queued_at": "2026-10-17T23:50:23.740541+00:00"
+}
