@@ -1,0 +1,37 @@
+{
+  "fingerprint": "435b5b405d0e2429",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Newcastle v Aston Villa: Premier League \u2013 live",
+  "full_caption": "Newcastle v Aston Villa: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc #cfc #nufc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#cfc",
+    "#nufc",
+    "#avfc"
+  ],
+  "image_path": "out/435b5b405d0e2429_story.png",
+  "video_path": "out/435b5b405d0e2429_story.mp4",
+  "story": {
+    "title": "Newcastle v Aston Villa: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
+    "published_at": "2026-10-17T15:00:33+00:00",
+    "summary": "\u26bd Premier League updates from the 5.30pm BST kick-off\u26bd Live scores | Tables | Top scorers | Follow us on BlueskyPremier League latestBrentford 1-0 LiverpoolFulham 1-0 HullMan City 2-1 IpswichEverton 0-2 Chelsea (FT) Continue reading...",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "NEWCASTLE V ASTON VILLA",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Newcastle v Aston Villa: Premier League \u2013 live"
+    },
+    "score": 91.0,
+    "fingerprint": "435b5b405d0e2429"
+  },
+  "queued_at": "2026-10-17T15:17:00.759064+00:00"
+}
