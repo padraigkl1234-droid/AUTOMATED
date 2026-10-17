@@ -1,0 +1,32 @@
+{
+  "fingerprint": "ffff29df9c24a8b6",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Carrick opens door for January transfer activity at Man Utd",
+  "full_caption": "Carrick opens door for January transfer activity at Man Utd\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/ffff29df9c24a8b6_story.png",
+  "video_path": "out/ffff29df9c24a8b6_story.mp4",
+  "story": {
+    "title": "Carrick opens door for January transfer activity at Man Utd",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13599969/man-utd-transfer-news-michael-carrick-opens-door-to-january-signings-ahead-of-planned-defensive-rebuild",
+    "published_at": "2026-10-17T10:00:00+00:00",
+    "summary": "Manchester United will look at trying to strengthen in the January transfer window, according to head coach Michael Carrick, as the club draw up plans to improve the defence over the next year.",
+    "data": {
+      "headline": "CARRICK OPENS DOOR FOR JANUARY",
+      "subhead": "transfer activity at Man Utd",
+      "caption": "Carrick opens door for January transfer activity at Man Utd"
+    },
+    "score": 103.0,
+    "fingerprint": "ffff29df9c24a8b6"
+  },
+  "queued_at": "2026-10-17T11:17:15.436490+00:00"
+}
