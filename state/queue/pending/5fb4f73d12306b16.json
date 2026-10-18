@@ -1,0 +1,31 @@
+{
+  "fingerprint": "5fb4f73d12306b16",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Chacarra earns third win of year to move top of Race to Dubai standings",
+  "full_caption": "Chacarra earns third win of year to move top of Race to Dubai standings\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/5fb4f73d12306b16_story.png",
+  "video_path": "out/5fb4f73d12306b16_story.mp4",
+  "story": {
+    "title": "Chacarra earns third win of year to move top of Race to Dubai standings",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/golf/news/12040/13600531/dp-world-india-championship-eugenio-chacarra-wins-to-move-top-of-race-to-dubai-standings-with-rory-mcilroy-finishing-in-a-share-of-42nd-place",
+    "published_at": "2026-10-18T12:00:00+00:00",
+    "summary": "Eugenio Chacarra won the DP World India Championship by two shots with the Spaniard's third victory of the season moving him top of the Race to Dubai standings, above Patrick Reed and Rory McIlroy, with three events remaining.",
+    "data": {
+      "headline": "CHACARRA EARNS THIRD WIN",
+      "subhead": "of year to move top of Race to Dubai standings",
+      "caption": "Chacarra earns third win of year to move top of Race to Dubai standings"
+    },
+    "score": 90.0,
+    "fingerprint": "5fb4f73d12306b16"
+  },
+  "queued_at": "2026-10-18T11:53:36.899234+00:00"
+}
