@@ -1,0 +1,34 @@
+{
+  "fingerprint": "220e51e99315b4dc",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Nottingham Forest v Arsenal: Premier League \u2013 live",
+  "full_caption": "Nottingham Forest v Arsenal: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/220e51e99315b4dc_story.png",
+  "video_path": "out/220e51e99315b4dc_story.mp4",
+  "story": {
+    "title": "Nottingham Forest v Arsenal: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
+    "published_at": "2026-10-18T15:30:17+00:00",
+    "summary": "\u26bd Updates from the City Ground; kick-off 4.30pm BST\u26bd Scores | Tables | Read Football Daily | Mail DanielForest will want \u2013 and probably need \u2013 to make this game a mess. If it\u2019s open and played through midfield, Arsenal will open them up because, with the guile they\u2019ve added by buying Guimaraes, along with an in-form Odegaard, they have the ability to exploit space. For that reason, Forest need bod",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "NOTTINGHAM FOREST V ARSENAL",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Nottingham Forest v Arsenal: Premier League \u2013 live"
+    },
+    "score": 91.0,
+    "fingerprint": "220e51e99315b4dc"
+  },
+  "queued_at": "2026-10-18T15:38:25.522488+00:00"
+}
