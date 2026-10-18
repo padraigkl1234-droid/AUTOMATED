@@ -1,0 +1,33 @@
+{
+  "fingerprint": "d6eb4407d4438aaf",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "European football: 10-man Lyon hold off Nice to move top of Ligue 1",
+  "full_caption": "European football: 10-man Lyon hold off Nice to move top of Ligue 1\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #realmadrid #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#realmadrid",
+    "#psg"
+  ],
+  "image_path": "out/d6eb4407d4438aaf_story.png",
+  "video_path": "out/d6eb4407d4438aaf_story.mp4",
+  "story": {
+    "title": "European football: 10-man Lyon hold off Nice to move top of Ligue 1",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/18/european-football-monaco-rennes-ligue-1-bayer-leverkusen-freiburg-bundesliga-como-fiorentina-seria-a-real-madrid-sevilla-la-liga",
+    "published_at": "2026-10-18T18:36:15+00:00",
+    "summary": "Five teams level on points after Monaco lose to LorientReal Madrid ease past Sevilla with Mbapp\u00e9 doubleTen-man Lyon held on for a 2-1 comeback victory over Nice to move top of Ligue 1 on Sunday, as previous pacesetters Monaco lost for the first time this season. Five teams are level on 14 points at the top of the table with Lyon heading Paris Saint-Germain, Paris FC, Lille and Monaco on goal diffe",
+    "data": {
+      "headline": "EUROPEAN FOOTBALL",
+      "subhead": "10-man Lyon hold off Nice to move top of Ligue 1",
+      "caption": "European football: 10-man Lyon hold off Nice to move top of Ligue 1"
+    },
+    "score": 105.0,
+    "fingerprint": "d6eb4407d4438aaf"
+  },
+  "queued_at": "2026-10-18T23:58:40.296775+00:00"
+}
