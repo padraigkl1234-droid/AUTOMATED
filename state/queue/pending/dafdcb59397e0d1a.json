@@ -1,0 +1,32 @@
+{
+  "fingerprint": "dafdcb59397e0d1a",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+  "full_caption": "Madueke's strike enough as Arsenal pick up narrow win over Forest\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#afc"
+  ],
+  "image_path": "out/dafdcb59397e0d1a_story.png",
+  "video_path": "out/dafdcb59397e0d1a_story.mp4",
+  "story": {
+    "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-18T18:59:06+00:00",
+    "summary": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+    "data": {
+      "headline": "MADUEKE'S STRIKE ENOUGH AS ARSENAL",
+      "subhead": "pick up narrow win over Forest",
+      "caption": "Madueke's strike enough as Arsenal pick up narrow win over Forest"
+    },
+    "score": 107.0,
+    "fingerprint": "dafdcb59397e0d1a"
+  },
+  "queued_at": "2026-10-18T19:20:22.125084+00:00"
+}
