@@ -1,0 +1,31 @@
+{
+  "fingerprint": "532b86cb12cab1a9",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Guehi among players not to take knee - is it time to 'move campaign along'?",
+  "full_caption": "Guehi among players not to take knee - is it time to 'move campaign along'?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/532b86cb12cab1a9_story.png",
+  "video_path": "out/532b86cb12cab1a9_story.mp4",
+  "story": {
+    "title": "Guehi among players not to take knee - is it time to 'move campaign along'?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-19T16:41:54+00:00",
+    "summary": "Premier League clubs took the knee for the first time this season, but six players chose to remain standing.",
+    "data": {
+      "headline": "GUEHI AMONG PLAYERS NOT TO TAKE KNEE",
+      "subhead": "is it time to 'move campaign along'?",
+      "caption": "Guehi among players not to take knee - is it time to 'move campaign along'?"
+    },
+    "score": 85.0,
+    "fingerprint": "532b86cb12cab1a9"
+  },
+  "queued_at": "2026-10-19T21:23:17.328481+00:00"
+}
