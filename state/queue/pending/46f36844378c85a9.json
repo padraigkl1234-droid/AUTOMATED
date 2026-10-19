@@ -1,0 +1,35 @@
+{
+  "fingerprint": "46f36844378c85a9",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
+  "full_caption": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/46f36844378c85a9_story.png",
+  "video_path": "out/46f36844378c85a9_story.mp4",
+  "story": {
+    "title": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
+    "published_at": "2026-10-19T10:00:04+00:00",
+    "summary": "Wiegman says she \u2018cannot think of a better job in football\u2019She can target three Euros wins in a row with LionessesSarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after next summer\u2019s World Cup and this gives her the chance to lead the Lionesses to three European championship titles in a row.Wiegman, who took on the ro",
+    "data": {
+      "corroborations": [
+        "BBC Sport",
+        "Sky Sports"
+      ],
+      "headline": "SARINA WIEGMAN SIGNS CONTRACT EXTENSION",
+      "subhead": "to stay as England women head coach until 2029",
+      "caption": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029"
+    },
+    "score": 97.0,
+    "fingerprint": "46f36844378c85a9"
+  },
+  "queued_at": "2026-10-19T14:11:54.321526+00:00"
+}
