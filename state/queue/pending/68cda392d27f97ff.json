@@ -1,0 +1,31 @@
+{
+  "fingerprint": "68cda392d27f97ff",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Brentford contact police after rugby ball kicked into stadium during game",
+  "full_caption": "Brentford contact police after rugby ball kicked into stadium during game\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/68cda392d27f97ff_story.png",
+  "video_path": "out/68cda392d27f97ff_story.mp4",
+  "story": {
+    "title": "Brentford contact police after rugby ball kicked into stadium during game",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-19T16:26:44+00:00",
+    "summary": "Brentford say they are working with the police following a \"dangerous\" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.",
+    "data": {
+      "headline": "BRENTFORD CONTACT POLICE AFTER RUGBY",
+      "subhead": "ball kicked into stadium during game",
+      "caption": "Brentford contact police after rugby ball kicked into stadium during game"
+    },
+    "score": 78.0,
+    "fingerprint": "68cda392d27f97ff"
+  },
+  "queued_at": "2026-10-19T18:33:57.673437+00:00"
+}
