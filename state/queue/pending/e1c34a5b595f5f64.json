@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e1c34a5b595f5f64",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Vincent Kompany to miss Bayern\u2019s clash with Arsenal due to legs-affecting virus",
+  "full_caption": "Vincent Kompany to miss Bayern\u2019s clash with Arsenal due to legs-affecting virus\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#fcbayern"
+  ],
+  "image_path": "out/e1c34a5b595f5f64_story.png",
+  "video_path": "out/e1c34a5b595f5f64_story.mp4",
+  "story": {
+    "title": "Vincent Kompany to miss Bayern\u2019s clash with Arsenal due to legs-affecting virus",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
+    "published_at": "2026-10-20T15:37:55+00:00",
+    "summary": "Kompany told to rest after struggling with infectionHis assistant poised to oversee Champions League gameVincent Kompany is touch and go to be in the Bayern Munich dugout against Arsenal at the Allianz Arena on Wednesday night as he battles a debilitating virus that has affected his legs. Kompany was unable to attend his team\u2019s training session on Tuesday before the Champions League tie, ceding th",
+    "data": {
+      "headline": "VINCENT KOMPANY TO MISS BAYERN\u2019S",
+      "subhead": "clash with Arsenal due to legs-affecting virus",
+      "caption": "Vincent Kompany to miss Bayern\u2019s clash with Arsenal due to legs-affecting virus"
+    },
+    "score": 85.0,
+    "fingerprint": "e1c34a5b595f5f64"
+  },
+  "queued_at": "2026-10-20T16:37:04.885345+00:00"
+}
