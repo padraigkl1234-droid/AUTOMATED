@@ -1,0 +1,32 @@
+{
+  "fingerprint": "3e9a3e863041b9db",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "SPFL invites bids for new Scottish Premiership TV deal",
+  "full_caption": "SPFL invites bids for new Scottish Premiership TV deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/3e9a3e863041b9db_story.png",
+  "video_path": "out/3e9a3e863041b9db_story.mp4",
+  "story": {
+    "title": "SPFL invites bids for new Scottish Premiership TV deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0x939leo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-20T10:44:11+00:00",
+    "summary": "The SPFL expects \"strong interest\" after inviting broadcasters to bid for the UK rights to show Scottish Premiership matches from the 2029-30 campaign.",
+    "data": {
+      "headline": "SPFL INVITES BIDS FOR NEW",
+      "subhead": "Scottish Premiership TV deal",
+      "caption": "SPFL invites bids for new Scottish Premiership TV deal"
+    },
+    "score": 105.0,
+    "fingerprint": "3e9a3e863041b9db"
+  },
+  "queued_at": "2026-10-20T12:26:02.063084+00:00"
+}
