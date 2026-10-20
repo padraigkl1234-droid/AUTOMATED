@@ -1,0 +1,34 @@
+{
+  "fingerprint": "2f3c0dca5d4ae3fc",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Man Utd revisit deal for Hall - Wednesday gossip",
+  "full_caption": "Man Utd revisit deal for Hall - Wednesday gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #lfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#lfc",
+    "#afc"
+  ],
+  "image_path": "out/2f3c0dca5d4ae3fc_story.png",
+  "video_path": "out/2f3c0dca5d4ae3fc_story.mp4",
+  "story": {
+    "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-20T20:17:15+00:00",
+    "summary": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus more.",
+    "data": {
+      "headline": "MAN UTD REVISIT DEAL FOR HALL",
+      "subhead": "Wednesday gossip",
+      "caption": "Man Utd revisit deal for Hall - Wednesday gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "2f3c0dca5d4ae3fc"
+  },
+  "queued_at": "2026-10-20T20:21:06.369674+00:00"
+}
