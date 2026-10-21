@@ -1,0 +1,33 @@
+{
+  "fingerprint": "6c462df387a88c24",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Football Daily | Champions League drama galore \u2013 so why do we feel hollow?",
+  "full_caption": "Football Daily | Champions League drama galore \u2013 so why do we feel hollow?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #fcbarcelona #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbarcelona",
+    "#psg"
+  ],
+  "image_path": "out/6c462df387a88c24_story.png",
+  "video_path": "out/6c462df387a88c24_story.mp4",
+  "story": {
+    "title": "Football Daily | Champions League drama galore \u2013 so why do we feel hollow?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/21/champions-league-goals-football-daily-newsletter",
+    "published_at": "2026-10-21T14:32:40+00:00",
+    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Now then, which one of you hipsters decided to put Porto 0-1 PSV on? Oh dear. This was another night of Bigger Cup at its Bigliest self, comebacks everywhere, 40 goals in nine games, six of those in a best-v-best clash as Paris Saint-Germain rallied late against Barcelona. Even in defeat, Lamine Yamal found space to decorate the room with a ludicr",
+    "data": {
+      "headline": "FOOTBALL DAILY | CHAMPIONS LEAGUE DRAMA GALORE",
+      "subhead": "so why do we feel hollow?",
+      "caption": "Football Daily | Champions League drama galore \u2013 so why do we feel hollow?"
+    },
+    "score": 105.0,
+    "fingerprint": "6c462df387a88c24"
+  },
+  "queued_at": "2026-10-21T20:29:22.715526+00:00"
+}
