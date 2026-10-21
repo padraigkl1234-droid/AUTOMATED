@@ -1,0 +1,31 @@
+{
+  "fingerprint": "8f0d2b232bf23a42",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Como v Manchester United: Champions League \u2013 live",
+  "full_caption": "Como v Manchester United: Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/8f0d2b232bf23a42_story.png",
+  "video_path": "out/8f0d2b232bf23a42_story.mp4",
+  "story": {
+    "title": "Como v Manchester United: Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+    "published_at": "2026-10-21T16:43:41+00:00",
+    "summary": "\u26bd\ufe0f Champions League updates from 5.45pm BST\u26bd\ufe0f Live scoreboard | Champions League table | Mail SimonPoor mascot coming out to pick up the match ball looks like someone just dragged him out of a ditch.The players are in the tunnel. It is, as predicted, raining hard. Continue reading...",
+    "data": {
+      "headline": "COMO V MANCHESTER UNITED",
+      "subhead": "Champions League \u2013 live",
+      "caption": "Como v Manchester United: Champions League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "8f0d2b232bf23a42"
+  },
+  "queued_at": "2026-10-21T16:55:21.175496+00:00"
+}
