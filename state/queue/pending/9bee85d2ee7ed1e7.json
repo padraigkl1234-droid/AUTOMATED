@@ -1,0 +1,31 @@
+{
+  "fingerprint": "9bee85d2ee7ed1e7",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Bruno\u2019s betrayal? \u2018Toxic\u2019 Fernandes is symptom of United\u2019s culture of entitlement | Jamie Jackson",
+  "full_caption": "Bruno\u2019s betrayal? \u2018Toxic\u2019 Fernandes is symptom of United\u2019s culture of entitlement | Jamie Jackson\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/9bee85d2ee7ed1e7_story.png",
+  "video_path": "out/9bee85d2ee7ed1e7_story.mp4",
+  "story": {
+    "title": "Bruno\u2019s betrayal? \u2018Toxic\u2019 Fernandes is symptom of United\u2019s culture of entitlement | Jamie Jackson",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/22/bruno-fernandes-betrayal-manchester-united-michael-carrick-culture-of-entitlement",
+    "published_at": "2026-10-22T17:15:50+00:00",
+    "summary": "Michael Carrick must now deal with more dressing-room unrest after Lisandro Mart\u00ednez\u2019s attack on the board\u201cToxic\u201d: this is the damning characterisation of Bruno Fernandes from one highly placed Manchester United source after the captain\u2019s incendiary betrayal of Michael Carrick.There has surely never been a greater anti-leadership act in United\u2019s storied history than Fernandes questioning the man w",
+    "data": {
+      "headline": "BRUNO\u2019S BETRAYAL? \u2018TOXIC\u2019 FERNANDES IS",
+      "subhead": "symptom of United\u2019s culture of entitlement | Jamie Jackson",
+      "caption": "Bruno\u2019s betrayal? \u2018Toxic\u2019 Fernandes is symptom of United\u2019s culture of entitlement | Jamie Jackson"
+    },
+    "score": 85.0,
+    "fingerprint": "9bee85d2ee7ed1e7"
+  },
+  "queued_at": "2026-10-22T17:28:25.078864+00:00"
+}
