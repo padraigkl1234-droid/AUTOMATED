@@ -1,0 +1,32 @@
+{
+  "fingerprint": "884220867eeee429",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
+  "full_caption": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #matchday #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#lfc"
+  ],
+  "image_path": "out/884220867eeee429_story.png",
+  "video_path": "out/884220867eeee429_story.mp4",
+  "story": {
+    "title": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
+    "kind": "result",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+    "published_at": "2026-10-21T23:50:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "WSL LATEST",
+      "subhead": "Five-star Man Utd beat Liverpool in Subway Players Cup",
+      "caption": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup"
+    },
+    "score": 97.0,
+    "fingerprint": "884220867eeee429"
+  },
+  "queued_at": "2026-10-22T00:28:53.227306+00:00"
+}
