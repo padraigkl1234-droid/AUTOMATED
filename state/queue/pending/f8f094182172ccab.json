@@ -1,0 +1,31 @@
+{
+  "fingerprint": "f8f094182172ccab",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Haiti move Nations League home clash with USA to Miami amid gang violence crisis",
+  "full_caption": "Haiti move Nations League home clash with USA to Miami amid gang violence crisis\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/f8f094182172ccab_story.png",
+  "video_path": "out/f8f094182172ccab_story.mp4",
+  "story": {
+    "title": "Haiti move Nations League home clash with USA to Miami amid gang violence crisis",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/22/haiti-usa-concacaf-nations-league-miami-home-game-gang-violence",
+    "published_at": "2026-10-22T17:04:21+00:00",
+    "summary": "Concacaf approves exceptional hosting arrangementHaiti to face US at Nu Stadium on 14 NovemberMiami\u2019s Haitian community offers home advantageConcacaf on Thursday announced it has approved Haiti\u2019s request to relocate their Nations League quarter-final first leg against the United States on 14 November from Kingston, Jamaica, to Miami in an \u201cexceptional hosting arrangement\u201d. Haiti have been unable t",
+    "data": {
+      "headline": "HAITI MOVE NATIONS LEAGUE HOME",
+      "subhead": "clash with USA to Miami amid gang violence crisis",
+      "caption": "Haiti move Nations League home clash with USA to Miami amid gang violence crisis"
+    },
+    "score": 85.0,
+    "fingerprint": "f8f094182172ccab"
+  },
+  "queued_at": "2026-10-22T20:27:19.526364+00:00"
+}
