@@ -1,0 +1,31 @@
+{
+  "fingerprint": "c0e0a7b15128f6f8",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Ex-England defender Bertrand eyes \u00a387m AFC Wimbledon deal",
+  "full_caption": "Ex-England defender Bertrand eyes \u00a387m AFC Wimbledon deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/c0e0a7b15128f6f8_story.png",
+  "video_path": "out/c0e0a7b15128f6f8_story.mp4",
+  "story": {
+    "title": "Ex-England defender Bertrand eyes \u00a387m AFC Wimbledon deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwdr8zxp884mo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-21T20:02:23+00:00",
+    "summary": "Ryan Bertrand is leading a consortium that has proposed an \u00a387m minority investment into League One side AFC Wimbledon.",
+    "data": {
+      "headline": "EX-ENGLAND DEFENDER BERTRAND EYES \u00a387M",
+      "subhead": "AFC Wimbledon deal",
+      "caption": "Ex-England defender Bertrand eyes \u00a387m AFC Wimbledon deal"
+    },
+    "score": 65.0,
+    "fingerprint": "c0e0a7b15128f6f8"
+  },
+  "queued_at": "2026-10-22T12:41:34.960914+00:00"
+}
