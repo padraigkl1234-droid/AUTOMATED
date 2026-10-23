@@ -1,0 +1,31 @@
+{
+  "fingerprint": "2642171d8f926406",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Former Man United chief Murtough joins Birmingham",
+  "full_caption": "Former Man United chief Murtough joins Birmingham\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/2642171d8f926406_story.png",
+  "video_path": "out/2642171d8f926406_story.mp4",
+  "story": {
+    "title": "Former Man United chief Murtough joins Birmingham",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9zrdkv775r1o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-23T11:20:20+00:00",
+    "summary": "Birmingham City appoint ex-Manchester United chief John Murtough as director of football.",
+    "data": {
+      "headline": "FORMER MAN UNITED CHIEF MURTOUGH",
+      "subhead": "joins Birmingham",
+      "caption": "Former Man United chief Murtough joins Birmingham"
+    },
+    "score": 85.0,
+    "fingerprint": "2642171d8f926406"
+  },
+  "queued_at": "2026-10-23T12:18:39.921847+00:00"
+}
