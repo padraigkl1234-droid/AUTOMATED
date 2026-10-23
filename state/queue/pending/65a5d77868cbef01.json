@@ -1,0 +1,31 @@
+{
+  "fingerprint": "65a5d77868cbef01",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "PSG v Lyon moved as Paris prepares for more protests",
+  "full_caption": "PSG v Lyon moved as Paris prepares for more protests\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/65a5d77868cbef01_story.png",
+  "video_path": "out/65a5d77868cbef01_story.mp4",
+  "story": {
+    "title": "PSG v Lyon moved as Paris prepares for more protests",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-23T14:18:41+00:00",
+    "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+    "data": {
+      "headline": "PSG V LYON MOVED",
+      "subhead": "as Paris prepares for more protests",
+      "caption": "PSG v Lyon moved as Paris prepares for more protests"
+    },
+    "score": 78.0,
+    "fingerprint": "65a5d77868cbef01"
+  },
+  "queued_at": "2026-10-23T20:50:13.357903+00:00"
+}
