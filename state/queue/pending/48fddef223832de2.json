@@ -1,0 +1,35 @@
+{
+  "fingerprint": "48fddef223832de2",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Kompany taken to hospital after collapsing at training",
+  "full_caption": "Kompany taken to hospital after collapsing at training\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#fcbayern"
+  ],
+  "image_path": "out/48fddef223832de2_story.png",
+  "video_path": "out/48fddef223832de2_story.mp4",
+  "story": {
+    "title": "Kompany taken to hospital after collapsing at training",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-23T16:39:03+00:00",
+    "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "KOMPANY TAKEN TO HOSPITAL",
+      "subhead": "after collapsing at training",
+      "caption": "Kompany taken to hospital after collapsing at training"
+    },
+    "score": 89.0,
+    "fingerprint": "48fddef223832de2"
+  },
+  "queued_at": "2026-10-23T17:06:01.566432+00:00"
+}
