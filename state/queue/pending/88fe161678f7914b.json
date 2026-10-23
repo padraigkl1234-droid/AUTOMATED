@@ -1,0 +1,32 @@
+{
+  "fingerprint": "88fe161678f7914b",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "'Need to move on together' - Fernandes to remain captain despite Carrick criticism",
+  "full_caption": "'Need to move on together' - Fernandes to remain captain despite Carrick criticism\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/88fe161678f7914b_story.png",
+  "video_path": "out/88fe161678f7914b_story.mp4",
+  "story": {
+    "title": "'Need to move on together' - Fernandes to remain captain despite Carrick criticism",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/watch/video/13602411/bruno-fernandes-to-remain-captain-despite-clash-with-michael-carrick",
+    "published_at": "2026-10-22T17:44:00+00:00",
+    "summary": "Rob Dorsett and Alan Pardew give their thoughts on Bruno Fernandes remaining Manchester United captain despite him calling out Michael Carrick&#8217;s tactical approach against Como.",
+    "data": {
+      "headline": "'NEED TO MOVE ON TOGETHER'",
+      "subhead": "Fernandes to remain captain despite Carrick criticism",
+      "caption": "'Need to move on together' - Fernandes to remain captain despite Carrick criticism"
+    },
+    "score": 88.0,
+    "fingerprint": "88fe161678f7914b"
+  },
+  "queued_at": "2026-10-23T00:53:34.983618+00:00"
+}
