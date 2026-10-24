@@ -1,0 +1,32 @@
+{
+  "fingerprint": "44866556a9389c6a",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+  "full_caption": "'It's harsh' - was Arsenal's winning penalty a controversial decision?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #afc #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#thfc"
+  ],
+  "image_path": "out/44866556a9389c6a_story.png",
+  "video_path": "out/44866556a9389c6a_story.mp4",
+  "story": {
+    "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-24T15:03:37+00:00",
+    "summary": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
+    "data": {
+      "headline": "'IT'S HARSH'",
+      "subhead": "was Arsenal's winning penalty a controversial decision?",
+      "caption": "'It's harsh' - was Arsenal's winning penalty a controversial decision?"
+    },
+    "score": 85.0,
+    "fingerprint": "44866556a9389c6a"
+  },
+  "queued_at": "2026-10-24T15:39:50.316546+00:00"
+}
