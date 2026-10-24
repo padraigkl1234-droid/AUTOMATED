@@ -1,0 +1,33 @@
+{
+  "fingerprint": "4c6deb8c0d4f4c7b",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal beat Everton to go level on points with leaders Man City",
+  "full_caption": "Arsenal beat Everton to go level on points with leaders Man City\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mcfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mcfc",
+    "#afc"
+  ],
+  "image_path": "out/4c6deb8c0d4f4c7b_story.png",
+  "video_path": "out/4c6deb8c0d4f4c7b_story.mp4",
+  "story": {
+    "title": "Arsenal beat Everton to go level on points with leaders Man City",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-24T18:59:30+00:00",
+    "summary": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+    "data": {
+      "headline": "ARSENAL BEAT EVERTON TO GO",
+      "subhead": "level on points with leaders Man City",
+      "caption": "Arsenal beat Everton to go level on points with leaders Man City"
+    },
+    "score": 107.0,
+    "fingerprint": "4c6deb8c0d4f4c7b"
+  },
+  "queued_at": "2026-10-24T19:20:31.261045+00:00"
+}
