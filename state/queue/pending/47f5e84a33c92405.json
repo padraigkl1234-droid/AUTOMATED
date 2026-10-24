@@ -1,0 +1,31 @@
+{
+  "fingerprint": "47f5e84a33c92405",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Forest left frustrated as winless run goes on after draw at Ipswich",
+  "full_caption": "Forest left frustrated as winless run goes on after draw at Ipswich\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday"
+  ],
+  "image_path": "out/47f5e84a33c92405_story.png",
+  "video_path": "out/47f5e84a33c92405_story.mp4",
+  "story": {
+    "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-23T21:54:54+00:00",
+    "summary": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
+    "data": {
+      "headline": "FOREST LEFT FRUSTRATED AS WINLESS",
+      "subhead": "run goes on after draw at Ipswich",
+      "caption": "Forest left frustrated as winless run goes on after draw at Ipswich"
+    },
+    "score": 80.0,
+    "fingerprint": "47f5e84a33c92405"
+  },
+  "queued_at": "2026-10-24T00:21:31.601574+00:00"
+}
