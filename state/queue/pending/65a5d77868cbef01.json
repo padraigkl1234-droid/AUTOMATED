@@ -1,6 +1,6 @@
 {
   "fingerprint": "65a5d77868cbef01",
-  "slot_id": "evening_news",
+  "slot_id": "morning_roundup",
   "template": "transfer_card",
   "caption": "PSG v Lyon moved as Paris prepares for more protests",
   "full_caption": "PSG v Lyon moved as Paris prepares for more protests\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
@@ -24,8 +24,8 @@
       "subhead": "as Paris prepares for more protests",
       "caption": "PSG v Lyon moved as Paris prepares for more protests"
     },
-    "score": 78.0,
+    "score": 65.0,
     "fingerprint": "65a5d77868cbef01"
   },
-  "queued_at": "2026-10-23T20:50:13.357903+00:00"
+  "queued_at": "2026-10-24T11:44:21.523702+00:00"
 }
