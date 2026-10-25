@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c58dd4e15390956d",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Malard stars as Chelsea beat Palace to extend unbeaten start",
+  "full_caption": "Malard stars as Chelsea beat Palace to extend unbeaten start\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#cfc"
+  ],
+  "image_path": "out/c58dd4e15390956d_story.png",
+  "video_path": "out/c58dd4e15390956d_story.mp4",
+  "story": {
+    "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-25T17:56:35+00:00",
+    "summary": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
+    "data": {
+      "headline": "MALARD STARS AS CHELSEA BEAT",
+      "subhead": "Palace to extend unbeaten start",
+      "caption": "Malard stars as Chelsea beat Palace to extend unbeaten start"
+    },
+    "score": 92.0,
+    "fingerprint": "c58dd4e15390956d"
+  },
+  "queued_at": "2026-10-25T19:29:29.741080+00:00"
+}
