@@ -1,0 +1,32 @@
+{
+  "fingerprint": "0886547971d53212",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Sunderland v Leeds: Premier League \u2013 live",
+  "full_caption": "Sunderland v Leeds: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#nufc"
+  ],
+  "image_path": "out/0886547971d53212_story.png",
+  "video_path": "out/0886547971d53212_story.mp4",
+  "story": {
+    "title": "Sunderland v Leeds: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
+    "published_at": "2026-10-25T15:00:04+00:00",
+    "summary": "Live Premier League updates from 4.30pm BSTEurope more curse than blessing for SunderlandSign up for Football DailyCrystal Palace 0-0 NewcastleHull 1-0 BrentfordLiverpool 2-0 BrightonMan Utd 0-2 BournemouthYou can follow all the action at Old Trafford and elsewhere with Daniel Harris. Continue reading...",
+    "data": {
+      "headline": "SUNDERLAND V LEEDS",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Sunderland v Leeds: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "0886547971d53212"
+  },
+  "queued_at": "2026-10-25T15:50:31.113234+00:00"
+}
