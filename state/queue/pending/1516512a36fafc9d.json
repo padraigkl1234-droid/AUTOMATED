@@ -1,0 +1,31 @@
+{
+  "fingerprint": "1516512a36fafc9d",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
+  "full_caption": "Papers: Sancho could land in Spain as Getafe offer winger shock deal\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transferrumours",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours"
+  ],
+  "image_path": "out/1516512a36fafc9d_story.png",
+  "video_path": "out/1516512a36fafc9d_story.mp4",
+  "story": {
+    "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
+    "kind": "rumour",
+    "tier": 3,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
+    "published_at": "2026-10-24T22:04:00+00:00",
+    "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+    "data": {
+      "headline": "PAPERS: SANCHO COULD LAND",
+      "subhead": "in Spain as Getafe offer winger shock deal",
+      "caption": "Papers: Sancho could land in Spain as Getafe offer winger shock deal"
+    },
+    "score": 25.0,
+    "fingerprint": "1516512a36fafc9d"
+  },
+  "queued_at": "2026-10-25T12:14:09.540515+00:00"
+}
