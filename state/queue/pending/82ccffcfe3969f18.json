@@ -1,0 +1,32 @@
+{
+  "fingerprint": "82ccffcfe3969f18",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Bayern continue unbeaten start in Kompany's absence",
+  "full_caption": "Bayern continue unbeaten start in Kompany's absence\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#fcbayern"
+  ],
+  "image_path": "out/82ccffcfe3969f18_story.png",
+  "video_path": "out/82ccffcfe3969f18_story.mp4",
+  "story": {
+    "title": "Bayern continue unbeaten start in Kompany's absence",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqx284yk4mk0o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-26T11:35:11+00:00",
+    "summary": "Bayern Munich beat Freiburg to return to the top of the Bundesliga, as the German champions paid tribute to absent manager Vincent Kompany who is recovering in hospital after he collapsed while watching Bayern's second team train.",
+    "data": {
+      "headline": "BAYERN CONTINUE UNBEATEN START",
+      "subhead": "in Kompany's absence",
+      "caption": "Bayern continue unbeaten start in Kompany's absence"
+    },
+    "score": 92.0,
+    "fingerprint": "82ccffcfe3969f18"
+  },
+  "queued_at": "2026-10-26T14:08:58.855081+00:00"
+}
