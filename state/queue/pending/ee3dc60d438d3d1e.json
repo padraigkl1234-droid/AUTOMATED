@@ -1,0 +1,31 @@
+{
+  "fingerprint": "ee3dc60d438d3d1e",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "McTominay stars in Napoli draw that leaves Allegri \u2018not lucid enough\u2019 to talk | Nicky Bandini",
+  "full_caption": "McTominay stars in Napoli draw that leaves Allegri \u2018not lucid enough\u2019 to talk | Nicky Bandini\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday"
+  ],
+  "image_path": "out/ee3dc60d438d3d1e_story.png",
+  "video_path": "out/ee3dc60d438d3d1e_story.mp4",
+  "story": {
+    "title": "McTominay stars in Napoli draw that leaves Allegri \u2018not lucid enough\u2019 to talk | Nicky Bandini",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/26/scott-mctominay-napoli-roma-serie-a-massimiliano-allegri-not-lucid-enough",
+    "published_at": "2026-10-26T11:21:26+00:00",
+    "summary": "Gli Azzurri show positive signs of improvement in seesaw 3-3 draw against a Roma side inspired by Messi-like Mat\u00edas Soul\u00e9Scott McTominay was leaving nothing to doubt. He appeared to have scored with a close-range header early in the second half of Napoli\u2019s game at home to Roma, but Pierluigi Gollini clawed the ball out from inside the goal. McTominay got his noggin to the rebound, nudging it back ",
+    "data": {
+      "headline": "MCTOMINAY STARS IN NAPOLI DRAW",
+      "subhead": "that leaves Allegri \u2018not lucid enough\u2019 to talk | Nicky Bandini",
+      "caption": "McTominay stars in Napoli draw that leaves Allegri \u2018not lucid enough\u2019 to talk | Nicky Bandini"
+    },
+    "score": 65.0,
+    "fingerprint": "ee3dc60d438d3d1e"
+  },
+  "queued_at": "2026-10-26T21:31:02.010612+00:00"
+}
