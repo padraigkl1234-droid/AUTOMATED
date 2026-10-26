@@ -1,0 +1,31 @@
+{
+  "fingerprint": "be52c39b89935815",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
+  "full_caption": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/be52c39b89935815_story.png",
+  "video_path": "out/be52c39b89935815_story.mp4",
+  "story": {
+    "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-26T15:34:23+00:00",
+    "summary": "BBC Sport takes a look at who could replace Michael Carrick at Manchester United if the head coach was sacked.",
+    "data": {
+      "headline": "HOWE AND NAGELSMANN HIGH",
+      "subhead": "on Man Utd's list if Carrick sacked",
+      "caption": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked"
+    },
+    "score": 78.0,
+    "fingerprint": "be52c39b89935815"
+  },
+  "queued_at": "2026-10-26T18:31:01.562564+00:00"
+}
