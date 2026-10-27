@@ -1,0 +1,31 @@
+{
+  "fingerprint": "87050f5dcbf52cef",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
+  "full_caption": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/87050f5dcbf52cef_story.png",
+  "video_path": "out/87050f5dcbf52cef_story.mp4",
+  "story": {
+    "title": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player",
+    "published_at": "2026-10-26T23:35:00+00:00",
+    "summary": "From forgettable EFL loan spells to being crowned the best player in the world, it is no wonder Harry Kane&#8217;s former boss thinks of his Ballon d'Or win as a fairy tale.",
+    "data": {
+      "headline": "FROM FORGETTABLE EFL LOANS",
+      "subhead": "to Ballon d'Or winner - Kane's 'Cinderella story'",
+      "caption": "From forgettable EFL loans to Ballon d'Or winner - Kane's 'Cinderella story'"
+    },
+    "score": 55.0,
+    "fingerprint": "87050f5dcbf52cef"
+  },
+  "queued_at": "2026-10-27T12:53:38.085791+00:00"
+}
