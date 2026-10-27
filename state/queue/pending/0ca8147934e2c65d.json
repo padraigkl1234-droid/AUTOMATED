@@ -1,0 +1,32 @@
+{
+  "fingerprint": "0ca8147934e2c65d",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed",
+  "full_caption": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#nufc"
+  ],
+  "image_path": "out/0ca8147934e2c65d_story.png",
+  "video_path": "out/0ca8147934e2c65d_story.mp4",
+  "story": {
+    "title": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13604196/manchester-united-eddie-howe-compensation-fee-to-newcastle-revealed-paper-talk",
+    "published_at": "2026-10-26T23:00:00+00:00",
+    "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+    "data": {
+      "headline": "PAPERS: HOWE FEE MAN UTD",
+      "subhead": "would have to pay to Newcastle revealed",
+      "caption": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed"
+    },
+    "score": 83.0,
+    "fingerprint": "0ca8147934e2c65d"
+  },
+  "queued_at": "2026-10-27T01:16:06.086767+00:00"
+}
