@@ -1,0 +1,36 @@
+{
+  "fingerprint": "b87d401df556ba1f",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Carrick to stay in charge of Man Utd for Chelsea game",
+  "full_caption": "Carrick to stay in charge of Man Utd for Chelsea game\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#cfc"
+  ],
+  "image_path": "out/b87d401df556ba1f_story.png",
+  "video_path": "out/b87d401df556ba1f_story.mp4",
+  "story": {
+    "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-27T12:10:21+00:00",
+    "summary": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "CARRICK TO STAY IN CHARGE",
+      "subhead": "of Man Utd for Chelsea game",
+      "caption": "Carrick to stay in charge of Man Utd for Chelsea game"
+    },
+    "score": 82.0,
+    "fingerprint": "b87d401df556ba1f"
+  },
+  "queued_at": "2026-10-27T17:45:47.762522+00:00"
+}
