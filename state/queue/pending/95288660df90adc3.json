@@ -1,0 +1,31 @@
+{
+  "fingerprint": "95288660df90adc3",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream",
+  "full_caption": "Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/95288660df90adc3_story.png",
+  "video_path": "out/95288660df90adc3_story.mp4",
+  "story": {
+    "title": "Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/28/fleetwood-arsenal-carabao-cup-football-daily-newsletter",
+    "published_at": "2026-10-28T16:08:59+00:00",
+    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Having made a passing reference to Mick Fleetwood in Tuesday\u2019s thrilling edition of your favourite email, Football Daily genuinely wasn\u2019t expecting to be repeatedly typing that particular F-word in our lead story in today\u2019s edition. While we were aware Arsenal were in the coastal town of Fleetwood for a Fizzy Cup tie that could scarcely have been ",
+    "data": {
+      "headline": "FOOTBALL DAILY | FLEETWOOD GO",
+      "subhead": "their own way to down Arsenal and live Carabao Cup dream",
+      "caption": "Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream"
+    },
+    "score": 78.0,
+    "fingerprint": "95288660df90adc3"
+  },
+  "queued_at": "2026-10-28T18:09:31.332515+00:00"
+}
