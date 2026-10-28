@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e26ddaa6242fc8af",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+  "full_caption": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#afc"
+  ],
+  "image_path": "out/e26ddaa6242fc8af_story.png",
+  "video_path": "out/e26ddaa6242fc8af_story.mp4",
+  "story": {
+    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-27T23:35:11+00:00",
+    "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+    "data": {
+      "headline": "WHERE DOES FLEETWOOD BEATING ARSENAL",
+      "subhead": "rank in biggest cup upsets?",
+      "caption": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?"
+    },
+    "score": 100.0,
+    "fingerprint": "e26ddaa6242fc8af"
+  },
+  "queued_at": "2026-10-28T01:01:28.481705+00:00"
+}
