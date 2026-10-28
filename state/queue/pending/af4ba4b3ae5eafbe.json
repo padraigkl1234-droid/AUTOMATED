@@ -1,0 +1,31 @@
+{
+  "fingerprint": "af4ba4b3ae5eafbe",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "McClean leaves Derry City after contract dispute",
+  "full_caption": "McClean leaves Derry City after contract dispute\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/af4ba4b3ae5eafbe_story.png",
+  "video_path": "out/af4ba4b3ae5eafbe_story.mp4",
+  "story": {
+    "title": "McClean leaves Derry City after contract dispute",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-28T13:25:57+00:00",
+    "summary": "James McClean says Derry City \"will always hold a special place in my heart\" after mutually agreeing to terminate his contract with immediate effect.",
+    "data": {
+      "headline": "MCCLEAN LEAVES DERRY CITY",
+      "subhead": "after contract dispute",
+      "caption": "McClean leaves Derry City after contract dispute"
+    },
+    "score": 100.0,
+    "fingerprint": "af4ba4b3ae5eafbe"
+  },
+  "queued_at": "2026-10-28T13:41:20.430254+00:00"
+}
