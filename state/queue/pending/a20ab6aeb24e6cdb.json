@@ -1,0 +1,33 @@
+{
+  "fingerprint": "a20ab6aeb24e6cdb",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
+  "full_caption": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #lfc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#lfc",
+    "#cfc"
+  ],
+  "image_path": "out/a20ab6aeb24e6cdb_story.png",
+  "video_path": "out/a20ab6aeb24e6cdb_story.mp4",
+  "story": {
+    "title": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
+    "published_at": "2026-10-29T15:58:18+00:00",
+    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Football Daily isn\u2019t suggesting standards at Chelsea have slipped in recent years, but the quality of their players who miss penalties in shootouts against Liverpool certainly appears to be on the slide. Before last night, footballing royalty such as Arjen Robben, Geremi, Tammy Abraham, C\u00e9sar Azpilicueta, Mason Mount and even goalkeeper Kepa Arriz",
+    "data": {
+      "headline": "LIVERPOOL BEAT CHELSEA AS THREE",
+      "subhead": "more join penalty hall of shame | Football Daily",
+      "caption": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily"
+    },
+    "score": 92.0,
+    "fingerprint": "a20ab6aeb24e6cdb"
+  },
+  "queued_at": "2026-10-29T21:41:20.883058+00:00"
+}
