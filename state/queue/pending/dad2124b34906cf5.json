@@ -1,0 +1,31 @@
+{
+  "fingerprint": "dad2124b34906cf5",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+  "full_caption": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transferrumours",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours"
+  ],
+  "image_path": "out/dad2124b34906cf5_story.png",
+  "video_path": "out/dad2124b34906cf5_story.mp4",
+  "story": {
+    "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+    "kind": "rumour",
+    "tier": 2,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-29T06:27:10+00:00",
+    "summary": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+    "data": {
+      "headline": "CHIELLINI GUIDANCE TO LEEDS 'ROCK'",
+      "subhead": "could Muharemovic be signing of season?",
+      "caption": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?"
+    },
+    "score": 48.0,
+    "fingerprint": "dad2124b34906cf5"
+  },
+  "queued_at": "2026-10-29T13:51:56.364660+00:00"
+}
