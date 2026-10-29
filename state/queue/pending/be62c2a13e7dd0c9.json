@@ -1,0 +1,31 @@
+{
+  "fingerprint": "be62c2a13e7dd0c9",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Dowman to miss three matches after appeal rejected",
+  "full_caption": "Dowman to miss three matches after appeal rejected\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/be62c2a13e7dd0c9_story.png",
+  "video_path": "out/be62c2a13e7dd0c9_story.mp4",
+  "story": {
+    "title": "Dowman to miss three matches after appeal rejected",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-29T17:19:06+00:00",
+    "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+    "data": {
+      "headline": "DOWMAN TO MISS THREE MATCHES",
+      "subhead": "after appeal rejected",
+      "caption": "Dowman to miss three matches after appeal rejected"
+    },
+    "score": 85.0,
+    "fingerprint": "be62c2a13e7dd0c9"
+  },
+  "queued_at": "2026-10-29T18:16:18.035845+00:00"
+}
