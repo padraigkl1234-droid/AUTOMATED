@@ -1,0 +1,31 @@
+{
+  "fingerprint": "58894f67f135b217",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout",
+  "full_caption": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/58894f67f135b217_story.png",
+  "video_path": "out/58894f67f135b217_story.mp4",
+  "story": {
+    "title": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football",
+    "published_at": "2026-10-29T17:29:49+00:00",
+    "summary": "League to invite bids to televise all games from 2029UK leagues expected to coordinate move to end blackoutThe Scottish Premiership has made the first move in what is expected to be a coordinated attempt from the UK\u2019s domestic leagues to remove the Saturday afternoon broadcast blackout by inviting bids to televise all of its matches in the next rights cycle from 2029.A tender document issued by th",
+    "data": {
+      "headline": "SCOTTISH PREMIERSHIP MAKES FIRST UK",
+      "subhead": "move to remove Saturday 3pm broadcast blackout",
+      "caption": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout"
+    },
+    "score": 78.0,
+    "fingerprint": "58894f67f135b217"
+  },
+  "queued_at": "2026-10-30T01:39:34.215251+00:00"
+}
