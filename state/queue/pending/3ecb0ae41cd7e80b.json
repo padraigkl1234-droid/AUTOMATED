@@ -1,0 +1,32 @@
+{
+  "fingerprint": "3ecb0ae41cd7e80b",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot",
+  "full_caption": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#afc"
+  ],
+  "image_path": "out/3ecb0ae41cd7e80b_story.png",
+  "video_path": "out/3ecb0ae41cd7e80b_story.mp4",
+  "story": {
+    "title": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/30/liverpool-matches-title-contenders-andoni-iraola-arsenal",
+    "published_at": "2026-10-30T17:00:18+00:00",
+    "summary": "Andoni Iraola\u2019s team have shot up the table after a slow start but they are still not scoring enough goalsBy WhoScoredEvery Liverpool win this season seems to come with an asterisk. Yes, they beat Brentford, but Brentford had a man sent off. Yes they beat Villarreal, but they conceded three. On Sunday, against Brighton the asterisks finally ran out. Liverpool beat the Premier League\u2019s top scorers ",
+    "data": {
+      "headline": "ARE LIVERPOOL IN THE TITLE",
+      "subhead": "race? Their match against Arsenal will tell us a lot",
+      "caption": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot"
+    },
+    "score": 85.0,
+    "fingerprint": "3ecb0ae41cd7e80b"
+  },
+  "queued_at": "2026-10-30T17:52:40.811951+00:00"
+}
