@@ -1,7 +1,7 @@
 {
   "fingerprint": "58894f67f135b217",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
   "caption": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout",
   "full_caption": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
   "hashtags": [
@@ -24,8 +24,8 @@
       "subhead": "move to remove Saturday 3pm broadcast blackout",
       "caption": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout"
     },
-    "score": 78.0,
+    "score": 65.0,
     "fingerprint": "58894f67f135b217"
   },
-  "queued_at": "2026-10-30T01:39:34.215251+00:00"
+  "queued_at": "2026-10-30T13:44:04.702750+00:00"
 }
