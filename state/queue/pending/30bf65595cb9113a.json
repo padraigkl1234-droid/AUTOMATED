@@ -1,0 +1,32 @@
+{
+  "fingerprint": "30bf65595cb9113a",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Putellas provides mindset change as London City bid to upstage champions",
+  "full_caption": "Putellas provides mindset change as London City bid to upstage champions\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/30bf65595cb9113a_story.png",
+  "video_path": "out/30bf65595cb9113a_story.mp4",
+  "story": {
+    "title": "Putellas provides mindset change as London City bid to upstage champions",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/oct/30/alexia-putellas-london-city-lionesses-manchester-city-womens-super-league",
+    "published_at": "2026-10-30T16:16:24+00:00",
+    "summary": "Ballon d\u2019Or winner\u2019s move to WSL has transformed the Lionesses on and off the pitch with belief soaring ahead of Manchester City clashAs Martin Semmens, the London City Lionesses chief executive, sits down is his office he looks like the cat that got the cream. He says he has just learned that the club\u2019s Instagram page has generated 34m hits since Alexia Putellas won the Ballon d\u2019Or on Monday even",
+    "data": {
+      "headline": "PUTELLAS PROVIDES MINDSET CHANGE",
+      "subhead": "as London City bid to upstage champions",
+      "caption": "Putellas provides mindset change as London City bid to upstage champions"
+    },
+    "score": 97.0,
+    "fingerprint": "30bf65595cb9113a"
+  },
+  "queued_at": "2026-10-30T21:24:47.164860+00:00"
+}
