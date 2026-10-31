@@ -1,0 +1,32 @@
+{
+  "fingerprint": "539caf9f60ecd320",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+  "full_caption": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#cfc"
+  ],
+  "image_path": "out/539caf9f60ecd320_story.png",
+  "video_path": "out/539caf9f60ecd320_story.mp4",
+  "story": {
+    "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-31T16:38:15+00:00",
+    "summary": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
+    "data": {
+      "headline": "MARTINEZ'S 'INEXPLICABLE' 83 SECONDS COST",
+      "subhead": "Man Utd and Carrick",
+      "caption": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick"
+    },
+    "score": 85.0,
+    "fingerprint": "539caf9f60ecd320"
+  },
+  "queued_at": "2026-10-31T17:04:04.068655+00:00"
+}
