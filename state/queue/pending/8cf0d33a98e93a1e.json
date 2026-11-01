@@ -1,0 +1,33 @@
+{
+  "fingerprint": "8cf0d33a98e93a1e",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+  "full_caption": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc",
+    "#cfc"
+  ],
+  "image_path": "out/8cf0d33a98e93a1e_story.png",
+  "video_path": "out/8cf0d33a98e93a1e_story.mp4",
+  "story": {
+    "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-10-31T22:30:16+00:00",
+    "summary": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+    "data": {
+      "headline": "CHELSEA BEAT 10-MAN MAN UTD",
+      "subhead": "to pile more pressure on Carrick",
+      "caption": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick"
+    },
+    "score": 100.0,
+    "fingerprint": "8cf0d33a98e93a1e"
+  },
+  "queued_at": "2026-11-01T00:48:08.782422+00:00"
+}
