@@ -1,0 +1,33 @@
+{
+  "fingerprint": "1f37b8a9509a0d97",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Arsenal move clear at the top with a rare win at Liverpool",
+  "full_caption": "Arsenal move clear at the top with a rare win at Liverpool\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#afc"
+  ],
+  "image_path": "out/1f37b8a9509a0d97_story.png",
+  "video_path": "out/1f37b8a9509a0d97_story.mp4",
+  "story": {
+    "title": "Arsenal move clear at the top with a rare win at Liverpool",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-01T20:00:18+00:00",
+    "summary": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+    "data": {
+      "headline": "ARSENAL MOVE CLEAR",
+      "subhead": "at the top with a rare win at Liverpool",
+      "caption": "Arsenal move clear at the top with a rare win at Liverpool"
+    },
+    "score": 113.0,
+    "fingerprint": "1f37b8a9509a0d97"
+  },
+  "queued_at": "2026-11-01T21:03:01.571118+00:00"
+}
