@@ -1,0 +1,32 @@
+{
+  "fingerprint": "057835ca45d0bc4d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Liverpool v Arsenal: Premier League \u2013 live",
+  "full_caption": "Liverpool v Arsenal: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc",
+    "#afc"
+  ],
+  "image_path": "out/057835ca45d0bc4d_story.png",
+  "video_path": "out/057835ca45d0bc4d_story.mp4",
+  "story": {
+    "title": "Liverpool v Arsenal: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live",
+    "published_at": "2026-11-01T17:44:55+00:00",
+    "summary": "Updates from the match at Anfield (4.30pm GMT)Table | Top scorers | Email Daniel hereSo where is the game? Liverpool will look to get men around the ball when Arsenal have it, opening the pitch for switches should they win possession. And when they don\u2019t, they\u2019ll run like mad to recover it, stretching play and passing forwards, facilitating that by conserving energy every now and again when Nyoni ",
+    "data": {
+      "headline": "LIVERPOOL V ARSENAL",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Liverpool v Arsenal: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "057835ca45d0bc4d"
+  },
+  "queued_at": "2026-11-01T17:47:52.485828+00:00"
+}
