@@ -1,0 +1,32 @@
+{
+  "fingerprint": "a83a7adcc3884d36",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "PSG wary of Villarreal amid bid to maintain perfect UCL start",
+  "full_caption": "PSG wary of Villarreal amid bid to maintain perfect UCL start\n\n\ud83d\udcf0 ESPN\n\n#football #soccer #transfernews #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/a83a7adcc3884d36_story.png",
+  "video_path": "out/a83a7adcc3884d36_story.mp4",
+  "story": {
+    "title": "PSG wary of Villarreal amid bid to maintain perfect UCL start",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50359895/psg-luis-enrique-warns-overconfidence-ucl-clash-villarreal",
+    "published_at": "2026-11-02T23:33:43+00:00",
+    "summary": "Luis Enrique has warned the impressive wins over City and Barcelona will count for little when PSG look to continue their perfect UCL start vs. Villarreal.",
+    "data": {
+      "headline": "PSG WARY OF VILLARREAL",
+      "subhead": "amid bid to maintain perfect UCL start",
+      "caption": "PSG wary of Villarreal amid bid to maintain perfect UCL start"
+    },
+    "score": 110.0,
+    "fingerprint": "a83a7adcc3884d36"
+  },
+  "queued_at": "2026-11-02T23:50:18.195024+00:00"
+}
