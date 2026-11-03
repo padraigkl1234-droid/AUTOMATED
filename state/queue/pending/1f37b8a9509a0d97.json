@@ -1,7 +1,7 @@
 {
   "fingerprint": "1f37b8a9509a0d97",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
   "caption": "Arsenal move clear at the top with a rare win at Liverpool",
   "full_caption": "Arsenal move clear at the top with a rare win at Liverpool\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc #afc",
   "hashtags": [
@@ -29,5 +29,5 @@
     "score": 85.0,
     "fingerprint": "1f37b8a9509a0d97"
   },
-  "queued_at": "2026-11-03T03:20:52.652306+00:00"
+  "queued_at": "2026-11-03T14:46:49.070719+00:00"
 }
