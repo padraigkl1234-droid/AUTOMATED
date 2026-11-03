@@ -1,0 +1,31 @@
+{
+  "fingerprint": "e35fa0821cf761bd",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+  "full_caption": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/e35fa0821cf761bd_story.png",
+  "video_path": "out/e35fa0821cf761bd_story.mp4",
+  "story": {
+    "title": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
+    "published_at": "2026-11-03T18:42:11+00:00",
+    "summary": "Reds target fourth straight Champions League win Turkish side led by ex-Liverpool forward Dirk KuytAndoni Iraola has said Liverpool must improve their attacking play but dismissed concerns over the contrast between his team\u2019s output in the Premier League and Champions League.Liverpool boast a 100% record in Europe this season and can take a significant step towards qualification for the knockout p",
+    "data": {
+      "headline": "ANDONI IRAOLA CALLS ON LIVERPOOL",
+      "subhead": "to sharpen up in attack before Fenerbahce test",
+      "caption": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test"
+    },
+    "score": 85.0,
+    "fingerprint": "e35fa0821cf761bd"
+  },
+  "queued_at": "2026-11-03T19:18:47.859830+00:00"
+}
