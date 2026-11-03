@@ -1,0 +1,34 @@
+{
+  "fingerprint": "37ab347e3e8eaf82",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Manchester United 3-2 Roma: Champions League \u2013 live",
+  "full_caption": "Manchester United 3-2 Roma: Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #mufc #fcbarcelona #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc",
+    "#fcbarcelona",
+    "#avfc"
+  ],
+  "image_path": "out/37ab347e3e8eaf82_story.png",
+  "video_path": "out/37ab347e3e8eaf82_story.mp4",
+  "story": {
+    "title": "Manchester United 3-2 Roma: Champions League \u2013 live",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
+    "published_at": "2026-11-03T22:08:37+00:00",
+    "summary": "\u26bd\ufe0f Champions League updates from the 8pm GMT kick-off\u26bd\ufe0f Barcelona 3-0 Aston Villa \u2013 reaction\u26bd\ufe0f Live scores | League phase standings | And email WillGorton-born Butt on TV and another one on the blog. A big day for east Manchester. Both quite critical of United at the moment.Gene Salorio asks: \u201cSo now that Nuno is back on the market, does he get a ticket to the Manchester United new manager sweepst",
+    "data": {
+      "headline": "MANCHESTER UNITED 3-2 ROMA",
+      "subhead": "Champions League \u2013 live",
+      "caption": "Manchester United 3-2 Roma: Champions League \u2013 live"
+    },
+    "score": 107.0,
+    "fingerprint": "37ab347e3e8eaf82"
+  },
+  "queued_at": "2026-11-03T22:14:48.855112+00:00"
+}
