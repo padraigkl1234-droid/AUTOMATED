@@ -1,0 +1,32 @@
+{
+  "fingerprint": "3b8d2c9ae865a549",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Man Utd beat Roma - the other great Champions League comebacks",
+  "full_caption": "Man Utd beat Roma - the other great Champions League comebacks\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc"
+  ],
+  "image_path": "out/3b8d2c9ae865a549_story.png",
+  "video_path": "out/3b8d2c9ae865a549_story.mp4",
+  "story": {
+    "title": "Man Utd beat Roma - the other great Champions League comebacks",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-03T23:25:20+00:00",
+    "summary": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
+    "data": {
+      "headline": "MAN UTD BEAT ROMA",
+      "subhead": "the other great Champions League comebacks",
+      "caption": "Man Utd beat Roma - the other great Champions League comebacks"
+    },
+    "score": 100.0,
+    "fingerprint": "3b8d2c9ae865a549"
+  },
+  "queued_at": "2026-11-04T01:58:21.891398+00:00"
+}
