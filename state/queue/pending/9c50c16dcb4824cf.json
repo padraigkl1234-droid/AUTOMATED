@@ -1,0 +1,33 @@
+{
+  "fingerprint": "9c50c16dcb4824cf",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Emery in line for new Villa deal - Thursday's gossip",
+  "full_caption": "Emery in line for new Villa deal - Thursday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#avfc"
+  ],
+  "image_path": "out/9c50c16dcb4824cf_story.png",
+  "video_path": "out/9c50c16dcb4824cf_story.mp4",
+  "story": {
+    "title": "Emery in line for new Villa deal - Thursday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-04T21:41:04+00:00",
+    "summary": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
+    "data": {
+      "headline": "EMERY IN LINE FOR NEW VILLA DEAL",
+      "subhead": "Thursday's gossip",
+      "caption": "Emery in line for new Villa deal - Thursday's gossip"
+    },
+    "score": 120.0,
+    "fingerprint": "9c50c16dcb4824cf"
+  },
+  "queued_at": "2026-11-04T22:30:17.927231+00:00"
+}
