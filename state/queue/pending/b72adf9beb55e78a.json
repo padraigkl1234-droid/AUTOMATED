@@ -1,0 +1,36 @@
+{
+  "fingerprint": "b72adf9beb55e78a",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Real Madrid reach verbal agreement to sign Gabriel",
+  "full_caption": "Real Madrid reach verbal agreement to sign Gabriel\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#realmadrid"
+  ],
+  "image_path": "out/b72adf9beb55e78a_story.png",
+  "video_path": "out/b72adf9beb55e78a_story.mp4",
+  "story": {
+    "title": "Real Madrid reach verbal agreement to sign Gabriel",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-04T11:49:23+00:00",
+    "summary": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "REAL MADRID REACH VERBAL AGREEMENT",
+      "subhead": "to sign Gabriel",
+      "caption": "Real Madrid reach verbal agreement to sign Gabriel"
+    },
+    "score": 111.0,
+    "fingerprint": "b72adf9beb55e78a"
+  },
+  "queued_at": "2026-11-04T14:58:48.250200+00:00"
+}
