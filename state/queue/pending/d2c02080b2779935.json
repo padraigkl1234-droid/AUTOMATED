@@ -1,0 +1,33 @@
+{
+  "fingerprint": "d2c02080b2779935",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more \u2013 live",
+  "full_caption": "Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #afc #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#afc",
+    "#fcbayern"
+  ],
+  "image_path": "out/d2c02080b2779935_story.png",
+  "video_path": "out/d2c02080b2779935_story.mp4",
+  "story": {
+    "title": "Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/04/champions-league-slavia-prague-v-arsenal-rb-leipzig-v-manchester-city-and-more-live",
+    "published_at": "2026-11-04T19:21:44+00:00",
+    "summary": "All the latest from the seven 8pm GMT kick-offsKane\u2019s Ballon d\u2019Or party gives way to hangover for BayernLive scores | League phase standings | Football DailyScratch that, Fenerbahce get themselves quickly level \u2013 as they did in the first half. This time Gakpo is at fault, and Archie Brown profits for the Turkish side. (2-2)And big big news in Athens \u2026 AEK have scored! Stavros Pilios smashes home a",
+    "data": {
+      "headline": "CHAMPIONS LEAGUE",
+      "subhead": "Slavia Prague v Arsenal, RB Leipzig v Manchester City and more \u2013",
+      "caption": "Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "d2c02080b2779935"
+  },
+  "queued_at": "2026-11-04T19:34:47.373224+00:00"
+}
