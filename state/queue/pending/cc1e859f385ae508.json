@@ -1,0 +1,31 @@
+{
+  "fingerprint": "cc1e859f385ae508",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "England check on Palmer - what are Tuchel's other big choices?",
+  "full_caption": "England check on Palmer - what are Tuchel's other big choices?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#inter"
+  ],
+  "image_path": "out/cc1e859f385ae508_story.png",
+  "video_path": "out/cc1e859f385ae508_story.mp4",
+  "story": {
+    "title": "England check on Palmer - what are Tuchel's other big choices?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-05T19:00:04+00:00",
+    "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+    "data": {
+      "headline": "ENGLAND CHECK ON PALMER",
+      "subhead": "what are Tuchel's other big choices?",
+      "caption": "England check on Palmer - what are Tuchel's other big choices?"
+    },
+    "score": 77.0,
+    "fingerprint": "cc1e859f385ae508"
+  },
+  "queued_at": "2026-11-05T19:44:05.940029+00:00"
+}
