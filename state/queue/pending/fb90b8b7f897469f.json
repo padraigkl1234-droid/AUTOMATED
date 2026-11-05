@@ -1,0 +1,32 @@
+{
+  "fingerprint": "fb90b8b7f897469f",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "What new Kane deal means for England and the Premier League record",
+  "full_caption": "What new Kane deal means for England and the Premier League record\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbayern"
+  ],
+  "image_path": "out/fb90b8b7f897469f_story.png",
+  "video_path": "out/fb90b8b7f897469f_story.mp4",
+  "story": {
+    "title": "What new Kane deal means for England and the Premier League record",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-05T14:44:34+00:00",
+    "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+    "data": {
+      "headline": "WHAT NEW KANE DEAL MEANS",
+      "subhead": "for England and the Premier League record",
+      "caption": "What new Kane deal means for England and the Premier League record"
+    },
+    "score": 112.0,
+    "fingerprint": "fb90b8b7f897469f"
+  },
+  "queued_at": "2026-11-05T15:04:11.393336+00:00"
+}
