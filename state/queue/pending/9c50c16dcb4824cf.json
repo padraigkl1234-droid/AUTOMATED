@@ -1,7 +1,7 @@
 {
   "fingerprint": "9c50c16dcb4824cf",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Emery in line for new Villa deal - Thursday's gossip",
   "full_caption": "Emery in line for new Villa deal - Thursday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc #avfc",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "Thursday's gossip",
       "caption": "Emery in line for new Villa deal - Thursday's gossip"
     },
-    "score": 120.0,
+    "score": 105.0,
     "fingerprint": "9c50c16dcb4824cf"
   },
-  "queued_at": "2026-11-04T22:30:17.927231+00:00"
+  "queued_at": "2026-11-05T02:02:23.962999+00:00"
 }
