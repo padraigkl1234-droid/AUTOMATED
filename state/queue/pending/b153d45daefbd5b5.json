@@ -1,0 +1,32 @@
+{
+  "fingerprint": "b153d45daefbd5b5",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Has Anderson lived up to the hype after Man City move?",
+  "full_caption": "Has Anderson lived up to the hype after Man City move?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/b153d45daefbd5b5_story.png",
+  "video_path": "out/b153d45daefbd5b5_story.mp4",
+  "story": {
+    "title": "Has Anderson lived up to the hype after Man City move?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-06T12:00:18+00:00",
+    "summary": "As Elliot Anderson returns to Nottingham Forest after his \u00a3116m move to Manchester City, has he lived up to the price tag?",
+    "data": {
+      "headline": "HAS ANDERSON LIVED UP",
+      "subhead": "to the hype after Man City move?",
+      "caption": "Has Anderson lived up to the hype after Man City move?"
+    },
+    "score": 105.0,
+    "fingerprint": "b153d45daefbd5b5"
+  },
+  "queued_at": "2026-11-06T14:43:16.016347+00:00"
+}
