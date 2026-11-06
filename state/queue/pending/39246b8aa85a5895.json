@@ -1,0 +1,32 @@
+{
+  "fingerprint": "39246b8aa85a5895",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "NWSL playoff predictions: who can spoil Gotham\u2019s bid for the double?",
+  "full_caption": "NWSL playoff predictions: who can spoil Gotham\u2019s bid for the double?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/39246b8aa85a5895_story.png",
+  "video_path": "out/39246b8aa85a5895_story.mp4",
+  "story": {
+    "title": "NWSL playoff predictions: who can spoil Gotham\u2019s bid for the double?",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/06/nwsl-playoff-predictions-picks",
+    "published_at": "2026-11-06T11:00:51+00:00",
+    "summary": "Our panel breaks down the players to watch, the dark horses, the state of the league and the top candidates to reach the championship game in DCCompelling storylines that kept the league interesting during a crowded sports summer. The interval years that aren\u2019t Olympic or World Cup years are often quieter for the NWSL (see: average attendance was essentially flat among the non-expansion teams). In",
+    "data": {
+      "headline": "NWSL PLAYOFF PREDICTIONS",
+      "subhead": "who can spoil Gotham\u2019s bid for the double?",
+      "caption": "NWSL playoff predictions: who can spoil Gotham\u2019s bid for the double?"
+    },
+    "score": 90.0,
+    "fingerprint": "39246b8aa85a5895"
+  },
+  "queued_at": "2026-11-06T22:01:41.630215+00:00"
+}
