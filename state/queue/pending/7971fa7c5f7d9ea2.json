@@ -3,14 +3,12 @@
   "slot_id": "midday_talking_point",
   "template": "quote_card",
   "caption": "Premier League team news: predicted lineups for the weekend action",
-  "full_caption": "Premier League team news: predicted lineups for the weekend action\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #lfc #thfc #inter",
+  "full_caption": "Premier League team news: predicted lineups for the weekend action\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #avfc",
   "hashtags": [
     "#football",
     "#soccer",
-    "#mcfc",
-    "#lfc",
-    "#thfc",
-    "#inter"
+    "#mufc",
+    "#avfc"
   ],
   "image_path": "out/7971fa7c5f7d9ea2_story.png",
   "video_path": "out/7971fa7c5f7d9ea2_story.mp4",
@@ -19,9 +17,9 @@
     "kind": "feature",
     "tier": 1,
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-    "published_at": "2026-10-09T16:22:09+00:00",
-    "summary": "Manchester City face Liverpool after a trying international break while struggling Tottenham go to Old TraffordSaturday 12.30pm TNT Sports 1 Venue Emirates Stadium Continue reading...",
+    "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+    "published_at": "2026-11-06T16:43:45+00:00",
+    "summary": "Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael CarrickSaturday 12.30pm TNT Sports 1 Venue Elland Road Continue reading...",
     "data": {
       "headline": "PREMIER LEAGUE TEAM NEWS",
       "subhead": "predicted lineups for the weekend action",
@@ -30,5 +28,5 @@
     "score": 78.0,
     "fingerprint": "7971fa7c5f7d9ea2"
   },
-  "queued_at": "2026-10-09T18:11:36.882491+00:00"
+  "queued_at": "2026-11-06T19:07:07.823686+00:00"
 }
