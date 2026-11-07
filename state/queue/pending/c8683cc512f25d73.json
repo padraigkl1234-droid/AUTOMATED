@@ -1,0 +1,33 @@
+{
+  "fingerprint": "c8683cc512f25d73",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
+  "full_caption": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #realmadrid #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#realmadrid",
+    "#inter"
+  ],
+  "image_path": "out/c8683cc512f25d73_story.png",
+  "video_path": "out/c8683cc512f25d73_story.mp4",
+  "story": {
+    "title": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+    "published_at": "2026-11-07T11:42:00+00:00",
+    "summary": "",
+    "data": {
+      "headline": "TRANSFER CENTRE LIVE! GABRIEL GIVES",
+      "subhead": "interview ahead of Real Madrid move",
+      "caption": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move"
+    },
+    "score": 103.0,
+    "fingerprint": "c8683cc512f25d73"
+  },
+  "queued_at": "2026-11-07T13:40:36.750524+00:00"
+}
