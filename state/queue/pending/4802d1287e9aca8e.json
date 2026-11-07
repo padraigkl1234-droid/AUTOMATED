@@ -1,0 +1,31 @@
+{
+  "fingerprint": "4802d1287e9aca8e",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Lampard feels hair pull should have led to Coventry penalty",
+  "full_caption": "Lampard feels hair pull should have led to Coventry penalty\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/4802d1287e9aca8e_story.png",
+  "video_path": "out/4802d1287e9aca8e_story.mp4",
+  "story": {
+    "title": "Lampard feels hair pull should have led to Coventry penalty",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-06T23:22:21+00:00",
+    "summary": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+    "data": {
+      "headline": "LAMPARD FEELS HAIR PULL SHOULD",
+      "subhead": "have led to Coventry penalty",
+      "caption": "Lampard feels hair pull should have led to Coventry penalty"
+    },
+    "score": 93.0,
+    "fingerprint": "4802d1287e9aca8e"
+  },
+  "queued_at": "2026-11-07T01:42:29.429120+00:00"
+}
