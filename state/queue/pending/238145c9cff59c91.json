@@ -1,0 +1,31 @@
+{
+  "fingerprint": "238145c9cff59c91",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+  "full_caption": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/238145c9cff59c91_story.png",
+  "video_path": "out/238145c9cff59c91_story.mp4",
+  "story": {
+    "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-07T17:00:38+00:00",
+    "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+    "data": {
+      "headline": "GOAL CAPS EYE-CATCHING ODEGAARD DISPLAY",
+      "subhead": "player ratings for Arsenal v Hull",
+      "caption": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull"
+    },
+    "score": 85.0,
+    "fingerprint": "238145c9cff59c91"
+  },
+  "queued_at": "2026-11-07T17:38:40.215423+00:00"
+}
