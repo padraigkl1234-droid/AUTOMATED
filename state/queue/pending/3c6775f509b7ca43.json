@@ -1,0 +1,33 @@
+{
+  "fingerprint": "3c6775f509b7ca43",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
+  "full_caption": "Where does Man Utd 4-4 Villa rank among best Premier League games?\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc",
+    "#avfc"
+  ],
+  "image_path": "out/3c6775f509b7ca43_story.png",
+  "video_path": "out/3c6775f509b7ca43_story.mp4",
+  "story": {
+    "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-08T20:05:53+00:00",
+    "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
+    "data": {
+      "headline": "WHERE DOES MAN UTD 4-4",
+      "subhead": "Villa rank among best Premier League games?",
+      "caption": "Where does Man Utd 4-4 Villa rank among best Premier League games?"
+    },
+    "score": 107.0,
+    "fingerprint": "3c6775f509b7ca43"
+  },
+  "queued_at": "2026-11-08T21:00:26.473984+00:00"
+}
