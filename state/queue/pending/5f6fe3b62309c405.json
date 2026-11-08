@@ -1,0 +1,31 @@
+{
+  "fingerprint": "5f6fe3b62309c405",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+  "full_caption": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/5f6fe3b62309c405_story.png",
+  "video_path": "out/5f6fe3b62309c405_story.mp4",
+  "story": {
+    "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
+    "published_at": "2026-11-07T21:28:52+00:00",
+    "summary": "National League South match postponedPlayer now \u2018stable and chatting\u2019 in hospitalTruro\u2019s National League South game at Folkestone Invicta was called off after the visitors\u2019 midfielder Yassine En-Neyah had a medical emergency and was taken to hospital.The 26-year-old was transported to the William Harvey Hospital in Ashford for treatment but was responsive on Saturday night, according to an update ",
+    "data": {
+      "headline": "TRURO CITY GAME AT FOLKESTONE",
+      "subhead": "called off after Yassine En-Neyah has medical emergency in warm-up",
+      "caption": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up"
+    },
+    "score": 65.0,
+    "fingerprint": "5f6fe3b62309c405"
+  },
+  "queued_at": "2026-11-08T13:59:02.966393+00:00"
+}
