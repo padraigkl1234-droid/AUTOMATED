@@ -1,0 +1,31 @@
+{
+  "fingerprint": "82dd8a437a0eae47",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
+  "full_caption": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/82dd8a437a0eae47_story.png",
+  "video_path": "out/82dd8a437a0eae47_story.mp4",
+  "story": {
+    "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
+    "published_at": "2026-11-08T17:10:11+00:00",
+    "summary": "Bethany England scores late to give Palace 3-2 winLondon City, Spurs and Manchester United all winIt was heartbreak for Charlton on Sunday, after Bethany England\u2019s 90th-minute winner for Crystal Palace denied them a first point in the Women\u2019s Super League.Karen Hills\u2019s team remain bottom and pointless. They were forced to come from behind away to their their fellow promoted side after Lexi Lloyd-S",
+    "data": {
+      "headline": "WSL ROUNDUP",
+      "subhead": "Crystal Palace deny Charlton first point, London City stay third",
+      "caption": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third"
+    },
+    "score": 85.0,
+    "fingerprint": "82dd8a437a0eae47"
+  },
+  "queued_at": "2026-11-08T17:48:11.135060+00:00"
+}
