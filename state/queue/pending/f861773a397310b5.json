@@ -1,0 +1,35 @@
+{
+  "fingerprint": "f861773a397310b5",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Alisson wants to sign new Liverpool contract",
+  "full_caption": "Alisson wants to sign new Liverpool contract\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc"
+  ],
+  "image_path": "out/f861773a397310b5_story.png",
+  "video_path": "out/f861773a397310b5_story.mp4",
+  "story": {
+    "title": "Alisson wants to sign new Liverpool contract",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-09T12:00:11+00:00",
+    "summary": "Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "ALISSON WANTS TO SIGN NEW",
+      "subhead": "Liverpool contract",
+      "caption": "Alisson wants to sign new Liverpool contract"
+    },
+    "score": 111.0,
+    "fingerprint": "f861773a397310b5"
+  },
+  "queued_at": "2026-11-09T17:13:06.005752+00:00"
+}
