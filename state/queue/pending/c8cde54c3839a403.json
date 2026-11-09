@@ -1,0 +1,34 @@
+{
+  "fingerprint": "c8cde54c3839a403",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Atletico target Zubimendi move - Tuesday's gossip",
+  "full_caption": "Atletico target Zubimendi move - Tuesday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transferrumours #afc #fcbarcelona #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transferrumours",
+    "#afc",
+    "#fcbarcelona",
+    "#fcbayern"
+  ],
+  "image_path": "out/c8cde54c3839a403_story.png",
+  "video_path": "out/c8cde54c3839a403_story.mp4",
+  "story": {
+    "title": "Atletico target Zubimendi move - Tuesday's gossip",
+    "kind": "rumour",
+    "tier": 2,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-09T21:13:37+00:00",
+    "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
+    "data": {
+      "headline": "ATLETICO TARGET ZUBIMENDI MOVE",
+      "subhead": "Tuesday's gossip",
+      "caption": "Atletico target Zubimendi move - Tuesday's gossip"
+    },
+    "score": 90.0,
+    "fingerprint": "c8cde54c3839a403"
+  },
+  "queued_at": "2026-11-09T22:08:01.697389+00:00"
+}
