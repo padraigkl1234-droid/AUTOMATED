@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c64282f81bed6e8e",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "'You can't make a house on a puddle' - Merse criticises INEOS transfer policy",
+  "full_caption": "'You can't make a house on a puddle' - Merse criticises INEOS transfer policy\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/c64282f81bed6e8e_story.png",
+  "video_path": "out/c64282f81bed6e8e_story.mp4",
+  "story": {
+    "title": "'You can't make a house on a puddle' - Merse criticises INEOS transfer policy",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/watch/video/13610614/manchester-united-paul-merson-criticises-ineos-transfer-policy-and-how-its-affected-michael-carricks-job-as-head-coach",
+    "published_at": "2026-11-10T12:32:00+00:00",
+    "summary": "Paul Merson discusses Manchester United's transfer activity under INEOS and why it has led to poor results.",
+    "data": {
+      "headline": "'YOU CAN'T MAKE A HOUSE",
+      "subhead": "on a puddle' - Merse criticises INEOS transfer policy",
+      "caption": "'You can't make a house on a puddle' - Merse criticises INEOS transfer policy"
+    },
+    "score": 103.0,
+    "fingerprint": "c64282f81bed6e8e"
+  },
+  "queued_at": "2026-11-10T15:20:06.161575+00:00"
+}
