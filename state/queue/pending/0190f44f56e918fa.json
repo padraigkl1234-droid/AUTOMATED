@@ -1,0 +1,31 @@
+{
+  "fingerprint": "0190f44f56e918fa",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Rio Ngumoha ready to make England splash as he spells out Ballon d\u2019Or ambition",
+  "full_caption": "Rio Ngumoha ready to make England splash as he spells out Ballon d\u2019Or ambition\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#lfc"
+  ],
+  "image_path": "out/0190f44f56e918fa_story.png",
+  "video_path": "out/0190f44f56e918fa_story.mp4",
+  "story": {
+    "title": "Rio Ngumoha ready to make England splash as he spells out Ballon d\u2019Or ambition",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
+    "published_at": "2026-11-10T19:00:17+00:00",
+    "summary": "Fearless winger has forced his way into Thomas Tuchel\u2019s plans and believes he can become best player in the worldRio Ngumoha is fearless, exciting and ready to make his mark as an England player. The Liverpool winger narrowly missed the cut for the World Cup squad last summer but he impressed during the pre-tournament camp in Florida and has forced his way into Thomas Tuchel\u2019s plans after an excel",
+    "data": {
+      "headline": "RIO NGUMOHA READY TO MAKE",
+      "subhead": "England splash as he spells out Ballon d\u2019Or ambition",
+      "caption": "Rio Ngumoha ready to make England splash as he spells out Ballon d\u2019Or ambition"
+    },
+    "score": 85.0,
+    "fingerprint": "0190f44f56e918fa"
+  },
+  "queued_at": "2026-11-10T19:30:29.702083+00:00"
+}
