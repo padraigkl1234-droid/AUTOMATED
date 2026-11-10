@@ -1,0 +1,31 @@
+{
+  "fingerprint": "258f75b440d39fad",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+  "full_caption": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday"
+  ],
+  "image_path": "out/258f75b440d39fad_story.png",
+  "video_path": "out/258f75b440d39fad_story.mp4",
+  "story": {
+    "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-10T00:13:13+00:00",
+    "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
+    "data": {
+      "headline": "PLYMOUTH PARKWAY BEAT BERKHAMSTED",
+      "subhead": "to reach FA Cup second round",
+      "caption": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round"
+    },
+    "score": 87.0,
+    "fingerprint": "258f75b440d39fad"
+  },
+  "queued_at": "2026-11-10T00:36:33.990445+00:00"
+}
