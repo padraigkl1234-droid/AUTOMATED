@@ -1,0 +1,32 @@
+{
+  "fingerprint": "b05b5fadca179d59",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Manchester United reach framework deal with Pochettino before settling Carrick\u2019s fate",
+  "full_caption": "Manchester United reach framework deal with Pochettino before settling Carrick\u2019s fate\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/b05b5fadca179d59_story.png",
+  "video_path": "out/b05b5fadca179d59_story.mp4",
+  "story": {
+    "title": "Manchester United reach framework deal with Pochettino before settling Carrick\u2019s fate",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+    "published_at": "2026-11-11T13:52:39+00:00",
+    "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United have a framework agreement with Mauricio \u00adPochettino for him to become their head coach if Michael Carrick is sacked. \u00adCarrick is expected to be fired in line with the recommendation from Jason&nbsp;\u00adWilcox, the director of football, and Omar&nbsp;\u00adBerrada, the chief executive, to Sir&nbsp;Ji",
+    "data": {
+      "headline": "MANCHESTER UNITED REACH FRAMEWORK DEAL",
+      "subhead": "with Pochettino before settling Carrick\u2019s fate",
+      "caption": "Manchester United reach framework deal with Pochettino before settling Carrick\u2019s fate"
+    },
+    "score": 98.0,
+    "fingerprint": "b05b5fadca179d59"
+  },
+  "queued_at": "2026-11-11T23:23:26.800405+00:00"
+}
