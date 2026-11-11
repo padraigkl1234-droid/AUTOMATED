@@ -1,0 +1,32 @@
+{
+  "fingerprint": "ed545fd388e57c66",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Thomas Tuchel keeps laser focus on \u2018unfinished business\u2019 with England",
+  "full_caption": "Thomas Tuchel keeps laser focus on \u2018unfinished business\u2019 with England\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#inter"
+  ],
+  "image_path": "out/ed545fd388e57c66_story.png",
+  "video_path": "out/ed545fd388e57c66_story.mp4",
+  "story": {
+    "title": "Thomas Tuchel keeps laser focus on \u2018unfinished business\u2019 with England",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/11/thomas-tuchel-unfinished-business-england-euro-2028-nations-league",
+    "published_at": "2026-11-11T19:00:00+00:00",
+    "summary": "Tuchel did not insert release clause into England dealCoach \u2018open to everything\u2019 including staying after EurosThomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role as the USA men\u2019s head coach to replace Michael Carrick at Manchester United, but Tuchel has not lost his passion for international football and has revealed he did not insert a rele",
+    "data": {
+      "headline": "THOMAS TUCHEL KEEPS LASER FOCUS",
+      "subhead": "on \u2018unfinished business\u2019 with England",
+      "caption": "Thomas Tuchel keeps laser focus on \u2018unfinished business\u2019 with England"
+    },
+    "score": 85.0,
+    "fingerprint": "ed545fd388e57c66"
+  },
+  "queued_at": "2026-11-11T19:25:30.833912+00:00"
+}
