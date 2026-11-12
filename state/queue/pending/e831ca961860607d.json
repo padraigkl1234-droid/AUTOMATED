@@ -1,0 +1,32 @@
+{
+  "fingerprint": "e831ca961860607d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Barcelona v Arsenal: Women\u2019s Champions League \u2013 live",
+  "full_caption": "Barcelona v Arsenal: Women\u2019s Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/e831ca961860607d_story.png",
+  "video_path": "out/e831ca961860607d_story.mp4",
+  "story": {
+    "title": "Barcelona v Arsenal: Women\u2019s Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
+    "published_at": "2026-11-12T19:24:53+00:00",
+    "summary": "\u26bd\ufe0f WCL updates from 5.45pm GMT kick-off\u26bd\ufe0f Live scoreboard | And email Simon2 mins: They kept the ball for about 15 seconds and haven\u2019t seen it since. Eventually Caroline Graham Hansen plays a pass infield from the right and Ewa Pajor is so close to getting sent through on goal. Instead it runs through to Misa Rodriguez.1 min: Peeeeeep! Arsenal kick off! Continue reading...",
+    "data": {
+      "headline": "BARCELONA V ARSENAL",
+      "subhead": "Women\u2019s Champions League \u2013 live",
+      "caption": "Barcelona v Arsenal: Women\u2019s Champions League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "e831ca961860607d"
+  },
+  "queued_at": "2026-11-12T19:43:08.296142+00:00"
+}
