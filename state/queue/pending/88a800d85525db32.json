@@ -1,0 +1,32 @@
+{
+  "fingerprint": "88a800d85525db32",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+  "full_caption": "The chaos that took Carrick from two-year deal to sacked within 15 games\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/88a800d85525db32_story.png",
+  "video_path": "out/88a800d85525db32_story.mp4",
+  "story": {
+    "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-12T10:21:29+00:00",
+    "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+    "data": {
+      "headline": "THE CHAOS THAT TOOK CARRICK",
+      "subhead": "from two-year deal to sacked within 15 games",
+      "caption": "The chaos that took Carrick from two-year deal to sacked within 15 games"
+    },
+    "score": 105.0,
+    "fingerprint": "88a800d85525db32"
+  },
+  "queued_at": "2026-11-12T15:42:02.490537+00:00"
+}
