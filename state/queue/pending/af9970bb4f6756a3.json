@@ -1,0 +1,33 @@
+{
+  "fingerprint": "af9970bb4f6756a3",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Gritty Arsenal show different side in Barcelona draw",
+  "full_caption": "Gritty Arsenal show different side in Barcelona draw\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #afc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#afc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/af9970bb4f6756a3_story.png",
+  "video_path": "out/af9970bb4f6756a3_story.mp4",
+  "story": {
+    "title": "Gritty Arsenal show different side in Barcelona draw",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-12T21:50:59+00:00",
+    "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+    "data": {
+      "headline": "GRITTY ARSENAL SHOW DIFFERENT SIDE",
+      "subhead": "in Barcelona draw",
+      "caption": "Gritty Arsenal show different side in Barcelona draw"
+    },
+    "score": 107.0,
+    "fingerprint": "af9970bb4f6756a3"
+  },
+  "queued_at": "2026-11-12T22:40:06.061736+00:00"
+}
