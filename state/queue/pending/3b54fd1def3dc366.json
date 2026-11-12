@@ -1,0 +1,32 @@
+{
+  "fingerprint": "3b54fd1def3dc366",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Man Utd strike Pochettino agreement with Carrick set to depart",
+  "full_caption": "Man Utd strike Pochettino agreement with Carrick set to depart\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/3b54fd1def3dc366_story.png",
+  "video_path": "out/3b54fd1def3dc366_story.mp4",
+  "story": {
+    "title": "Man Utd strike Pochettino agreement with Carrick set to depart",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+    "published_at": "2026-11-11T17:00:00+00:00",
+    "summary": "Manchester United have reached a verbal agreement in principle with Mauricio Pochettino to take over as head coach.",
+    "data": {
+      "headline": "MAN UTD STRIKE POCHETTINO AGREEMENT",
+      "subhead": "with Carrick set to depart",
+      "caption": "Man Utd strike Pochettino agreement with Carrick set to depart"
+    },
+    "score": 88.0,
+    "fingerprint": "3b54fd1def3dc366"
+  },
+  "queued_at": "2026-11-12T02:44:43.478990+00:00"
+}
