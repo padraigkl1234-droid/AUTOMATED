@@ -1,0 +1,35 @@
+{
+  "fingerprint": "7bb5042ba3ee7057",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+  "full_caption": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/7bb5042ba3ee7057_story.png",
+  "video_path": "out/7bb5042ba3ee7057_story.mp4",
+  "story": {
+    "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-13T15:28:06+00:00",
+    "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "TEARFUL POCHETTINO ON 'DIFFICULT' DECISION",
+      "subhead": "to leave USA for Man Utd",
+      "caption": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd"
+    },
+    "score": 82.0,
+    "fingerprint": "7bb5042ba3ee7057"
+  },
+  "queued_at": "2026-11-13T19:25:30.947364+00:00"
+}
