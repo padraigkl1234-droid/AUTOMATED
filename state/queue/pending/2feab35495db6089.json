@@ -1,0 +1,32 @@
+{
+  "fingerprint": "2feab35495db6089",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Pochettino bids tearful farewell to USA after Manchester United appointment; Carrick thanks fans: football \u2013 live",
+  "full_caption": "Pochettino bids tearful farewell to USA after Manchester United appointment; Carrick thanks fans: football \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/2feab35495db6089_story.png",
+  "video_path": "out/2feab35495db6089_story.mp4",
+  "story": {
+    "title": "Pochettino bids tearful farewell to USA after Manchester United appointment; Carrick thanks fans: football \u2013 live",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+    "published_at": "2026-11-13T14:55:11+00:00",
+    "summary": "Pochettino is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DavidBarney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day.\u201cAnd as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d\u2019Or itself, wreathed in event glamour and star-flash. Kane drew the ballon from its stone in Arthurian fashion, then held ",
+    "data": {
+      "headline": "POCHETTINO BIDS TEARFUL FAREWELL",
+      "subhead": "to USA after Manchester United appointment; Carrick thanks fans: football \u2013 live",
+      "caption": "Pochettino bids tearful farewell to USA after Manchester United appointment; Carrick thanks fans: football \u2013 live"
+    },
+    "score": 120.0,
+    "fingerprint": "2feab35495db6089"
+  },
+  "queued_at": "2026-11-13T15:00:15.915520+00:00"
+}
