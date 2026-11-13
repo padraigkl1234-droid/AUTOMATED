@@ -1,0 +1,31 @@
+{
+  "fingerprint": "c9b3264620ba2b30",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Scotland 2-1 North Macedonia: Nations League \u2013 live",
+  "full_caption": "Scotland 2-1 North Macedonia: Nations League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday"
+  ],
+  "image_path": "out/c9b3264620ba2b30_story.png",
+  "video_path": "out/c9b3264620ba2b30_story.mp4",
+  "story": {
+    "title": "Scotland 2-1 North Macedonia: Nations League \u2013 live",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
+    "published_at": "2026-11-13T22:05:49+00:00",
+    "summary": "Nations League updates from 7.45pm GMT kick-offLive scores | Follow us on BlueSky | And email Scott3 min: Robertson is into the action quickly. He crosses from the left. The ball\u2019s deflected and sent on a strange arc towards the top-left corner, but Musliu heads away so keeper Dimitrievski doesn\u2019t have to deal with an awkward bounce. Adams was lurking, too.2 min: The Hampden Roar segues into a cha",
+    "data": {
+      "headline": "SCOTLAND 2-1 NORTH MACEDONIA",
+      "subhead": "Nations League \u2013 live",
+      "caption": "Scotland 2-1 North Macedonia: Nations League \u2013 live"
+    },
+    "score": 87.0,
+    "fingerprint": "c9b3264620ba2b30"
+  },
+  "queued_at": "2026-11-13T22:26:39.186960+00:00"
+}
