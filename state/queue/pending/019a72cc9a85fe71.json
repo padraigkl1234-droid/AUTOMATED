@@ -3,7 +3,7 @@
   "slot_id": "night_results",
   "template": "score_card",
   "caption": "Fernandes rejects second Man Utd contract offer",
-  "full_caption": "Fernandes rejects second Man Utd contract offer\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc",
+  "full_caption": "Fernandes rejects second Man Utd contract offer\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
   "hashtags": [
     "#football",
     "#soccer",
@@ -15,18 +15,18 @@
   "story": {
     "title": "Fernandes rejects second Man Utd contract offer",
     "kind": "transfer",
-    "tier": 2,
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/12040/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer",
-    "published_at": "2026-11-12T23:39:00+00:00",
-    "summary": "Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season.",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-13T09:55:01+00:00",
+    "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
     "data": {
       "headline": "FERNANDES REJECTS SECOND MAN UTD",
       "subhead": "contract offer",
       "caption": "Fernandes rejects second Man Utd contract offer"
     },
-    "score": 103.0,
+    "score": 85.0,
     "fingerprint": "019a72cc9a85fe71"
   },
-  "queued_at": "2026-11-13T02:27:47.483756+00:00"
+  "queued_at": "2026-11-14T02:00:28.602257+00:00"
 }
