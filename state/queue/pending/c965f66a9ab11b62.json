@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c965f66a9ab11b62",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Rice close to signing new Arsenal contract",
+  "full_caption": "Rice close to signing new Arsenal contract\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/c965f66a9ab11b62_story.png",
+  "video_path": "out/c965f66a9ab11b62_story.mp4",
+  "story": {
+    "title": "Rice close to signing new Arsenal contract",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-14T20:40:35+00:00",
+    "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
+    "data": {
+      "headline": "RICE CLOSE TO SIGNING NEW",
+      "subhead": "Arsenal contract",
+      "caption": "Rice close to signing new Arsenal contract"
+    },
+    "score": 120.0,
+    "fingerprint": "c965f66a9ab11b62"
+  },
+  "queued_at": "2026-11-14T21:14:23.707917+00:00"
+}
