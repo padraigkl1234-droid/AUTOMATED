@@ -1,0 +1,32 @@
+{
+  "fingerprint": "022f1eade0fe6452",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Raphinha sees red as Brazil stunned by Japan while Argentina\u2019s post-Messi era starts with defeat",
+  "full_caption": "Raphinha sees red as Brazil stunned by Japan while Argentina\u2019s post-Messi era starts with defeat\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #fcbarcelona #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#fcbarcelona",
+    "#inter"
+  ],
+  "image_path": "out/022f1eade0fe6452_story.png",
+  "video_path": "out/022f1eade0fe6452_story.mp4",
+  "story": {
+    "title": "Raphinha sees red as Brazil stunned by Japan while Argentina\u2019s post-Messi era starts with defeat",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+    "published_at": "2026-11-14T13:07:33+00:00",
+    "summary": "Loss in Singapore marred by unruly end to friendlyArgentina beaten 2-1 by Uruguay in Buenos AiresRaphinha was sent off as Brazil crashed to a 3-2 defeat to Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, but was shown a red card after protesting against Tatsuhiro Sakamoto\u2019s stoppage-time winner on the touchline. The Brazil head coach",
+    "data": {
+      "headline": "RAPHINHA SEES RED AS BRAZIL",
+      "subhead": "stunned by Japan while Argentina\u2019s post-Messi era starts with defeat",
+      "caption": "Raphinha sees red as Brazil stunned by Japan while Argentina\u2019s post-Messi era starts with defeat"
+    },
+    "score": 70.0,
+    "fingerprint": "022f1eade0fe6452"
+  },
+  "queued_at": "2026-11-14T17:49:38.647662+00:00"
+}
