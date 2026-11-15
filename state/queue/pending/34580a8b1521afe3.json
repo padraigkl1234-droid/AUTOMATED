@@ -1,0 +1,31 @@
+{
+  "fingerprint": "34580a8b1521afe3",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Arsenal's wait for home WSL win goes on after Earps masterclass",
+  "full_caption": "Arsenal's wait for home WSL win goes on after Earps masterclass\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/34580a8b1521afe3_story.png",
+  "video_path": "out/34580a8b1521afe3_story.mp4",
+  "story": {
+    "title": "Arsenal's wait for home WSL win goes on after Earps masterclass",
+    "kind": "feature",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/report/575818",
+    "published_at": "2026-11-15T18:30:00+00:00",
+    "summary": "Arsenal's wait for a home WSL win continues as they drew 1-1 against London City Lionesses on Sunday - their fifth draw in a row at the Emirates this season - with an inspired Mary Earps denying the Gunners victory.",
+    "data": {
+      "headline": "ARSENAL'S WAIT FOR HOME WSL",
+      "subhead": "win goes on after Earps masterclass",
+      "caption": "Arsenal's wait for home WSL win goes on after Earps masterclass"
+    },
+    "score": 75.0,
+    "fingerprint": "34580a8b1521afe3"
+  },
+  "queued_at": "2026-11-15T18:40:04.744479+00:00"
+}
