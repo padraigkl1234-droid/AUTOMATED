@@ -1,0 +1,33 @@
+{
+  "fingerprint": "e4ef74b49ebe36cd",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Transfer rumors, news: Arsenal eye former Tottenham striker Lankshear",
+  "full_caption": "Transfer rumors, news: Arsenal eye former Tottenham striker Lankshear\n\n\ud83d\udcf0 ESPN\n\n#football #soccer #transfernews #afc #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc",
+    "#thfc"
+  ],
+  "image_path": "out/e4ef74b49ebe36cd_story.png",
+  "video_path": "out/e4ef74b49ebe36cd_story.mp4",
+  "story": {
+    "title": "Transfer rumors, news: Arsenal eye former Tottenham striker Lankshear",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
+    "published_at": "2026-11-15T10:30:45+00:00",
+    "summary": "Arsenal are the latest team to join a long list of admirers following Middlesbrough striker Will Lankshear. Transfer Talk has the latest.",
+    "data": {
+      "headline": "TRANSFER RUMORS, NEWS",
+      "subhead": "Arsenal eye former Tottenham striker Lankshear",
+      "caption": "Transfer rumors, news: Arsenal eye former Tottenham striker Lankshear"
+    },
+    "score": 95.0,
+    "fingerprint": "e4ef74b49ebe36cd"
+  },
+  "queued_at": "2026-11-15T14:26:56.488752+00:00"
+}
