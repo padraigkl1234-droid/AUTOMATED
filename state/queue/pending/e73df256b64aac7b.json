@@ -1,0 +1,34 @@
+{
+  "fingerprint": "e73df256b64aac7b",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+  "full_caption": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #mufc #afc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc",
+    "#afc",
+    "#avfc"
+  ],
+  "image_path": "out/e73df256b64aac7b_story.png",
+  "video_path": "out/e73df256b64aac7b_story.mp4",
+  "story": {
+    "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+    "published_at": "2026-11-15T18:53:08+00:00",
+    "summary": "Arsenal\u2019s fifth draw from five home games in the Women\u2019s Super League left them frustrated once again but this was a wholly different story to the previous four, as they played out an entertaining 1-1 draw with a London City Lionesses side inspired by their goalkeeper Mary Earps.Aston Villa, Birmingham, Manchester United and Crystal Palace all came to this stadium for a point, defending resolutely",
+    "data": {
+      "headline": "MARY EARPS FRUSTRATES ARSENAL",
+      "subhead": "as London City Lionesses earn battling draw",
+      "caption": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw"
+    },
+    "score": 100.0,
+    "fingerprint": "e73df256b64aac7b"
+  },
+  "queued_at": "2026-11-15T21:34:26.729497+00:00"
+}
