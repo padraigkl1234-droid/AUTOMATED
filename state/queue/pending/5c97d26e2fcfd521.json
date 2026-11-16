@@ -1,0 +1,31 @@
+{
+  "fingerprint": "5c97d26e2fcfd521",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Swansea in fight to keep Matos amid Strasbourg interest",
+  "full_caption": "Swansea in fight to keep Matos amid Strasbourg interest\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#inter"
+  ],
+  "image_path": "out/5c97d26e2fcfd521_story.png",
+  "video_path": "out/5c97d26e2fcfd521_story.mp4",
+  "story": {
+    "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-16T21:01:50+00:00",
+    "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+    "data": {
+      "headline": "SWANSEA IN FIGHT TO KEEP",
+      "subhead": "Matos amid Strasbourg interest",
+      "caption": "Swansea in fight to keep Matos amid Strasbourg interest"
+    },
+    "score": 77.0,
+    "fingerprint": "5c97d26e2fcfd521"
+  },
+  "queued_at": "2026-11-16T21:49:12.533540+00:00"
+}
