@@ -1,0 +1,32 @@
+{
+  "fingerprint": "546166b954c1043a",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "London City earn point in thrilling draw against Arsenal",
+  "full_caption": "London City earn point in thrilling draw against Arsenal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#afc"
+  ],
+  "image_path": "out/546166b954c1043a_story.png",
+  "video_path": "out/546166b954c1043a_story.mp4",
+  "story": {
+    "title": "London City earn point in thrilling draw against Arsenal",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-15T22:06:41+00:00",
+    "summary": "London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium.",
+    "data": {
+      "headline": "LONDON CITY EARN POINT",
+      "subhead": "in thrilling draw against Arsenal",
+      "caption": "London City earn point in thrilling draw against Arsenal"
+    },
+    "score": 92.0,
+    "fingerprint": "546166b954c1043a"
+  },
+  "queued_at": "2026-11-16T01:37:19.303170+00:00"
+}
