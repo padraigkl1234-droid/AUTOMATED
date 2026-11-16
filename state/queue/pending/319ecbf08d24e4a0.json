@@ -1,0 +1,33 @@
+{
+  "fingerprint": "319ecbf08d24e4a0",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Vinicius says transfer interest affected Real form",
+  "full_caption": "Vinicius says transfer interest affected Real form\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #realmadrid #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#realmadrid",
+    "#inter"
+  ],
+  "image_path": "out/319ecbf08d24e4a0_story.png",
+  "video_path": "out/319ecbf08d24e4a0_story.mp4",
+  "story": {
+    "title": "Vinicius says transfer interest affected Real form",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-16T12:01:16+00:00",
+    "summary": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer.",
+    "data": {
+      "headline": "VINICIUS SAYS TRANSFER INTEREST AFFECTED",
+      "subhead": "Real form",
+      "caption": "Vinicius says transfer interest affected Real form"
+    },
+    "score": 105.0,
+    "fingerprint": "319ecbf08d24e4a0"
+  },
+  "queued_at": "2026-11-16T16:39:02.800344+00:00"
+}
