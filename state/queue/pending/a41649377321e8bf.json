@@ -1,0 +1,32 @@
+{
+  "fingerprint": "a41649377321e8bf",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Sources: Rice agrees in principle to new five-year Arsenal deal",
+  "full_caption": "Sources: Rice agrees in principle to new five-year Arsenal deal\n\n\ud83d\udcf0 ESPN\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/a41649377321e8bf_story.png",
+  "video_path": "out/a41649377321e8bf_story.mp4",
+  "story": {
+    "title": "Sources: Rice agrees in principle to new five-year Arsenal deal",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
+    "published_at": "2026-11-17T00:30:12+00:00",
+    "summary": "Arsenal midfielder Declan Rice has agreed in principle a new five-year deal which will see him extend his time at the club until 2031, sources have told ESPN.",
+    "data": {
+      "headline": "SOURCES: RICE AGREES IN PRINCIPLE",
+      "subhead": "to new five-year Arsenal deal",
+      "caption": "Sources: Rice agrees in principle to new five-year Arsenal deal"
+    },
+    "score": 110.0,
+    "fingerprint": "a41649377321e8bf"
+  },
+  "queued_at": "2026-11-17T00:42:49.793399+00:00"
+}
