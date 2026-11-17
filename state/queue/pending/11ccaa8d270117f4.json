@@ -1,0 +1,32 @@
+{
+  "fingerprint": "11ccaa8d270117f4",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Rice verbally agrees new Arsenal contract",
+  "full_caption": "Rice verbally agrees new Arsenal contract\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/11ccaa8d270117f4_story.png",
+  "video_path": "out/11ccaa8d270117f4_story.mp4",
+  "story": {
+    "title": "Rice verbally agrees new Arsenal contract",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
+    "published_at": "2026-11-16T21:12:00+00:00",
+    "summary": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal,&#160;Sky Sports News&#160;can reveal.&#160;",
+    "data": {
+      "headline": "RICE VERBALLY AGREES NEW ARSENAL",
+      "subhead": "contract",
+      "caption": "Rice verbally agrees new Arsenal contract"
+    },
+    "score": 88.0,
+    "fingerprint": "11ccaa8d270117f4"
+  },
+  "queued_at": "2026-11-17T04:21:33.763297+00:00"
+}
