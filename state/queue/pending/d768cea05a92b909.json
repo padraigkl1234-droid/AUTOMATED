@@ -1,0 +1,32 @@
+{
+  "fingerprint": "d768cea05a92b909",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Hincapie in advanced talks over new Arsenal deal",
+  "full_caption": "Hincapie in advanced talks over new Arsenal deal\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/d768cea05a92b909_story.png",
+  "video_path": "out/d768cea05a92b909_story.mp4",
+  "story": {
+    "title": "Hincapie in advanced talks over new Arsenal deal",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-17T13:09:23+00:00",
+    "summary": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract.",
+    "data": {
+      "headline": "HINCAPIE IN ADVANCED TALKS",
+      "subhead": "over new Arsenal deal",
+      "caption": "Hincapie in advanced talks over new Arsenal deal"
+    },
+    "score": 105.0,
+    "fingerprint": "d768cea05a92b909"
+  },
+  "queued_at": "2026-11-17T16:35:38.991536+00:00"
+}
