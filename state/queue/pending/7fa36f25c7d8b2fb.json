@@ -1,0 +1,33 @@
+{
+  "fingerprint": "7fa36f25c7d8b2fb",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+  "full_caption": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #mufc #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#realmadrid"
+  ],
+  "image_path": "out/7fa36f25c7d8b2fb_story.png",
+  "video_path": "out/7fa36f25c7d8b2fb_story.mp4",
+  "story": {
+    "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
+    "published_at": "2026-11-17T18:29:00+00:00",
+    "summary": "JJ Gabriel has announced he is leaving Manchester United as he looks forward to his \"next chapter\" at Real Madrid.",
+    "data": {
+      "headline": "JJ GABRIEL SAYS GOODBYE",
+      "subhead": "to Man Utd with Real Madrid move close",
+      "caption": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close"
+    },
+    "score": 95.0,
+    "fingerprint": "7fa36f25c7d8b2fb"
+  },
+  "queued_at": "2026-11-17T23:47:34.240095+00:00"
+}
