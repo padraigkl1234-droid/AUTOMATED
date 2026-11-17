@@ -1,0 +1,32 @@
+{
+  "fingerprint": "17103b3d6c9dee2e",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "JJ Gabriel confirms Manchester United exit: \u2018You gave me moments I will always treasure\u2019",
+  "full_caption": "JJ Gabriel confirms Manchester United exit: \u2018You gave me moments I will always treasure\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#realmadrid"
+  ],
+  "image_path": "out/17103b3d6c9dee2e_story.png",
+  "video_path": "out/17103b3d6c9dee2e_story.mp4",
+  "story": {
+    "title": "JJ Gabriel confirms Manchester United exit: \u2018You gave me moments I will always treasure\u2019",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
+    "published_at": "2026-11-17T19:50:48+00:00",
+    "summary": "Teenager says \u2018thank you for everything\u2019 in videoGabriel expected to join Real MadridJJ Gabriel appears to have confirmed his departure from Manchester United by posting a farewell message to the club on social media.The teenager, who has not played a competitive game for the first team, joined as a 10-year-old in 2020 but has been absent from the club since he requested his registration was cance",
+    "data": {
+      "headline": "JJ GABRIEL CONFIRMS MANCHESTER UNITED EXIT",
+      "subhead": "\u2018You gave me moments I will always treasure\u2019",
+      "caption": "JJ Gabriel confirms Manchester United exit: \u2018You gave me moments I will always treasure\u2019"
+    },
+    "score": 85.0,
+    "fingerprint": "17103b3d6c9dee2e"
+  },
+  "queued_at": "2026-11-17T20:40:14.675984+00:00"
+}
