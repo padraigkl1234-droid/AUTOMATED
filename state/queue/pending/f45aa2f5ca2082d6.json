@@ -1,0 +1,34 @@
+{
+  "fingerprint": "f45aa2f5ca2082d6",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing",
+  "full_caption": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #lfc #afc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#afc",
+    "#cfc"
+  ],
+  "image_path": "out/f45aa2f5ca2082d6_story.png",
+  "video_path": "out/f45aa2f5ca2082d6_story.mp4",
+  "story": {
+    "title": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13613285/alex-scott-arsenal-keen-on-chelsea-and-liverpool-target-with-bournemouth-softening-stance-over-potential-sale",
+    "published_at": "2026-11-18T15:00:00+00:00",
+    "summary": "Arsenal are one of three top Premier League clubs interested in signing Bournemouth and England midfielder Alex Scott.",
+    "data": {
+      "headline": "ARSENAL WILLING TO MAKE SALES",
+      "subhead": "to beat Chelsea and Liverpool to Scott signing",
+      "caption": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing"
+    },
+    "score": 103.0,
+    "fingerprint": "f45aa2f5ca2082d6"
+  },
+  "queued_at": "2026-11-18T16:04:23.370459+00:00"
+}
