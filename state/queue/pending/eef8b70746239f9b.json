@@ -1,0 +1,33 @@
+{
+  "fingerprint": "eef8b70746239f9b",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Chelsea snatch late winner vs PSG to move top of WCL table",
+  "full_caption": "Chelsea snatch late winner vs PSG to move top of WCL table\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #cfc #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc",
+    "#psg"
+  ],
+  "image_path": "out/eef8b70746239f9b_story.png",
+  "video_path": "out/eef8b70746239f9b_story.mp4",
+  "story": {
+    "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
+    "published_at": "2026-11-18T22:00:00+00:00",
+    "summary": "Veerle Buurman's late winner snatched a late 1-0 win for Chelsea against Paris Saint-Germain to move them to the top of the Champions League table.",
+    "data": {
+      "headline": "CHELSEA SNATCH LATE WINNER VS",
+      "subhead": "PSG to move top of WCL table",
+      "caption": "Chelsea snatch late winner vs PSG to move top of WCL table"
+    },
+    "score": 95.0,
+    "fingerprint": "eef8b70746239f9b"
+  },
+  "queued_at": "2026-11-18T23:30:13.971024+00:00"
+}
