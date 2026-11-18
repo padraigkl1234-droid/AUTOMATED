@@ -1,0 +1,32 @@
+{
+  "fingerprint": "b1bb8f789187f4a2",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Arsenal close to new deals for Raya, Timber and Hincapie",
+  "full_caption": "Arsenal close to new deals for Raya, Timber and Hincapie\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#afc"
+  ],
+  "image_path": "out/b1bb8f789187f4a2_story.png",
+  "video_path": "out/b1bb8f789187f4a2_story.mp4",
+  "story": {
+    "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
+    "published_at": "2026-11-17T16:23:00+00:00",
+    "summary": "Arsenal are close to finalising new deals with David Raya, Jurrien Timber and Piero Hincapie.",
+    "data": {
+      "headline": "ARSENAL CLOSE TO NEW DEALS",
+      "subhead": "for Raya, Timber and Hincapie",
+      "caption": "Arsenal close to new deals for Raya, Timber and Hincapie"
+    },
+    "score": 88.0,
+    "fingerprint": "b1bb8f789187f4a2"
+  },
+  "queued_at": "2026-11-18T03:22:32.509074+00:00"
+}
