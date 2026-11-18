@@ -1,0 +1,36 @@
+{
+  "fingerprint": "f2f90b3846f89372",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Chelsea v Paris Saint-Germain: Women\u2019s Champions League \u2013 live",
+  "full_caption": "Chelsea v Paris Saint-Germain: Women\u2019s Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc #cfc #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc",
+    "#cfc",
+    "#psg"
+  ],
+  "image_path": "out/f2f90b3846f89372_story.png",
+  "video_path": "out/f2f90b3846f89372_story.mp4",
+  "story": {
+    "title": "Chelsea v Paris Saint-Germain: Women\u2019s Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/18/chelsea-v-paris-saint-germain-psg-womens-champions-league-live-score-updates",
+    "published_at": "2026-11-18T20:09:10+00:00",
+    "summary": "Champions League updates from the 8pm GMT kick-offLive scores | Read Moving the Goalposts | Email SarahI always like to hear from you so get in touch via email, I usually put a call out for snack chat. Let me know what you\u2019re digging into during the game, I myself have some salted popcorn.The earlier kick-offs are now over and Manchester City must be thrilled Bunny Shaw remained at the club as she",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "CHELSEA V PARIS SAINT-GERMAIN",
+      "subhead": "Women\u2019s Champions League \u2013 live",
+      "caption": "Chelsea v Paris Saint-Germain: Women\u2019s Champions League \u2013 live"
+    },
+    "score": 83.0,
+    "fingerprint": "f2f90b3846f89372"
+  },
+  "queued_at": "2026-11-18T20:14:13.521881+00:00"
+}
