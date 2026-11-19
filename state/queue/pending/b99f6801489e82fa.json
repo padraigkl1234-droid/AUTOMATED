@@ -1,0 +1,33 @@
+{
+  "fingerprint": "b99f6801489e82fa",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Bar\u00e7a's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal",
+  "full_caption": "Bar\u00e7a's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal\n\n\ud83d\udcf0 ESPN\n\n#football #soccer #transfernews #lfc #fcbarcelona",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#lfc",
+    "#fcbarcelona"
+  ],
+  "image_path": "out/b99f6801489e82fa_story.png",
+  "video_path": "out/b99f6801489e82fa_story.mp4",
+  "story": {
+    "title": "Bar\u00e7a's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
+    "published_at": "2026-11-19T15:57:24+00:00",
+    "summary": "Barcelona sporting director Deco has said the Spanish champions would welcome the money if Liverpool decide to sign Ronald Ara\u00fajo beyond his loan spell.",
+    "data": {
+      "headline": "BAR\u00c7A'S DECO KEEN FOR LIVERPOOL",
+      "subhead": "to sign on-loan Araujo in $60M permanent deal",
+      "caption": "Bar\u00e7a's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal"
+    },
+    "score": 110.0,
+    "fingerprint": "b99f6801489e82fa"
+  },
+  "queued_at": "2026-11-19T16:16:56.060666+00:00"
+}
