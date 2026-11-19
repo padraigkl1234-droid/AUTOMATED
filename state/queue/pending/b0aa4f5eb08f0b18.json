@@ -1,0 +1,33 @@
+{
+  "fingerprint": "b0aa4f5eb08f0b18",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
+  "full_caption": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #fcbarcelona #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#fcbarcelona",
+    "#inter"
+  ],
+  "image_path": "out/b0aa4f5eb08f0b18_story.png",
+  "video_path": "out/b0aa4f5eb08f0b18_story.mp4",
+  "story": {
+    "title": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+    "published_at": "2026-11-19T18:01:17+00:00",
+    "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insightLionel Messi has closer company at the top of MLS\u2019s list of highest-paid players, thanks to another pair of former Barcelona attackers. The Inter Miami captain is still comfortably the league\u2019s top earner, on a guaranteed compensation of $28.3m. Robert Lewandowski ",
+    "data": {
+      "headline": "SUMMER SIGNINGS JOIN LIONEL MESSI",
+      "subhead": "among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
+      "caption": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release"
+    },
+    "score": 105.0,
+    "fingerprint": "b0aa4f5eb08f0b18"
+  },
+  "queued_at": "2026-11-19T23:27:30.778725+00:00"
+}
