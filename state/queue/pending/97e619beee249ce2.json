@@ -1,0 +1,31 @@
+{
+  "fingerprint": "97e619beee249ce2",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
+  "full_caption": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc"
+  ],
+  "image_path": "out/97e619beee249ce2_story.png",
+  "video_path": "out/97e619beee249ce2_story.mp4",
+  "story": {
+    "title": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+    "published_at": "2026-11-19T20:03:52+00:00",
+    "summary": "\u26bd Champions League updates from the 8pm GMT kick-off\u26bd Live scores | Table | Read Moving the Goalposts | Mail YaraThe referee blows the whistle and we are off! Arsenal in their classic red and white and Lyon in all black with some colourful wavy-patterned trim. Here we go!Meadow Park is in full voice as the teams come out from the tunnel and take to the field. Continue reading...",
+    "data": {
+      "headline": "ARSENAL V OL LYONNES",
+      "subhead": "Women\u2019s Champions League \u2013 live",
+      "caption": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "97e619beee249ce2"
+  },
+  "queued_at": "2026-11-19T20:17:57.569211+00:00"
+}
