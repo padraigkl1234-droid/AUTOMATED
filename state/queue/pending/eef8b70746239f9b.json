@@ -1,7 +1,7 @@
 {
   "fingerprint": "eef8b70746239f9b",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Chelsea snatch late winner vs PSG to move top of WCL table",
   "full_caption": "Chelsea snatch late winner vs PSG to move top of WCL table\n\n\ud83d\udcf0 Sky Sports\n\n#football #soccer #transfernews #cfc #psg",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "PSG to move top of WCL table",
       "caption": "Chelsea snatch late winner vs PSG to move top of WCL table"
     },
-    "score": 95.0,
+    "score": 87.0,
     "fingerprint": "eef8b70746239f9b"
   },
-  "queued_at": "2026-11-18T23:30:13.971024+00:00"
+  "queued_at": "2026-11-19T02:58:18.039363+00:00"
 }
