@@ -1,0 +1,32 @@
+{
+  "fingerprint": "4f5556f284d5351f",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Pochettino the connector: will human touch lift Manchester United?",
+  "full_caption": "Pochettino the connector: will human touch lift Manchester United?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc #psg",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#psg"
+  ],
+  "image_path": "out/4f5556f284d5351f_story.png",
+  "video_path": "out/4f5556f284d5351f_story.mp4",
+  "story": {
+    "title": "Pochettino the connector: will human touch lift Manchester United?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+    "published_at": "2026-11-20T19:00:37+00:00",
+    "summary": "Argentinian has excelled in man-management \u2013 but will need his powers to energise new squad and impress ownersMauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capitals have but only Paris truly does. Pochettino\u2019s family and friends were there. So were his inner coach",
+    "data": {
+      "headline": "POCHETTINO THE CONNECTOR",
+      "subhead": "will human touch lift Manchester United?",
+      "caption": "Pochettino the connector: will human touch lift Manchester United?"
+    },
+    "score": 85.0,
+    "fingerprint": "4f5556f284d5351f"
+  },
+  "queued_at": "2026-11-20T19:49:21.414865+00:00"
+}
