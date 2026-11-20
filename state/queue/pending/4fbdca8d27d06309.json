@@ -1,0 +1,32 @@
+{
+  "fingerprint": "4fbdca8d27d06309",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Veteran GK Courtois extends Real Madrid contract to 2028",
+  "full_caption": "Veteran GK Courtois extends Real Madrid contract to 2028\n\n\ud83d\udcf0 ESPN\n\n#football #soccer #transfernews #realmadrid",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#realmadrid"
+  ],
+  "image_path": "out/4fbdca8d27d06309_story.png",
+  "video_path": "out/4fbdca8d27d06309_story.mp4",
+  "story": {
+    "title": "Veteran GK Courtois extends Real Madrid contract to 2028",
+    "kind": "transfer",
+    "tier": 2,
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50540208/gk-courtois-extends-real-madrid-contract-2028",
+    "published_at": "2026-11-20T15:25:30+00:00",
+    "summary": "Goalkeeper Thibaut Courtois has signed a new contract at Real Madrid until 2028.",
+    "data": {
+      "headline": "VETERAN GK COURTOIS EXTENDS REAL",
+      "subhead": "Madrid contract to 2028",
+      "caption": "Veteran GK Courtois extends Real Madrid contract to 2028"
+    },
+    "score": 110.0,
+    "fingerprint": "4fbdca8d27d06309"
+  },
+  "queued_at": "2026-11-20T15:51:41.502415+00:00"
+}
