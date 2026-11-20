@@ -1,0 +1,32 @@
+{
+  "fingerprint": "15995e91ee5bdf94",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Harry Kane \u2018out for next few months\u2019 after ankle ligament injury in Bayern Munich draw",
+  "full_caption": "Harry Kane \u2018out for next few months\u2019 after ankle ligament injury in Bayern Munich draw\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #matchday #fcbayern",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#fcbayern"
+  ],
+  "image_path": "out/15995e91ee5bdf94_story.png",
+  "video_path": "out/15995e91ee5bdf94_story.mp4",
+  "story": {
+    "title": "Harry Kane \u2018out for next few months\u2019 after ankle ligament injury in Bayern Munich draw",
+    "kind": "result",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+    "published_at": "2026-11-20T22:43:40+00:00",
+    "summary": "England forward limped off early in 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage sustained in their 1-1 draw with Cologne on Friday.Kane was substituted after 20 minutes of the Bundesliga game, having been left limping after a challenge from the Cologne defender ",
+    "data": {
+      "headline": "HARRY KANE \u2018OUT FOR NEXT",
+      "subhead": "few months\u2019 after ankle ligament injury in Bayern Munich draw",
+      "caption": "Harry Kane \u2018out for next few months\u2019 after ankle ligament injury in Bayern Munich draw"
+    },
+    "score": 99.0,
+    "fingerprint": "15995e91ee5bdf94"
+  },
+  "queued_at": "2026-11-20T23:00:15.752562+00:00"
+}
