@@ -1,7 +1,7 @@
 {
   "fingerprint": "b0aa4f5eb08f0b18",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
   "full_caption": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #fcbarcelona #inter",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
       "caption": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release"
     },
-    "score": 105.0,
+    "score": 98.0,
     "fingerprint": "b0aa4f5eb08f0b18"
   },
-  "queued_at": "2026-11-19T23:27:30.778725+00:00"
+  "queued_at": "2026-11-20T02:53:32.715334+00:00"
 }
