@@ -1,0 +1,34 @@
+{
+  "fingerprint": "8b40b03d6966381e",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+  "full_caption": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #lfc #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc",
+    "#lfc",
+    "#cfc"
+  ],
+  "image_path": "out/8b40b03d6966381e_story.png",
+  "video_path": "out/8b40b03d6966381e_story.mp4",
+  "story": {
+    "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+    "published_at": "2026-11-21T20:54:39+00:00",
+    "summary": "Keating\u2019s resilience keeps Chelsea at bay in 0-0 drawVan de Donk and Putellas score twice to sink Palace 6-2Khiara Keating\u2019s resilient performance in goal denied Chelsea, the Women\u2019s Super League leaders, and earned Liverpool a point, while London City Lionesses moved to within four points of the top by beating Crystal Palace 6-2.After hard-fought 1-0 wins against Manchester City last Saturday and",
+    "data": {
+      "headline": "WSL ROUNDUP",
+      "subhead": "Chelsea thwarted by Liverpool keeper, London City move to third",
+      "caption": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third"
+    },
+    "score": 113.0,
+    "fingerprint": "8b40b03d6966381e"
+  },
+  "queued_at": "2026-11-21T22:05:37.377855+00:00"
+}
