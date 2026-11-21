@@ -1,0 +1,32 @@
+{
+  "fingerprint": "23d6fdeb784d1356",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "The Chelsea loanee turning heads and Championship defenders at 17",
+  "full_caption": "The Chelsea loanee turning heads and Championship defenders at 17\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #cfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#cfc"
+  ],
+  "image_path": "out/23d6fdeb784d1356_story.png",
+  "video_path": "out/23d6fdeb784d1356_story.mp4",
+  "story": {
+    "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-21T08:05:46+00:00",
+    "summary": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
+    "data": {
+      "headline": "THE CHELSEA LOANEE TURNING HEADS",
+      "subhead": "and Championship defenders at 17",
+      "caption": "The Chelsea loanee turning heads and Championship defenders at 17"
+    },
+    "score": 90.0,
+    "fingerprint": "23d6fdeb784d1356"
+  },
+  "queued_at": "2026-11-21T15:00:41.239193+00:00"
+}
