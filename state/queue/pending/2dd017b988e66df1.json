@@ -1,0 +1,32 @@
+{
+  "fingerprint": "2dd017b988e66df1",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Newcastle United v Arsenal: Premier League \u2013 live",
+  "full_caption": "Newcastle United v Arsenal: Premier League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#nufc"
+  ],
+  "image_path": "out/2dd017b988e66df1_story.png",
+  "video_path": "out/2dd017b988e66df1_story.mp4",
+  "story": {
+    "title": "Newcastle United v Arsenal: Premier League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+    "published_at": "2026-11-21T18:40:06+00:00",
+    "summary": "\u26bd\ufe0f Premier League updates from the 5.30pm GMT kick-off\u26bd\ufe0f Live scores | Latest table | Follow us on TikTok | Mail Rob\u201cThere is an ebb and a flow to Arsenal\u2019s front three, isn\u2019t there?\u201d writes Charles Antaki. \u201cEze, Havertz, Madueke \u2013 in any given game, one will delight and the other two disappoint; one will score and the other two will be all over the place; one will bring joy, and the other two wil",
+    "data": {
+      "headline": "NEWCASTLE UNITED V ARSENAL",
+      "subhead": "Premier League \u2013 live",
+      "caption": "Newcastle United v Arsenal: Premier League \u2013 live"
+    },
+    "score": 85.0,
+    "fingerprint": "2dd017b988e66df1"
+  },
+  "queued_at": "2026-11-21T18:55:10.561510+00:00"
+}
