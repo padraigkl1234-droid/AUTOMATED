@@ -1,0 +1,32 @@
+{
+  "fingerprint": "ea9decd83b11098f",
+  "slot_id": "night_results",
+  "template": "score_card",
+  "caption": "Training hard and biding his time, Dele Alli has not given up on football yet",
+  "full_caption": "Training hard and biding his time, Dele Alli has not given up on football yet\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/ea9decd83b11098f_story.png",
+  "video_path": "out/ea9decd83b11098f_story.mp4",
+  "story": {
+    "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+    "published_at": "2026-11-20T19:00:37+00:00",
+    "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a playerConsider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he takes exception to suggestions he has given up on football in favour of becoming an internet personality.He trains five or six days a week with Connor Peters, an elite performance ",
+    "data": {
+      "headline": "TRAINING HARD AND BIDING HIS",
+      "subhead": "time, Dele Alli has not given up on football yet",
+      "caption": "Training hard and biding his time, Dele Alli has not given up on football yet"
+    },
+    "score": 90.0,
+    "fingerprint": "ea9decd83b11098f"
+  },
+  "queued_at": "2026-11-21T03:00:17.315800+00:00"
+}
