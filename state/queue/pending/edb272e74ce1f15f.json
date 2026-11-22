@@ -1,0 +1,33 @@
+{
+  "fingerprint": "edb272e74ce1f15f",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+  "full_caption": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#lfc"
+  ],
+  "image_path": "out/edb272e74ce1f15f_story.png",
+  "video_path": "out/edb272e74ce1f15f_story.mp4",
+  "story": {
+    "title": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+    "published_at": "2026-11-22T20:58:35+00:00",
+    "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpitChaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three\u2011ring circus that is Manchester United, Mauricio Pochettino.This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have foll",
+    "data": {
+      "headline": "POCHETTINO\u2019S NEW-MANAGER BOUNCE FALLS FLAT",
+      "subhead": "with De Ligt move a disastrous step | Jamie Jackson",
+      "caption": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson"
+    },
+    "score": 113.0,
+    "fingerprint": "edb272e74ce1f15f"
+  },
+  "queued_at": "2026-11-22T22:21:43.022497+00:00"
+}
