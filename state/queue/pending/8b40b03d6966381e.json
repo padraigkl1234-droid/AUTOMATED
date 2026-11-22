@@ -1,7 +1,7 @@
 {
   "fingerprint": "8b40b03d6966381e",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
   "full_caption": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mcfc #lfc #cfc",
   "hashtags": [
@@ -27,8 +27,8 @@
       "subhead": "Chelsea thwarted by Liverpool keeper, London City move to third",
       "caption": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third"
     },
-    "score": 113.0,
+    "score": 105.0,
     "fingerprint": "8b40b03d6966381e"
   },
-  "queued_at": "2026-11-21T22:05:37.377855+00:00"
+  "queued_at": "2026-11-22T01:57:00.535295+00:00"
 }
