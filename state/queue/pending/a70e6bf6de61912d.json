@@ -1,0 +1,36 @@
+{
+  "fingerprint": "a70e6bf6de61912d",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+  "full_caption": "'Not the right time' - Fernandes pauses Man Utd contract talks\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/a70e6bf6de61912d_story.png",
+  "video_path": "out/a70e6bf6de61912d_story.mp4",
+  "story": {
+    "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-22T08:41:20+00:00",
+    "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "ESPN"
+      ],
+      "headline": "'NOT THE RIGHT TIME'",
+      "subhead": "Fernandes pauses Man Utd contract talks",
+      "caption": "'Not the right time' - Fernandes pauses Man Utd contract talks"
+    },
+    "score": 110.0,
+    "fingerprint": "a70e6bf6de61912d"
+  },
+  "queued_at": "2026-11-22T14:59:09.326170+00:00"
+}
