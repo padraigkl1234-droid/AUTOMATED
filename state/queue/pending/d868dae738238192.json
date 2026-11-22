@@ -1,0 +1,35 @@
+{
+  "fingerprint": "d868dae738238192",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+  "full_caption": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc #lfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc",
+    "#lfc"
+  ],
+  "image_path": "out/d868dae738238192_story.png",
+  "video_path": "out/d868dae738238192_story.mp4",
+  "story": {
+    "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-22T18:28:51+00:00",
+    "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
+    "data": {
+      "corroborations": [
+        "The Guardian"
+      ],
+      "headline": "YORO SEES RED AS NGUMOHA SHINES",
+      "subhead": "Liverpool v Man Utd player ratings",
+      "caption": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings"
+    },
+    "score": 91.0,
+    "fingerprint": "d868dae738238192"
+  },
+  "queued_at": "2026-11-22T19:15:42.336004+00:00"
+}
