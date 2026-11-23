@@ -1,0 +1,32 @@
+{
+  "fingerprint": "6215c33b36ed8757",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+  "full_caption": "Bruno Fernandes reveals talks over new Manchester United contract are on hold\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/6215c33b36ed8757_story.png",
+  "video_path": "out/6215c33b36ed8757_story.mp4",
+  "story": {
+    "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+    "published_at": "2026-11-22T11:33:54+00:00",
+    "summary": "Club captain confirms he has been offered a new deal\u2018Not the right moment to be talking about negotiations\u2019Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been \u2060put on hold as the club focus on turning around their terrible start to the season.Fernandes\u2019s current deal expires at the end of this campaign, although United \u2060hold an \u200boption to ",
+    "data": {
+      "headline": "BRUNO FERNANDES REVEALS TALKS",
+      "subhead": "over new Manchester United contract are on hold",
+      "caption": "Bruno Fernandes reveals talks over new Manchester United contract are on hold"
+    },
+    "score": 85.0,
+    "fingerprint": "6215c33b36ed8757"
+  },
+  "queued_at": "2026-11-23T18:52:52.792791+00:00"
+}
