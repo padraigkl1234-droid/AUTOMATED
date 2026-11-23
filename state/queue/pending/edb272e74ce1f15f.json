@@ -1,7 +1,7 @@
 {
   "fingerprint": "edb272e74ce1f15f",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
   "full_caption": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc #lfc",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "with De Ligt move a disastrous step | Jamie Jackson",
       "caption": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson"
     },
-    "score": 113.0,
+    "score": 105.0,
     "fingerprint": "edb272e74ce1f15f"
   },
-  "queued_at": "2026-11-22T22:21:43.022497+00:00"
+  "queued_at": "2026-11-23T02:21:15.596101+00:00"
 }
