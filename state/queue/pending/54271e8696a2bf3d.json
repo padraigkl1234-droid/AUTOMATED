@@ -1,0 +1,35 @@
+{
+  "fingerprint": "54271e8696a2bf3d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "David Raya\u2019s shoulder injury \u2018not too serious\u2019 and no surgery needed for Arsenal goalkeeper",
+  "full_caption": "David Raya\u2019s shoulder injury \u2018not too serious\u2019 and no surgery needed for Arsenal goalkeeper\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #afc #nufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#afc",
+    "#nufc"
+  ],
+  "image_path": "out/54271e8696a2bf3d_story.png",
+  "video_path": "out/54271e8696a2bf3d_story.mp4",
+  "story": {
+    "title": "David Raya\u2019s shoulder injury \u2018not too serious\u2019 and no surgery needed for Arsenal goalkeeper",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
+    "published_at": "2026-11-23T15:13:56+00:00",
+    "summary": "No 1 to miss Dortmund game but could return for City clash\u2018We were worried \u2026 he\u2019s better than expected,\u2019 says managerMikel Arteta is hopeful the \u00adshoulder injury David Raya sustained at Newcastle is not too serious, but confirmed the goalkeeper would miss Tuesday\u2019s Champions League game against Borussia Dortmund.Raya was forced off in the \u00adsecond half of Saturday\u2019s 2-2 draw with a \u00adsuspected dislo",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "DAVID RAYA\u2019S SHOULDER INJURY \u2018NOT",
+      "subhead": "too serious\u2019 and no surgery needed for Arsenal goalkeeper",
+      "caption": "David Raya\u2019s shoulder injury \u2018not too serious\u2019 and no surgery needed for Arsenal goalkeeper"
+    },
+    "score": 69.0,
+    "fingerprint": "54271e8696a2bf3d"
+  },
+  "queued_at": "2026-11-23T23:38:46.265145+00:00"
+}
