@@ -1,0 +1,31 @@
+{
+  "fingerprint": "805bfe6abdf5bde8",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Pochettino criticises Premier League officiating after Yoro red card overturned",
+  "full_caption": "Pochettino criticises Premier League officiating after Yoro red card overturned\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/805bfe6abdf5bde8_story.png",
+  "video_path": "out/805bfe6abdf5bde8_story.mp4",
+  "story": {
+    "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+    "published_at": "2026-11-24T21:51:31+00:00",
+    "summary": "Manchester United defender wrongly sent off in 4-0 loss\u2018If we have VAR, what were they doing?\u2019 asks head coachMauricio Pochettino has criticised officiating in English football, saying: \u201cWe have an unbelievable car, but we need to be in the level to drive [it],\u201d after Leny Yoro\u2019s Anfield red card was overturned on Tuesday.Despite the Football Association ruling the Frenchman\u2019s early sending-off in",
+    "data": {
+      "headline": "POCHETTINO CRITICISES PREMIER LEAGUE OFFICIATING",
+      "subhead": "after Yoro red card overturned",
+      "caption": "Pochettino criticises Premier League officiating after Yoro red card overturned"
+    },
+    "score": 85.0,
+    "fingerprint": "805bfe6abdf5bde8"
+  },
+  "queued_at": "2026-11-24T22:09:11.924851+00:00"
+}
