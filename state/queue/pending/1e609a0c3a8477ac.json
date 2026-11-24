@@ -1,0 +1,31 @@
+{
+  "fingerprint": "1e609a0c3a8477ac",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "FA chief signs NDA to view Fifa sell-off plot documents",
+  "full_caption": "FA chief signs NDA to view Fifa sell-off plot documents\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews"
+  ],
+  "image_path": "out/1e609a0c3a8477ac_story.png",
+  "video_path": "out/1e609a0c3a8477ac_story.mp4",
+  "story": {
+    "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-24T16:34:18+00:00",
+    "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+    "data": {
+      "headline": "FA CHIEF SIGNS NDA",
+      "subhead": "to view Fifa sell-off plot documents",
+      "caption": "FA chief signs NDA to view Fifa sell-off plot documents"
+    },
+    "score": 93.0,
+    "fingerprint": "1e609a0c3a8477ac"
+  },
+  "queued_at": "2026-11-24T18:29:29.005605+00:00"
+}
