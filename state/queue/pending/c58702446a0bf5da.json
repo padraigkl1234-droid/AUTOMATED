@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c58702446a0bf5da",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "De Bruyne's feelings for Man City will 'never change'",
+  "full_caption": "De Bruyne's feelings for Man City will 'never change'\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mcfc"
+  ],
+  "image_path": "out/c58702446a0bf5da_story.png",
+  "video_path": "out/c58702446a0bf5da_story.mp4",
+  "story": {
+    "title": "De Bruyne's feelings for Man City will 'never change'",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-23T21:05:23+00:00",
+    "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
+    "data": {
+      "headline": "DE BRUYNE'S FEELINGS FOR MAN",
+      "subhead": "City will 'never change'",
+      "caption": "De Bruyne's feelings for Man City will 'never change'"
+    },
+    "score": 90.0,
+    "fingerprint": "c58702446a0bf5da"
+  },
+  "queued_at": "2026-11-24T03:12:15.167513+00:00"
+}
