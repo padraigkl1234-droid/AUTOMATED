@@ -1,7 +1,7 @@
 {
   "fingerprint": "c58702446a0bf5da",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "De Bruyne's feelings for Man City will 'never change'",
   "full_caption": "De Bruyne's feelings for Man City will 'never change'\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mcfc",
   "hashtags": [
@@ -28,5 +28,5 @@
     "score": 90.0,
     "fingerprint": "c58702446a0bf5da"
   },
-  "queued_at": "2026-11-24T03:12:15.167513+00:00"
+  "queued_at": "2026-11-24T05:46:22.199894+00:00"
 }
