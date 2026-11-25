@@ -1,0 +1,33 @@
+{
+  "fingerprint": "f258d51ff3b232d3",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher",
+  "full_caption": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc #avfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#avfc"
+  ],
+  "image_path": "out/f258d51ff3b232d3_story.png",
+  "video_path": "out/f258d51ff3b232d3_story.mp4",
+  "story": {
+    "title": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
+    "published_at": "2026-11-25T17:00:31+00:00",
+    "summary": "Unai Emery wanted the winger but, like Harvey Elliott last season, he has been left out in the cold despite Villa\u2019s attacking strugglesIt is three years this week since Alejandro Garnacho opened the scoring for Manchester United in a 3-3 draw at Galatasaray in the Champions League, on a typically boisterous night in Istanbul when Victor Lindel\u00f6f and Aaron Wan-Bissaka, now his teammates at Aston Vi",
+    "data": {
+      "headline": "ALEJANDRO GARNACHO AND THE CURIOUS",
+      "subhead": "case of Aston Villa\u2019s outcast loanees | Ben Fisher",
+      "caption": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher"
+    },
+    "score": 120.0,
+    "fingerprint": "f258d51ff3b232d3"
+  },
+  "queued_at": "2026-11-25T17:43:06.820130+00:00"
+}
