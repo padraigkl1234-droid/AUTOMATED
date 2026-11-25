@@ -1,7 +1,7 @@
 {
   "fingerprint": "f59310e0a4770fce",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Oxford beat Spurs U21s to seal EFL Trophy progress",
   "full_caption": "Oxford beat Spurs U21s to seal EFL Trophy progress\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #thfc",
   "hashtags": [
@@ -25,8 +25,8 @@
       "subhead": "to seal EFL Trophy progress",
       "caption": "Oxford beat Spurs U21s to seal EFL Trophy progress"
     },
-    "score": 84.0,
+    "score": 77.0,
     "fingerprint": "f59310e0a4770fce"
   },
-  "queued_at": "2026-11-25T01:17:52.820086+00:00"
+  "queued_at": "2026-11-25T04:48:26.843017+00:00"
 }
