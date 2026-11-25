@@ -1,0 +1,34 @@
+{
+  "fingerprint": "fa0f0135985a30a2",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Sporting v Manchester United: Champions League \u2013 live",
+  "full_caption": "Sporting v Manchester United: Champions League \u2013 live\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/fa0f0135985a30a2_story.png",
+  "video_path": "out/fa0f0135985a30a2_story.mp4",
+  "story": {
+    "title": "Sporting v Manchester United: Champions League \u2013 live",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+    "published_at": "2026-11-25T20:51:56+00:00",
+    "summary": "\u26bd\ufe0f Match at Est\u00e1dio Jos\u00e9 Alvalade kicks off at 8pm GMT\u26bd\ufe0f Live scoreboard | Read Football Daily | Email RobIn which Poch gets the Squires treatment\u201cTrying to calm my nerves enough to come out from behind the sofa by rewatching Bob and Paul fishing,\u201d writes Bruce Jackson. \u201cObviously still following your MBM, Rob!\u201d Continue reading...",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "SPORTING V MANCHESTER UNITED",
+      "subhead": "Champions League \u2013 live",
+      "caption": "Sporting v Manchester United: Champions League \u2013 live"
+    },
+    "score": 91.0,
+    "fingerprint": "fa0f0135985a30a2"
+  },
+  "queued_at": "2026-11-25T21:25:35.380992+00:00"
+}
