@@ -1,0 +1,32 @@
+{
+  "fingerprint": "f59310e0a4770fce",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Oxford beat Spurs U21s to seal EFL Trophy progress",
+  "full_caption": "Oxford beat Spurs U21s to seal EFL Trophy progress\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #thfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#thfc"
+  ],
+  "image_path": "out/f59310e0a4770fce_story.png",
+  "video_path": "out/f59310e0a4770fce_story.mp4",
+  "story": {
+    "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-24T21:08:09+00:00",
+    "summary": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
+    "data": {
+      "headline": "OXFORD BEAT SPURS U21S",
+      "subhead": "to seal EFL Trophy progress",
+      "caption": "Oxford beat Spurs U21s to seal EFL Trophy progress"
+    },
+    "score": 84.0,
+    "fingerprint": "f59310e0a4770fce"
+  },
+  "queued_at": "2026-11-25T01:17:52.820086+00:00"
+}
