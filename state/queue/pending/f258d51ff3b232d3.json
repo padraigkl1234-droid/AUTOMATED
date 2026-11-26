@@ -1,7 +1,7 @@
 {
   "fingerprint": "f258d51ff3b232d3",
-  "slot_id": "night_results",
-  "template": "score_card",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
   "caption": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher",
   "full_caption": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc #avfc",
   "hashtags": [
@@ -26,8 +26,8 @@
       "subhead": "case of Aston Villa\u2019s outcast loanees | Ben Fisher",
       "caption": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher"
     },
-    "score": 98.0,
+    "score": 85.0,
     "fingerprint": "f258d51ff3b232d3"
   },
-  "queued_at": "2026-11-26T03:59:29.728435+00:00"
+  "queued_at": "2026-11-26T17:27:49.119851+00:00"
 }
