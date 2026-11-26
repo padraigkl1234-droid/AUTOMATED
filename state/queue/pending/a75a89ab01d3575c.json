@@ -1,0 +1,31 @@
+{
+  "fingerprint": "a75a89ab01d3575c",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "\u00c9ric Cantona: \u2018If I regret something about the kung fu kick, it\u2019s that I would love to kick him in another place\u2019",
+  "full_caption": "\u00c9ric Cantona: \u2018If I regret something about the kung fu kick, it\u2019s that I would love to kick him in another place\u2019\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/a75a89ab01d3575c_story.png",
+  "video_path": "out/a75a89ab01d3575c_story.mp4",
+  "story": {
+    "title": "\u00c9ric Cantona: \u2018If I regret something about the kung fu kick, it\u2019s that I would love to kick him in another place\u2019",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
+    "published_at": "2026-11-26T20:00:44+00:00",
+    "summary": "Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts\u201cI\u2019m an angel and a demon,\u201d \u00c9ric Cantona says intently during a gripping new documentary about his life on and off the football pitch. \u201cAnd an angel or a demon, you love him or you hate him. I\u2019m far from being the person with the greatest integrity",
+    "data": {
+      "headline": "\u00c9RIC CANTONA",
+      "subhead": "\u2018If I regret something about the kung fu kick, it\u2019s that I",
+      "caption": "\u00c9ric Cantona: \u2018If I regret something about the kung fu kick, it\u2019s that I would love to kick him in another place\u2019"
+    },
+    "score": 78.0,
+    "fingerprint": "a75a89ab01d3575c"
+  },
+  "queued_at": "2026-11-26T21:11:48.956206+00:00"
+}
