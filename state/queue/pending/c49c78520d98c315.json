@@ -1,0 +1,32 @@
+{
+  "fingerprint": "c49c78520d98c315",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+  "full_caption": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #matchday #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#matchday",
+    "#mufc"
+  ],
+  "image_path": "out/c49c78520d98c315_story.png",
+  "video_path": "out/c49c78520d98c315_story.mp4",
+  "story": {
+    "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+    "kind": "result",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-26T00:22:28+00:00",
+    "summary": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon.",
+    "data": {
+      "headline": "DIVOTS, HOWLERS AND BAD DECISIONS",
+      "subhead": "dissecting Man Utd's draw in Lisbon",
+      "caption": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon"
+    },
+    "score": 107.0,
+    "fingerprint": "c49c78520d98c315"
+  },
+  "queued_at": "2026-11-26T00:52:24.767930+00:00"
+}
