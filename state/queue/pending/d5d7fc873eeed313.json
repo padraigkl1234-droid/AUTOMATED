@@ -1,0 +1,36 @@
+{
+  "fingerprint": "d5d7fc873eeed313",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Man Utd trigger Fernandes' one-year contract extension",
+  "full_caption": "Man Utd trigger Fernandes' one-year contract extension\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/d5d7fc873eeed313_story.png",
+  "video_path": "out/d5d7fc873eeed313_story.mp4",
+  "story": {
+    "title": "Man Utd trigger Fernandes' one-year contract extension",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-27T15:08:41+00:00",
+    "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+    "data": {
+      "corroborations": [
+        "The Guardian",
+        "Sky Sports"
+      ],
+      "headline": "MAN UTD TRIGGER FERNANDES' ONE-YEAR",
+      "subhead": "contract extension",
+      "caption": "Man Utd trigger Fernandes' one-year contract extension"
+    },
+    "score": 125.0,
+    "fingerprint": "d5d7fc873eeed313"
+  },
+  "queued_at": "2026-11-27T17:05:29.743024+00:00"
+}
