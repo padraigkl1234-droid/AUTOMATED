@@ -1,7 +1,7 @@
 {
   "fingerprint": "53a1fdebf8687193",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Calvert-Lewin signs new Leeds deal until 2029",
   "full_caption": "Calvert-Lewin signs new Leeds deal until 2029\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #inter",
   "hashtags": [
@@ -31,5 +31,5 @@
     "score": 96.0,
     "fingerprint": "53a1fdebf8687193"
   },
-  "queued_at": "2026-11-27T00:58:31.100504+00:00"
+  "queued_at": "2026-11-27T03:58:11.422616+00:00"
 }
