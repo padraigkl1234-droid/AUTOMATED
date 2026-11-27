@@ -1,0 +1,31 @@
+{
+  "fingerprint": "f6e0b5fd94c8200d",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
+  "full_caption": "Why have things started to go wrong for Manchester City under Enzo Maresca?\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #mcfc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mcfc"
+  ],
+  "image_path": "out/f6e0b5fd94c8200d_story.png",
+  "video_path": "out/f6e0b5fd94c8200d_story.mp4",
+  "story": {
+    "title": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
+    "kind": "feature",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/27/why-things-started-go-wrong-manchester-city-under-enzo-maresca",
+    "published_at": "2026-11-27T20:00:19+00:00",
+    "summary": "A sensational start for the Italian was swiftly followed by a dismal run and long faces in the teamThis is the great known unknown in Manchester City\u2019s run of one win \u2013 in addition to victory on penalties against Brighton in the Carabao Cup \u2013 in seven matches. After guilty verdicts were returned regarding the breaking of Premier League financial rules, Enzo Maresca\u2019s team went to Anfield and hande",
+    "data": {
+      "headline": "WHY HAVE THINGS STARTED",
+      "subhead": "to go wrong for Manchester City under Enzo Maresca?",
+      "caption": "Why have things started to go wrong for Manchester City under Enzo Maresca?"
+    },
+    "score": 77.0,
+    "fingerprint": "f6e0b5fd94c8200d"
+  },
+  "queued_at": "2026-11-27T20:55:11.917463+00:00"
+}
