@@ -1,0 +1,35 @@
+{
+  "fingerprint": "53a1fdebf8687193",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Calvert-Lewin signs new Leeds deal until 2029",
+  "full_caption": "Calvert-Lewin signs new Leeds deal until 2029\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #inter",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#inter"
+  ],
+  "image_path": "out/53a1fdebf8687193_story.png",
+  "video_path": "out/53a1fdebf8687193_story.mp4",
+  "story": {
+    "title": "Calvert-Lewin signs new Leeds deal until 2029",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-26T18:00:31+00:00",
+    "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+    "data": {
+      "corroborations": [
+        "Sky Sports"
+      ],
+      "headline": "CALVERT-LEWIN SIGNS NEW LEEDS DEAL",
+      "subhead": "until 2029",
+      "caption": "Calvert-Lewin signs new Leeds deal until 2029"
+    },
+    "score": 96.0,
+    "fingerprint": "53a1fdebf8687193"
+  },
+  "queued_at": "2026-11-27T00:58:31.100504+00:00"
+}
