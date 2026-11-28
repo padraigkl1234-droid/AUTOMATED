@@ -1,0 +1,35 @@
+{
+  "fingerprint": "1cc8f21328f5ecd0",
+  "slot_id": "morning_roundup",
+  "template": "transfer_card",
+  "caption": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+  "full_caption": "Manchester United extend Fernandes contract until 2028 to stop free transfer\n\n\ud83d\udcf0 The Guardian\n\n#football #soccer #transfernews #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc"
+  ],
+  "image_path": "out/1cc8f21328f5ecd0_story.png",
+  "video_path": "out/1cc8f21328f5ecd0_story.mp4",
+  "story": {
+    "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
+    "published_at": "2026-11-27T15:29:41+00:00",
+    "summary": "Club activate option and plan further talks with captain\u2018I am not nice,\u2019 says Pochettino as he targets improvementManchester United have triggered a clause to extend the captain Bruno Fernandes\u2019 contract until the summer of 2028 on a day when Mauricio Pochettino warned his players they should not expect him to be \u201cnice\u201d in his attempts to turn around the club\u2019s fortunes.Fernandes\u2019 deal was due to ",
+    "data": {
+      "corroborations": [
+        "BBC Sport"
+      ],
+      "headline": "MANCHESTER UNITED EXTEND FERNANDES CONTRACT",
+      "subhead": "until 2028 to stop free transfer",
+      "caption": "Manchester United extend Fernandes contract until 2028 to stop free transfer"
+    },
+    "score": 91.0,
+    "fingerprint": "1cc8f21328f5ecd0"
+  },
+  "queued_at": "2026-11-28T15:54:48.876779+00:00"
+}
