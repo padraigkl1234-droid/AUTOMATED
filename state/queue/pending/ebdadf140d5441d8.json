@@ -1,0 +1,34 @@
+{
+  "fingerprint": "ebdadf140d5441d8",
+  "slot_id": "evening_news",
+  "template": "transfer_card",
+  "caption": "Champions League to be a factor in Paz move - Saturday's gossip",
+  "full_caption": "Champions League to be a factor in Paz move - Saturday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #lfc #afc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#transfernews",
+    "#mufc",
+    "#lfc",
+    "#afc"
+  ],
+  "image_path": "out/ebdadf140d5441d8_story.png",
+  "video_path": "out/ebdadf140d5441d8_story.mp4",
+  "story": {
+    "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+    "kind": "transfer",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-27T21:19:27+00:00",
+    "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+    "data": {
+      "headline": "CHAMPIONS LEAGUE TO BE",
+      "subhead": "a factor in Paz move - Saturday's gossip",
+      "caption": "Champions League to be a factor in Paz move - Saturday's gossip"
+    },
+    "score": 105.0,
+    "fingerprint": "ebdadf140d5441d8"
+  },
+  "queued_at": "2026-11-28T00:24:43.079776+00:00"
+}
