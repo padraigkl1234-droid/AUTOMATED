@@ -1,7 +1,7 @@
 {
   "fingerprint": "ebdadf140d5441d8",
-  "slot_id": "evening_news",
-  "template": "transfer_card",
+  "slot_id": "night_results",
+  "template": "score_card",
   "caption": "Champions League to be a factor in Paz move - Saturday's gossip",
   "full_caption": "Champions League to be a factor in Paz move - Saturday's gossip\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #transfernews #mufc #lfc #afc",
   "hashtags": [
@@ -27,8 +27,8 @@
       "subhead": "a factor in Paz move - Saturday's gossip",
       "caption": "Champions League to be a factor in Paz move - Saturday's gossip"
     },
-    "score": 105.0,
+    "score": 98.0,
     "fingerprint": "ebdadf140d5441d8"
   },
-  "queued_at": "2026-11-28T00:24:43.079776+00:00"
+  "queued_at": "2026-11-28T03:45:45.918018+00:00"
 }
