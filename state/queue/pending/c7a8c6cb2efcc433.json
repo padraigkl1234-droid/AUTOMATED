@@ -1,0 +1,31 @@
+{
+  "fingerprint": "c7a8c6cb2efcc433",
+  "slot_id": "midday_talking_point",
+  "template": "quote_card",
+  "caption": "No honeymoon period for Pochettino as Man Utd ship another four goals",
+  "full_caption": "No honeymoon period for Pochettino as Man Utd ship another four goals\n\n\ud83d\udcf0 BBC Sport\n\n#football #soccer #mufc",
+  "hashtags": [
+    "#football",
+    "#soccer",
+    "#mufc"
+  ],
+  "image_path": "out/c7a8c6cb2efcc433_story.png",
+  "video_path": "out/c7a8c6cb2efcc433_story.mp4",
+  "story": {
+    "title": "No honeymoon period for Pochettino as Man Utd ship another four goals",
+    "kind": "feature",
+    "tier": 1,
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq62pz0ew2kno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-28T19:36:59+00:00",
+    "summary": "Mauricio Pochettino has suffered a nightmare start as Manchester United manager, conceding 10 goals in three matches. Is there a way out of this mess for the club?",
+    "data": {
+      "headline": "NO HONEYMOON PERIOD FOR POCHETTINO",
+      "subhead": "as Man Utd ship another four goals",
+      "caption": "No honeymoon period for Pochettino as Man Utd ship another four goals"
+    },
+    "score": 85.0,
+    "fingerprint": "c7a8c6cb2efcc433"
+  },
+  "queued_at": "2026-11-28T19:45:24.095430+00:00"
+}
